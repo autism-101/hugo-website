@@ -24,7 +24,7 @@ The American Psychiatric Association released the fifth edition of its Diagnosti
 
 ##### Problems With Functioning Labels
 
-* Labels Don't Reflect Reality: Austic people's abilities to function constantly change. Everyone has had a bad day where they can barely do anything. Autistic people are no different, and their abilities to function often fluctuate dramatically during a single day.
+* Labels Don't Reflect Reality: Autistic people's abilities to function constantly change. Everyone has had a bad day where they can barely do anything. Autistic people are no different, and their abilities to function often fluctuate dramatically during a single day.
 * Labels Limit Who Gets Accomodations: Unless you are considered "low functioning" then automatically your accomodation needs will get ignored. It assumes "low functioning" people lack intelligence so they get denied opportunities, and "high functioning" people are assumed to be normal and denied support.
 * Labels Are Not Helpful: Slapping a label on someone does not tell you anything useful about their specific needs.
 * Labels Are Often Ableist: Instead of accepting people how they are, people are taught to believe being disabled is bad. So being labeled "high functioning" must be much better than "low functioning".
