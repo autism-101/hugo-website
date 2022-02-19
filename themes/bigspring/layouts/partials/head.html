@@ -89,7 +89,7 @@
 <script>
   var dataLayer = window.dataLayer = window.dataLayer || [];
   dataLayer.push({
-    page: '{{ .Title | default site.Title }}',
+    page: '{{$.Title | default site.Title}}',
     categories: 'only examples about your dataLayer'
   });
 </script>
