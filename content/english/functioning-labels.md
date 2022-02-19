@@ -16,7 +16,7 @@ Kat Williams in her {{< newtabref  href="https://www.ncmh.info/2019/04/04/fallac
 
 > For those labelled high functioning, it can be incredibly difficult to get external support once diagnosed. 
 
-> High functioning’ is not how an autistic person experiences being autistic, it’s how society experiences the autistic person.
+> 'High functioning’ is not how an autistic person experiences being autistic, it’s how society experiences the autistic person.
 
 ##### DSM-V
 
