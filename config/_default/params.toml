@@ -1,0 +1,115 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+logo_white = "images/logo-w.png"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "180px"
+# logo text will only show when logo is missing.
+logo_text = "autism-101"
+
+# OpenGraph / Twitter Card metadata
+description = "Autism-101 - Resources for newly diagnosed autistic people, and for those who think they might be autistic."
+author = "Autism-101"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact info
+email = "contact@autism-101.com"
+
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "" # example: G-XXXXXXXXXX
+
+# theme-mode
+theme_switch = true
+default_theme_mode = "light" # dark or light
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= ""
+
+# Main Sections
+mainSections= ["blog"]
+
+# contact form action
+contact_form_action = "https://formspree.io/f/xrgjeobw" # contact form works with [https://airform.io/] or [https://formspree.io]
+# get_demo action
+get_demo = "#!" # contact form works with [https://airform.io/] or [https://formspree.io]
+
+# copyright
+copyright = "&copy; 2022 Autism-101"
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = false
+label = "Get a Demo"
+link = "get-demo/"
+
+# matomo tracking: see https://matomo.org/
+[matomo]
+enable = false
+url = "https://example.innocraft.cloud/" # your matomo url
+id = 1 # your matomo id
+
+# baidu analytics: see https://tongji.baidu.com/
+[baidu]
+enable = false
+analytics_id = "" # Your ID
+
+# plausible analytics: see https://plausible.io/
+[plausible]
+enable = false
+domain = "" # yourdomain.com
+
+# site verifications
+[site_verification]
+google = "" # Your verification code
+bing = "" # Your verification code
+baidu = "" # Your verification code
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+############################# social site ########################
+# [[social]]
+# title = "facebook"
+# icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#!"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://twitter.com/Autism1o1"
+
+# [[social]]
+# title = "instagram"
+# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "https://www.instagram.com/autism_1_0_1/"
+
+[[social]]
+title = "github"
+icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://github.com/autism-101"
+
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM"
+
+[[social]]
+title = "goodreads"
+icon = "fab fa-goodreads" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autism-101"
+
+# [[social]]
+# title = "linkedin"
+# icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
+# link = "#!"

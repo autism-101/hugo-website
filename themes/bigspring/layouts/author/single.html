@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="block col-lg-8 mx-auto text-center">
+				{{ if .Params.image }}
+				{{ $img:= resources.Get (.Params.image) }}
+				{{ $img:= $img.Fill "120x120" }}
+				{{ $imgWebp:= $img.Fill "120x120 webp" }}
+				<img loading="lazy" decoding="async" class="rounded-circle mb-3" src="{{ $imgWebp.RelPermalink }}" alt="author image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+				{{ else }}
+				<i class="far fa-user-circle mb-3" style="font-size:82px"></i>
+				{{ end }}
+				<h1 class="h3 title mb-3">{{ .Title }}</h1>
+				
+				<div class="content">{{ .Content }}</div>
+				
+				<ul class="list-inline social-icons mt-4">
+					{{ range .Params.social }}
+					<li class="list-inline-item"><a class="d-inline-block" href="{{ .link | safeURL}}"><i class="{{ .icon }}"></i></a></li>
+					{{ end }}
+				</ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section pt-0">
+	<div class="container">
+		<div class="row gx-5 gy-6">
+			{{ range where site.RegularPages "Params.author" .Title }}
+      <div class="col-lg-4 col-md-6">
+        <div class="card bg-transparent border-0">
+          {{ if fileExists (add `assets/` .Params.image) }}
+          {{$img:= resources.Get .Params.image }}
+          {{$img:= $img.Resize "460x "}}
+          {{$imgWebp:= $img.Resize "460x webp"}}
+          <img loading="lazy" decoding="async" class="card-img rounded-2 mb-4" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="post image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+          <div class="fw-500 mb-2"><i class="far fa-calendar-alt text-dark me-1"></i> {{ time.Format ":date_long" .PublishDate }}</div>
+
+          <div class="card-body p-0">
+            <h3 class="h5"><a href="{{ .Permalink }}" title="{{ .Title }}" class="text-dark d-inline-block">{{ .Title }}</a></h3>
+            <p class="mb-4">{{ .Summary }}</p>
+            <a href="{{.Permalink}}" title="{{ i18n `read_more` }} - {{ .Title }}" class="btn btn-sm btn-primary btn-sm">{{ i18n `read_more` }}</a>
+          </div>
+        </div>
+      </div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+
+{{ end }}

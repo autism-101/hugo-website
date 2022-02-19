@@ -1,0 +1,95 @@
+/*  typography */
+
+html {
+  font-size: $font-size;
+}
+
+body {
+  font-family: $font-secondary;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-primary;
+  font-weight: 700;
+  color: $text-dark;
+}
+.dark {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: rgba($white, .95);
+  }
+}
+
+small,
+.small {
+  font-size: 0.85rem;
+}
+
+.display-3 {
+  font-size: 3.5rem;
+}
+
+// List in descending order to prevent extra sort function
+$type-levels: 6,
+5,
+4,
+3,
+2,
+1;
+
+$h6: last($type-levels);
+
+// Create map with h[x] as key
+$level-size: $font-size;
+
+@each $level in $type-levels {
+  $level-size: $level-size * $font-scale;
+
+  // Output heading styles
+  h#{$level},
+  .h#{$level} {
+    font-size: $level-size;
+    line-height: calc(10px + 2ex + 2px);
+    margin-bottom: 0.65em;
+
+    // responsive for h1, h2, h3, h4
+    &:not(h5, .h5, h6, .h6) {
+      @include desktop {
+        font-size: calc(#{$level-size} * .90);
+        margin-bottom: 0.55em;
+      }
+
+      @include tablet {
+        font-size: calc(#{$level-size} * .80);
+      }
+
+      @include mobile {
+        font-size: calc(#{$level-size} * .85);
+      }
+    }
+
+    // responsive for h5, h6
+    @include desktop {
+      font-size: calc(#{$level-size} * .95);
+      margin-bottom: 0.55em;
+    }
+    @include tablet {
+      font-size: calc(#{$level-size} * .90);
+    }
+  }
+}
