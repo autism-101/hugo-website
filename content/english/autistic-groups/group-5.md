@@ -3,6 +3,7 @@ date: "2022-01-24"
 draft: false
 title: "Autistic Adults"
 logo: "images/autistic-groups/05.png"
+alttext: "Autistic Adults"
 ---
 
 ##### About:

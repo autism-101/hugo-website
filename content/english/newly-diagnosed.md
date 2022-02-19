@@ -10,6 +10,7 @@ layout: "newly-diagnosed"
 banner:
   title: "What Now?"
   image: "images/what-now.jpg"
+  imagealt: "A woman of color sits in a train looking ahead and pondering."
   content : "So you are diagnosed, what are your next steps? It is important to realize that you are not alone. There are many autistic communities both online and in real life for you to explore."
   button:
     enable : true

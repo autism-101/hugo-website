@@ -3,6 +3,7 @@ date: "2022-01-27"
 draft: false
 title: "AutiComm"
 logo: "images/autistic-groups/02.png"
+alttext: "AutiComm"
 ---
 
 ##### About:

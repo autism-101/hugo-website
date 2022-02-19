@@ -10,6 +10,7 @@ layout: "i-might-be-autistic"
 banner:
   title: "I Might Be Autistic"
   image: "images/question-mark.jpg"
+  imagealt: "An image showing a neon lighted question mark"
   content : "So how can I tell?"
   button:
     enable : false

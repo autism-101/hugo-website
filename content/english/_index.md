@@ -15,6 +15,7 @@ autism_header:
   enable : true
   title : "Autism Resources"
   image : "images/banner-art.jpg"
+  imagealt: "A face is shown with the words, What Next? spray painted on a wall."
   content : "Resources for both the newly diagnosed and <br> those who think they might be autistic."
   button:
     enable : true

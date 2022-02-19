@@ -3,6 +3,7 @@ date: "2022-01-26"
 draft: false
 title: "Sounds autistic"
 logo: "images/autistic-groups/03.png"
+alttext: "Sounds Autistic"
 ---
 
 ##### About:

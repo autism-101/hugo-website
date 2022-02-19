@@ -3,6 +3,7 @@ date: "2022-01-28"
 draft: false
 title: "Autastic"
 logo: "images/autistic-groups/01.png"
+alttext: "Autastic"
 ---
 
 ##### About:

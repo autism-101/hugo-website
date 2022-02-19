@@ -27,7 +27,7 @@
           {{$img:= resources.Get . }}
           {{$img:= $img.Resize "750x "}}
           {{$imgWebp:= $img.Resize "750x webp"}}
-          <img loading="lazy" decoding="async" class="img-fluid rounded-2 shadow" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          <img loading="lazy" decoding="async" class="img-fluid rounded-2 shadow" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="{{$.Params.banner.imagealt}}" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
         {{end}}
         {{end}}
       </div>

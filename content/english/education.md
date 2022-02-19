@@ -10,6 +10,7 @@ layout: "education"
 banner:
   title: "Education"
   image: "images/education.jpg"
+  imagealt: "A woman is shown reading while sitting on a large stack of books."
   content : "I have gathered some great resources for you to learn more."
   button:
     enable : true
