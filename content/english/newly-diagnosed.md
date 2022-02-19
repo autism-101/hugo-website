@@ -22,7 +22,7 @@ banner:
 about_this_product:
   enable: true
   title: "Social media is a great way to find others"
-  content: "Twitter, Instagram, and TikToc are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
+  content: "Twitter, Instagram, and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
   features:
