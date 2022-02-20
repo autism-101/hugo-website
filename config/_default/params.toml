@@ -22,7 +22,7 @@ google_tag_manager = "G-8HNVMCP3EE" # example: G-XXXXXXXXXX
 
 # theme-mode
 theme_switch = true
-default_theme_mode = "light" # dark or light
+default_theme_mode = "dark" # dark or light
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
