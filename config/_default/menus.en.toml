@@ -275,10 +275,10 @@ name = "Education"
 url = "education/"
 weight = 5
 
-# [[footer_middle]]
-# name = "Sensory Stuff"
-# url = "products/product-4/"
-# weight = 6
+[[footer_middle]]
+name = "Functioning Labels"
+url = "functioning-labels/"
+weight = 6
 
 # footer menu right
 [[footer_right]]
