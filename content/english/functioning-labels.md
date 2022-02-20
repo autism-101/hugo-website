@@ -1,6 +1,7 @@
 ---
 title: "Functioning Labels"
-subtitle: ""
+subtitle: "Why they are not helpful."
+fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description
 description: "Why most Autistics don't like functioning labels."
 draft: false
