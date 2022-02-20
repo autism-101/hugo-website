@@ -18,7 +18,7 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 email = "contact@autism-101.com"
 
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "G-713X8P7W8K" # example: G-XXXXXXXXXX
+google_tag_manager = "G-MXST53ZX97" # example: G-XXXXXXXXXX
 
 # theme-mode
 theme_switch = true
