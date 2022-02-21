@@ -23,4 +23,4 @@ Other main sections of the site include:
 * {{< newtabref  href="https://wrongplanet.net/category/autism-news/" title="Autism News" >}}
 * {{< newtabref  href="https://wrongplanet.net/category/therapies/" title="Therapies & Services" >}}
 
-<a href="https://wrongplanet.net/" rel="external" target="_blank">{{< image title="Wrong Planet is a web community designed for autistic individuals (and parents / professionals of those) with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences." w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-4.jpg" alt="Wrong Planet" >}}
+<a href="https://wrongplanet.net/" rel="external">{{< image title="Wrong Planet is a web community designed for autistic individuals (and parents / professionals of those) with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences." w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-4.jpg" alt="Wrong Planet" >}}

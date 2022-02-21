@@ -17,4 +17,4 @@ They also provide open forums on many other platforms like Facebook and Discord,
 
 ##### Overview
 
-<a href="https://www.meetup.com/dfwasg/" rel="external" target="_blank">{{< image title="DFW Autistic Support Group" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-6.jpg" alt="DFW Autistic Support Group" >}}</a>
+<a href="https://www.meetup.com/dfwasg/" rel="external">{{< image title="DFW Autistic Support Group" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-6.jpg" alt="DFW Autistic Support Group" >}}</a>

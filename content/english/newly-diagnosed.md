@@ -31,40 +31,40 @@ about_this_product:
     icon: "fab fa-twitter"
     content: "One of the most popular hangouts for Autistics is Twitter. They often have live Twitter Spaces where users can talk to each other and offer support on wide ranging topics. Here is a popular Twitter List with a lot of autistic people:
    
-   * <a href='https://mobile.twitter.com/i/lists/1479401232489922566' target='_blank'>Twitter List Of Autistics</a>
+   * <a href='https://mobile.twitter.com/i/lists/1479401232489922566'>Twitter List Of Autistics</a>
 
    
    Some of the more popuplar Twitter hashtags include:
    
    
-    * <a href='https://twitter.com/search?q=%23ActuallyAutistic&src=typed_query' target='_blank'>#ActuallyAutistic</a>
+    * <a href='https://twitter.com/search?q=%23ActuallyAutistic&src=typed_query'>#ActuallyAutistic</a>
 
-    * <a href='https://twitter.com/search?q=%23AskingAutistics&src=typed_query' target='_blank'>#AskingAutistics</a>
+    * <a href='https://twitter.com/search?q=%23AskingAutistics&src=typed_query'>#AskingAutistics</a>
 
-    * <a href='https://twitter.com/search?q=%23AllAutistics&src=typed_query' target='_blank'>#AllAutistics</a>
+    * <a href='https://twitter.com/search?q=%23AllAutistics&src=typed_query'>#AllAutistics</a>
 
-    * <a href='https://twitter.com/search?q=%23OpenlyAutistic&src=typed_query' target='_blank'>#OpenlyAutistic</a>
+    * <a href='https://twitter.com/search?q=%23OpenlyAutistic&src=typed_query'>#OpenlyAutistic</a>
 
-    * <a href='https://twitter.com/search?q=%23AutisticElders&src=typed_query' target='_blank'>#AutisticElders</a>
+    * <a href='https://twitter.com/search?q=%23AutisticElders&src=typed_query'>#AutisticElders</a>
 
-    * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query' target='_blank'>#NothingAboutUsWithoutUs</a>
+    * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
     "
 
   - title: "Instagram"
     icon: "fab fa-instagram"
     content: "Instagram has a lot of autistic content creators that post both images and short videos. <br><br>Some popular ones are:
     
-    * <a href='https://www.instagram.com/purpleellaandcoco/' target='_blank'>purpleellaandcoco</a>
+    * <a href='https://www.instagram.com/purpleellaandcoco/'>purpleellaandcoco</a>
 
-    * <a href='https://www.instagram.com/yosamdysam/' target='_blank'>yosamdysam</a>
+    * <a href='https://www.instagram.com/yosamdysam/'>yosamdysam</a>
 
-    * <a href='https://www.instagram.com/21andsensory/' target='_blank'>21andsensory</a>
+    * <a href='https://www.instagram.com/21andsensory/'>21andsensory</a>
 
-    * <a href='https://www.instagram.com/the.chronic.couple/' target='_blank'>the.chronic.couple</a>
+    * <a href='https://www.instagram.com/the.chronic.couple/'>the.chronic.couple</a>
 
-    * <a href='https://www.instagram.com/autism_sketches/' target='_blank'>autism_sketches</a>
+    * <a href='https://www.instagram.com/autism_sketches/'>autism_sketches</a>
 
-    * <a href='https://www.instagram.com/neurodivergentrebel/' target='_blank'>neurodivergentrebel</a>
+    * <a href='https://www.instagram.com/neurodivergentrebel/'>neurodivergentrebel</a>
     "
 
       

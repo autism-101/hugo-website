@@ -35,22 +35,22 @@ about_this_product:
     
     Below are some online Autistic screening tests. It is important to note that in most of these tests a greater proportion of males were in the original ASD study groups, so they are more likely to miss Autism in females. In addition the accuracy can vary between the different tests.
    
-   * <a href='https://www.idrlabs.com/autism-spectrum/test.php' target='_blank'>Autism Spectrum Test</a>
+   * <a href='https://www.idrlabs.com/autism-spectrum/test.php'>Autism Spectrum Test</a>
 
-   * <a href='https://aspietests.org/raads/index.php' target='_blank'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
+   * <a href='https://aspietests.org/raads/index.php'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
 
-   * <a href='https://www.idrlabs.com/autism-quotient/test.php' target='_blank'>Autism Quotient (AQ) Test</a>
+   * <a href='https://www.idrlabs.com/autism-quotient/test.php'>Autism Quotient (AQ) Test</a>
    
-   * <a href='https://www.idrlabs.com/3-minute-asperger-syndrome/test.php' target='_blank'>3 Minute Asperger Syndrome Test</a>
+   * <a href='https://www.idrlabs.com/3-minute-asperger-syndrome/test.php'>3 Minute Asperger Syndrome Test</a>
 
-   * <a href='https://www.clinical-partners.co.uk/for-adults/autism-and-aspergers/adult-autism-test/test' target='_blank'>Adult Autism Test</a>
+   * <a href='https://www.clinical-partners.co.uk/for-adults/autism-and-aspergers/adult-autism-test/test'>Adult Autism Test</a>
     "
 
   - title: "Professional Diagnosis"
     icon: "fas fa-user-md"
     content: "Getting a professional diagnosis comes with pros and cons. It can be quite expensive and take a long time. <br><br>Here is a playlist of resources with discussions about autism and diagnosis:
     
-    * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM' target='_blank'>Autism and Diagnosis - Autism-101 Playlist</a>
+    * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis - Autism-101 Playlist</a>
     "
       
 ######################### product_info #####################

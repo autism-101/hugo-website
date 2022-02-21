@@ -10,12 +10,12 @@
           <p class="mb-5">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" target="_blank" title="{{ .label }}" class="btn btn-outline-primary">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-outline-primary">{{ .label }}</a>
           {{ end }}
           {{ end }}
           {{ if .button2.enable }}
           {{ with .button2 }}
-          <a href="{{ .link | relLangURL }}" target="_blank" title="{{ .label }}" class="btn btn-outline-primary">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-outline-primary">{{ .label }}</a>
           {{ end }}
           {{ end }}          
         </div>

@@ -19,4 +19,4 @@ Some of the posting rules include:
 * Add... (TW) ([Topic of trigger]) . . . ...to the beginning of any post that is likely to cause distress to others.
 * No selling or advertising.
 
-<a href="https://www.facebook.com/groups/2036299673287000/" rel="external" target="_blank">{{< image title="Autistic Adults - Emotional Support" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-5.jpg" alt="Autistic Adults - emotional support" >}}</a>
+<a href="https://www.facebook.com/groups/2036299673287000/" rel="external">{{< image title="Autistic Adults - Emotional Support" w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-5.jpg" alt="Autistic Adults - emotional support" >}}</a>
