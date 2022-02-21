@@ -17,11 +17,15 @@ disableLanguages = ["de","zh-cn"] # example: ["de"] for disable deutsch language
 # disableLanguages = ["de","zh-cn"] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
 
+############################# Params ##############################
+[params]
+env = "production"
+
 ############################# Modules ##############################
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.87.0"
+min = "0.90.1"
 
 ############################# Outputs ##############################
 [outputs]
