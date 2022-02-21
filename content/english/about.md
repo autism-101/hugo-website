@@ -1,7 +1,7 @@
 ---
-title: About Us
+title: About
 subtitle: ''
-description: About Us
+description: About
 layout: about
 about:
   title: An Autistic Person

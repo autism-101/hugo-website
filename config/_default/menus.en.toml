@@ -229,7 +229,7 @@ isMenuLarge = true
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
+name = "About"
 url = "about/"
 weight = 1
 
