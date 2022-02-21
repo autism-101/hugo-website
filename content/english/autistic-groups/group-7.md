@@ -1,6 +1,6 @@
 ---
 date: "2022-01-22"
-draft: true
+draft: false
 title: "Autism-Forums"
 logo: "images/autistic-groups/07.png"
 alttext: "Autism-Forums"
