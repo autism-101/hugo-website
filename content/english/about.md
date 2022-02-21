@@ -17,7 +17,9 @@ founders_quote:
 who_we_are:
   title: Who am I?
   content: I discovered I was Autistic in late 2021 quite by accident. I took the
-    online Autism Quotient (AQ) test and scored really high.
+    online Autism Quotient (AQ) test and scored really high. At that point I was confused
+    and I really didn't know what I should do. That experience is why I created this
+    website.
 our_mission:
   title: My mission
   content: I hope to inspire other Autistic people to live their best lives in a healthy
