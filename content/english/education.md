@@ -19,7 +19,7 @@ banner:
   button2:
     enable : true
     label : "Goodreads Lists"
-    link : "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autism-101"
+    link : "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
   background_class: "bg-light"
 
 

@@ -107,7 +107,7 @@ link = "https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM
 [[social]]
 title = "goodreads"
 icon = "fab fa-goodreads" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autism-101"
+link = "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
 
 # [[social]]
 # title = "linkedin"
