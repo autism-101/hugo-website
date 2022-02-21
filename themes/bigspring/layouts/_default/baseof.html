@@ -13,7 +13,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <head>
 	{{ partial "head.html" . }}
 
-	{{ if eq hugo.Environment "production" }}
+	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}
 	{{ else }}
 	{{ partial "style.html" . }}
@@ -34,7 +34,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 		{{ block "main" . }}{{ end }}
 	</main>
 
-	{{ if eq hugo.Environment "production" }}
+	{{ if hugo.IsProduction }}
 	{{ partialCached "footer.html" . }}
 	{{ partialCached "script.html" . }}
 	{{ else }}
