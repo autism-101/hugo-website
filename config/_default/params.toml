@@ -6,7 +6,7 @@ logo = "images/logo.png"
 logo_white = "images/logo-w.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "180px"
+logo_width = "184px"
 # logo text will only show when logo is missing.
 logo_text = "autism-101"
 
