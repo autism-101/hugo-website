@@ -1,5 +1,5 @@
 ---
-label: new-product
+label: new-group
 hide_body: true
 fields:
 - type: datetime
@@ -73,8 +73,8 @@ fields:
       name: content
       label: content
 - type: field_group
-  name: product_info
-  label: product_info
+  name: group_info
+  label: group_info
   fields:
   - type: boolean
     name: enable

@@ -7,95 +7,26 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/content/english/_index.md
+  path: bigspring/content/english/_index.md
   label: Homepage (en)
-- type: document
-  path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
 - type: heading
-  label: Products
+  label: Autistic Groups
 - type: document
-  path: exampleSite/content/english/products/_index.md
-  label: Product (en)
-- type: document
-  path: exampleSite/content/deutsch/products/_index.md
-  label: Product (de)
+  path: bigspring/content/english/autistic-groups/_index.md
+  label: Autistic Group (en)
 - type: directory
-  path: exampleSite/content/english/products
-  label: All Products (en)
+  path: bigspring/content/english/autistic-groups
+  label: All Groups (en)
   create: documents
   match: "**/*"
   exclude: _index.md
   templates:
-  - new-product
-- type: directory
-  path: exampleSite/content/deutsch/products
-  label: All Products (de)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - new-product
-- type: heading
-  label: Case Studies
-- type: document
-  path: exampleSite/content/english/case-studies/_index.md
-  label: Case Studies (en)
-- type: document
-  path: exampleSite/content/deutsch/case-studies/_index.md
-  label: Case Studies (de)
-- type: directory
-  path: exampleSite/content/english/case-studies
-  label: All Case Studies (en)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - case-study
-- type: directory
-  path: exampleSite/content/deutsch/case-studies
-  label: All Case Studies (de)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - case-study
-- type: heading
-  label: Career
-- type: document
-  path: exampleSite/content/english/career/_index.md
-  label: Career (en)
-- type: document
-  path: exampleSite/content/deutsch/career/_index.md
-  label: Career (de)
-- type: directory
-  path: exampleSite/content/english/career
-  label: Career Post (en)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - career
-- type: directory
-  path: exampleSite/content/deutsch/career
-  label: Career Post (de)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - career
+  - new-group
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: bigspring/content/english/author
   label: Author (en)
-  create: all
-  match: "*"
-  templates:
-  - new-author
-- type: directory
-  path: exampleSite/content/deutsch/author
-  label: Author (de)
   create: all
   match: "*"
   templates:
@@ -103,22 +34,11 @@ sections:
 - type: heading
   label: Blog
 - type: document
-  path: exampleSite/content/english/blog/_index.md
+  path: bigspring/content/english/blog/_index.md
   label: Blog (en)
-- type: document
-  path: exampleSite/content/deutsch/blog/_index.md
-  label: Blog (de)
 - type: directory
-  path: exampleSite/content/english/blog
+  path: bigspring/content/english/blog
   label: Blog Posts (en)
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/deutsch/blog
-  label: Blog Posts (de)
   create: documents
   match: "**/*"
   exclude: _index.md
@@ -127,63 +47,36 @@ sections:
 - type: heading
   label: Others Page
 - type: document
-  path: exampleSite/content/english/about.md
+  path: bigspring/content/english/about.md
   label: About (en)
 - type: document
-  path: exampleSite/content/deutsch/about.md
-  label: About (de)
+  path: bigspring/content/english/education.md
+  label: Educations (en)
 - type: document
-  path: exampleSite/content/english/team.md
-  label: Team (en)
-- type: document
-  path: exampleSite/content/deutsch/team.md
-  label: Team (de)
-- type: document
-  path: exampleSite/content/english/how-it-works.md
-  label: How It Works (en)
-- type: document
-  path: exampleSite/content/deutsch/how-it-works.md
-  label: How It Works (de)
-- type: document
-  path: exampleSite/content/english/get-demo.md
-  label: Get a Demo (en)
-- type: document
-  path: exampleSite/content/deutsch/get-demo.md
-  label: Get a Demo (de)
-- type: document
-  path: exampleSite/content/english/pricing.md
-  label: Pricing (en)
-- type: document
-  path: exampleSite/content/deutsch/pricing.md
-  label: Pricing (de)
-- type: document
-  path: exampleSite/content/english/faq.md
+  path: bigspring/content/english/faq.md
   label: FAQ (en)
 - type: document
-  path: exampleSite/content/deutsch/faq.md
-  label: FAQ (de)
+  path: bigspring/content/english/functioning-labels.md
+  label: Functioning Labels (en)
 - type: document
-  path: exampleSite/content/english/contact.md
+  path: bigspring/content/english/i-might-be-autistic.md
+  label: I Might Be Autistic (en)
+- type: document
+  path: bigspring/content/english/newly-diagnosed.md
+  label: Newly Diagnosed (en)
+- type: document
+  path: bigspring/content/english/contact.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/deutsch/contact.md
-  label: Contact (de)
-- type: document
-  path: exampleSite/content/english/privacy-policy.md
+  path: bigspring/content/english/privacy-policy.md
   label: Privacy Policy (en)
 - type: document
-  path: exampleSite/content/deutsch/privacy-policy.md
-  label: Privacy Policy (de)
-- type: document
-  path: exampleSite/content/english/terms-conditions.md
+  path: bigspring/content/english/terms-conditions.md
   label: Terms & Conditions (en)
-- type: document
-  path: exampleSite/content/deutsch/terms-conditions.md
-  label: Terms & Conditions (de)
 - type: heading
   label: All Pages
 - type: directory
-  path: exampleSite/content
+  path: bigspring/content
   label: All Pages
   create: all
   match: "**/*"
@@ -193,29 +86,26 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/config.toml
+  path: bigspring/config/_default/config.toml
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/params.toml
+  path: bigspring/config/_default/params.toml
   label: Parameters
 - type: document
   path: config.toml
   label: Variables & Plugins
 - type: document
-  path: exampleSite/config/_default/languages.toml
+  path: bigspring/config/_default/languages.toml
   label: Languages
 - type: document
-  path: exampleSite/config/_default/menus.en.toml
+  path: bigspring/config/_default/menus.en.toml
   label: Menu (en)
-- type: document
-  path: exampleSite/config/_default/menus.de.toml
-  label: Menu (de)
 - type: directory
-  path: exampleSite/i18n
+  path: bigspring/i18n
   label: i18n Translations
   create: documents
   match: "**/*"
-upload_dir: exampleSite/assets/images
+upload_dir: bigspring/assets/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
