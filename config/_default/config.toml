@@ -16,6 +16,7 @@ disqusShortname = "https-autism-101-com" # we use disqus to show comments in blo
 disableLanguages = ["de","zh-cn"] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 # disableLanguages = ["de","zh-cn"] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
+enableRobotsTXT = true
 
 ############################# Params ##############################
 [params]
