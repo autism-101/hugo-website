@@ -67,6 +67,14 @@ about_this_product:
     * <a href='https://www.instagram.com/neurodivergentrebel/'>neurodivergentrebel</a>
     "
 
+  - title: "Youtube"
+    icon: "fab fa-youtube"
+    content: "Youtube has a lot of autistic content creators that post about living with autism. <br><br>We have gathered a lot of them in our playlists:
+    
+    * <a href='https://www.youtube.com/watch?v=eJoww4Cx47M&list=PL0t4t5lmGKqSK93KM0FBnOOccPiUbdWWG'>Autistic Living</a>
+
+    * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis</a>
+    "
       
 ######################### product_info #####################
 product_info:
