@@ -48,7 +48,7 @@ about_this_product:
 
   - title: "Professional Diagnosis"
     icon: "fas fa-user-md"
-    content: "Getting a professional diagnosis comes with pros and cons. It can be quite expensive and take a long time. <br><br>Here is a playlist of resources with discussions about autism and diagnosis:
+    content: "Getting a professional diagnosis comes with pros and cons. It can be quite expensive and take a long time. Different systems are used for diagnosis depending on where you live. For instance in the U.S. they use The American Psychiatric Association’s Diagnostic and Statistical Manual, Fifth Edition (<a href=\"https://www.cdc.gov/ncbddd/autism/hcp-dsm.html\">DSM-5</a>) and testing often utilizes the Autism Diagnostic Observation Schedule (ADOS-2) for adults.<br><br>Here is a playlist of resources with discussions about autism and diagnosis:
     
     * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis - Autism-101 Playlist</a>
     "
