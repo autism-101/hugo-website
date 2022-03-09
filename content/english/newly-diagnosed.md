@@ -78,35 +78,35 @@ about_this_product:
       
 ######################### product_info #####################
 product_info:
-  enable : false
-  title: "New experiments <br> Launch in minutes"
-  content: "Both non-technical and technical users can design and launch new experiments quickly. Distinctio cumque totam explicabo, quia minima quae esse! Laudantium impedit ratione dignissimos."
+  enable : true
+  title: "Autism Focused Websites"
+  content: "Here are a some Autistic run websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
-  - image: "images/products/01.jpg"
-    content : "##### For Marketing Teams
+  - image: "images/neuroclastic.jpg"
+    content : "##### Neuroclastic.com
 
 
-    Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
+    <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is a site with contributions from almost exclusively autistic people. Their stated goal is to \"represent the autistic experience in its broad diversity, and we recruit people from backgrounds and with experiences that are underrepresented in autistic self-advocacy\".
 
     <br><br>
 
-    ##### For Product & Engineering
+    ###### Non-Profit
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
+    As a non-profit, <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is using their platform to support autistic business owners, scientists, authors, performers, freelancers, and artists in the pursuit of contributing something meaningful to the Greater Good.
     "
 
-  - image: "images/products/02.jpg"
-    content : "##### For Design Teams
+  - image: "images/embrace-autism.jpg"
+    content : "##### Embrace-Autism.com
 
-
-    Adipiscing elit Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. tempus eu at consecttur.
+    <a href=\"https://embrace-autism.com\" text=\"Embrace-Autism\">Embrace-Autism</a> was founded in 2018 because of the lack of information available on autism in adults. It 
+    is intended as a platform to distribute research and experience-based information on autism.
 
     <br><br>
 
-    ##### For Search Engine Optimization
+    ###### Quality Information
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat.
+    \"Quality autism information can help us make sense of our lives, it can help us discover who we are and the amazing potential we have, and it can help us acknowledge the beauty and splendor in ourselves and each other.\"
     "
 
 
