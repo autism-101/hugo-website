@@ -121,6 +121,18 @@ product_info:
    \"<a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce.\"
     "
 
+  - image: "images/thinking-persons-guide.jpg"
+    content : "##### ThinkingAutismGuide.com
+
+    <a href=\"http://www.thinkingautismguide.com\" text=\"Thinking Person's Guide To Autism\">Thinking Person's Guide To Autism</a> (TPGA) is a resource for carefully curated, evidence-based, neurodiversity-steeped information from autistic people, parents, and autism professionals.
+
+    <br><br>
+
+    ###### Mission
+
+   \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
+    "
+
 ######################### Intro Video #####################
 intro_video:
   enable: false
