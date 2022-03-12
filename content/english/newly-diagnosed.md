@@ -79,8 +79,8 @@ about_this_product:
 ######################### product_info #####################
 product_info:
   enable : true
-  title: "Autism Focused Websites"
-  content: "Here are a some Autistic run websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, discussions on disclosure and living autistically."
+  title: "Autism & Disability Websites"
+  content: "Here are a some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accomodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
   - image: "images/neuroclastic.jpg"
@@ -109,6 +109,17 @@ product_info:
     \"Quality autism information can help us make sense of our lives, it can help us discover who we are and the amazing potential we have, and it can help us acknowledge the beauty and splendor in ourselves and each other.\"
     "
 
+  - image: "images/ask-jan.jpg"
+    content : "##### AskJan.org
+
+    The Job Accommodation Network (<a href=\"https://askjan.org\" text=\"JAN\">JAN</a>) is the leading source of free, expert, and confidential guidance on job accommodations and disability employment issues. Serving customers across the United States and around the world for more than 35 years.
+
+    <br><br>
+
+    ###### Ask JAN!
+
+   \"<a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce.\"
+    "
 
 ######################### Intro Video #####################
 intro_video:
