@@ -75,7 +75,7 @@ about_this_product:
 
     * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis</a>
 
-    * <a href='https://www.youtube.com/user/neurowonderful'>Amethyst Schaber (neurowonderful)</a>
+    * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber (neurowonderful)</a>
 
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
 
