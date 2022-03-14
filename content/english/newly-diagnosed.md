@@ -75,11 +75,27 @@ about_this_product:
 
     * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis</a>
 
-    * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber (neurowonderful)</a>
+    * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber</a>
 
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
 
     * <a href='https://www.youtube.com/channel/UCdaQVw-dxYuZb2GXHL7LSjA'>Neurodivergent Rebel</a>
+
+    * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Aspergers From The Inside</a>    
+
+    * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
+    
+    * <a href='https://www.youtube.com/c/IndieAndy'>Indie Andy</a>    
+
+    * <a href='https://www.youtube.com/channel/UCxyGdIDgSyXnhKlnrC88S0A'>Hunter Hansen - The Life Autistic</a>
+
+    * <a href='https://www.youtube.com/user/AspieWorld1'>The Aspie World</a>
+
+    * <a href='https://www.youtube.com/c/StephanieBethany'>Stephanie Bethany</a>
+
+    * <a href='https://www.youtube.com/c/MindYourAutisticBrainwithSocialAUtie'>Social Autie</a>
+
+    * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>    
     "
       
 ######################### product_info #####################
@@ -139,6 +155,17 @@ product_info:
    \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
     "
 
+  - image: "images/autistic-science-person.jpg"
+    content : "##### AutisticSciencePerson.com
+
+    <a href=\"https://autisticscienceperson.com\" text=\"Autistic Science Person\">Autistic Science Person</a> is run by Ira, an autistic self-advocate and graduate student in auditory science.
+
+    <br><br>
+
+    ###### Service
+
+    \"Ira has been advocating for disabled students on their university campus as a disabled graduate student. They enjoy playing online games with their friends and connecting to other autistic adults and the disability community through social media.\"
+    "
 ######################### Intro Video #####################
 intro_video:
   enable: false
