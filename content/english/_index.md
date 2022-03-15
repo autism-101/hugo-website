@@ -16,7 +16,7 @@ autism_header:
   title : "Autism Resources"
   image : "images/banner-art.jpg"
   imagealt: "A face is shown with the words, What Now? spray painted on a wall."
-  content : "Resources for both the newly diagnosed and <br> those who think they might be autistic."
+  content : "Resources for newly diagnosed Autistic people and <br> those who think they might be."
   button:
     enable : true
     label : "Newly Diagnosed"
