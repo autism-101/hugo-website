@@ -23,7 +23,7 @@ banner:
 about_this_product:
   enable: true
   title: "Autism Diagnosis"
-  content: "There are two main methods of diagnosis, self diagnosis and professional diagnosis. Each method is equally valid. The links below are not medical advice and are for educational purposes only."
+  content: "There are two main methods of diagnosis, self diagnosis and professional diagnosis. Each method is equally valid. The links below are not medical advice and are for educational purposes only. There is a saying in Autistic circles, \"Once you've met one Autistic person you've met one Autistic person\". We are all different so you will probably not share every Autistic characteristic. Watch the video at the bottom of this page below to learn about some of the major ones."
   background_class: ""
 
   features:
