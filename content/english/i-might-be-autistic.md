@@ -29,7 +29,7 @@ about_this_product:
   features:
   - title: "Self Diagnosis"
     icon: "fas fa-user-check "
-    content: "Discovering you are Autistic can come from a variety of sources. Some people might have taken a free online Autism screening test, while others make the connection after a child's diagnosis. Some have friends that point out their Autistic characteristics. 
+    content: "Discovering you are Autistic can come from a variety of sources. Some people might have taken a free online Autism screening test, while others make the connection after a child's diagnosis. Some have friends that point out their Autistic characteristics. Autistic author Sonia Boué created a PDF guide for people on the beginning of their autism journey called, <a href='https://drive.google.com/file/d/1xCeaqDTKq88LUBcJtxpWRFtYBTrzctHM/view'>Am I Autistic?</a>  
     
     <br><br>
     
@@ -48,7 +48,19 @@ about_this_product:
 
   - title: "Professional Diagnosis"
     icon: "fas fa-user-md"
-    content: "Getting a professional diagnosis comes with pros and cons. It can be quite expensive and take a long time. Different systems are used for diagnosis depending on where you live. For instance in the U.S. they use The American Psychiatric Association’s Diagnostic and Statistical Manual, Fifth Edition (<a href=\"https://www.cdc.gov/ncbddd/autism/hcp-dsm.html\">DSM-5</a>) and testing often utilizes the Autism Diagnostic Observation Schedule (ADOS-2) for adults.<br><br>Here is a playlist of resources with discussions about autism and diagnosis:
+    content: "Getting a professional diagnosis comes with pros and cons. It can be quite expensive and take a long time. Different systems are used for diagnosis depending on where you live. 
+    
+    <br><br>
+
+    For instance in the U.S. they use The American Psychiatric Association’s Diagnostic and Statistical Manual, Fifth Edition (<a href=\"https://www.cdc.gov/ncbddd/autism/hcp-dsm.html\">DSM-5</a>) and testing often utilizes the Autism Diagnostic Observation Schedule (ADOS-2) for adults.
+
+    <br><br>
+    
+    You might need to get a referal from your GP doctor to get tested for Autism. It is a good idea to write down all of the Autistic characteristics and any related past stories from your life on a sheet of paper to share with your physician. And if you have taken any online Autism screening tests bring the results with you.
+
+    <br><br>
+    
+    Here is a playlist of resources with discussions about autism and diagnosis:
     
     * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis - Autism-101 Playlist</a>
     "
