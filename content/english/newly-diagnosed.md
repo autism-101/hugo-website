@@ -69,6 +69,8 @@ about_this_product:
     * <a href='https://www.instagram.com/neurodivergentrebel/'>neurodivergentrebel</a>
 
     * <a href='https://www.instagram.com/neurocurioustherapist/'>neurocurioustherapist</a>
+
+    * <a href='https://www.instagram.com/autieselfcare/'>autieselfcare</a>    
     "
 
   - title: "Youtube"
