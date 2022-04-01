@@ -56,6 +56,8 @@ about_this_product:
     
     * <a href='https://www.instagram.com/purpleellaandcoco/'>purpleellaandcoco</a>
 
+    * <a href='https://www.instagram.com/fidgets.and.fries/'>fidgets.and.fries</a>
+
     * <a href='https://www.instagram.com/yosamdysam/'>yosamdysam</a>
 
     * <a href='https://www.instagram.com/21andsensory/'>21andsensory</a>
@@ -117,7 +119,7 @@ product_info:
 
     <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is a site with contributions from almost exclusively autistic people. Their stated goal is to \"represent the autistic experience in its broad diversity, and we recruit people from backgrounds and with experiences that are underrepresented in autistic self-advocacy\".
 
-    <br><br>
+    <br>
 
     ###### Non-Profit
 
@@ -130,7 +132,7 @@ product_info:
     <a href=\"https://embrace-autism.com\" text=\"Embrace-Autism\">Embrace-Autism</a> was founded in 2018 because of the lack of information available on autism in adults. It 
     is intended as a platform to distribute research and experience-based information on autism.
 
-    <br><br>
+    <br>
 
     ###### Quality Information
 
@@ -142,7 +144,7 @@ product_info:
 
     The Job Accommodation Network (<a href=\"https://askjan.org\" text=\"JAN\">JAN</a>) is the leading source of free, expert, and confidential guidance on job accommodations and disability employment issues. Serving customers across the United States and around the world for more than 35 years.
 
-    <br><br>
+    <br>
 
     ###### Ask JAN!
 
@@ -154,13 +156,37 @@ product_info:
 
     <a href=\"http://www.thinkingautismguide.com\" text=\"Thinking Person's Guide To Autism\">Thinking Person's Guide To Autism</a> (TPGA) is a resource for carefully curated, evidence-based, neurodiversity-steeped information from autistic people, parents, and autism professionals.
 
-    <br><br>
+    <br>
 
     ###### Mission
 
    \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
     "
 
+  - image: "images/art-of-autism.jpg"
+    content : "##### The-Art-of-Autism.com
+
+    <a href=\"https://the-art-of-autism.com\" text=\"The Art of Autism\">The Art of Autism</a> empowers and connects individuals within the autism community through participation in the Arts.
+
+    <br>
+
+    ###### Mission
+
+   \"To foster independence, self-esteem and artistic expression by participation in The Art of Autism Project.\"
+
+   <br><br>
+
+   We do this by:
+
+   <br>
+
+   * Supporting artists, musicians and creative writers on the autism spectrum
+
+   * Raising awareness about autism and the arts
+
+   * Strengthening the broader autism community
+
+    "
   - image: "images/autistic-science-person.jpg"
     content : "##### AutisticSciencePerson.com
 
