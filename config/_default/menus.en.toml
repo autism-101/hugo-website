@@ -227,6 +227,24 @@ isMenuLarge = true
   url = "functioning-labels/"
   weight = 6
 
+[[main]]
+weight = 13
+name = "Blog"
+hasChildren = true
+
+  [[main]]
+  parent = "Blog"
+  name = "Blog Posts"
+  url = "blog/"
+  weight = 3
+
+  [[main]]
+  parent = "Blog"
+  name = "Author"
+  url = "author/"
+  weight = 11
+
+
 # footer menu left
 [[footer_left]]
 name = "About"
