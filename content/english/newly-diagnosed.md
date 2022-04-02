@@ -29,13 +29,15 @@ about_this_product:
   features:
   - title: "Twitter"
     icon: "fab fa-twitter"
-    content: "One of the most popular hangouts for Autistics is Twitter. They often have live Twitter Spaces where users can talk to each other and offer support on wide ranging topics. Here is a popular Twitter List with a lot of autistic people:
+    content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
+    <br><br>
+    Here is a popular Twitter List with a lot of autistic people:
    
-   * <a href='https://mobile.twitter.com/i/lists/1479401232489922566'>Twitter List Of Autistics</a>
+   * <a href='https://mobile.twitter.com/i/lists/1510396142621757445'>Autism-101 List Of Autistics</a>
 
-   
+   <br><br>
    Some of the more popuplar Twitter hashtags include:
-   
+   <br>
    
     * <a href='https://twitter.com/search?q=%23ActuallyAutistic&src=typed_query'>#ActuallyAutistic</a>
 
@@ -57,6 +59,8 @@ about_this_product:
     * <a href='https://www.instagram.com/purpleellaandcoco/'>purpleellaandcoco</a>
 
     * <a href='https://www.instagram.com/fidgets.and.fries/'>fidgets.and.fries</a>
+
+    * <a href='https://www.instagram.com/autisticsunmasked/'>autisticsunmasked</a>
 
     * <a href='https://www.instagram.com/yosamdysam/'>yosamdysam</a>
 
@@ -124,6 +128,18 @@ product_info:
     ###### Non-Profit
 
     As a non-profit, <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is using their platform to support autistic business owners, scientists, authors, performers, freelancers, and artists in the pursuit of contributing something meaningful to the Greater Good.
+    "
+
+  - image: "images/autistics-unmasked.jpg"
+    content : "##### AutisticsUnmasked.org
+
+    <a href=\"https://autisticsunmasked.org\" text=\"Autistics Unmasked\">Autistics Unmasked</a> is a non-profit organization dedicated to providing a safe space for autistic self advocacy.
+
+    <br>
+
+    ###### Our History
+
+   \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
   - image: "images/embrace-autism.jpg"
