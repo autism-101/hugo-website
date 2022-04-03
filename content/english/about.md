@@ -9,11 +9,10 @@ about:
     and those who think they might be.
   image: images/autism-101-group.jpg
 founders_quote:
-  name: Temple Grandin
-  subtitle: American Scientist And Animal Behaviorist.
-  image: images/avatar/02.png
-  content: If I could snap my fingers and be nonautistic, I would not. Autism is part
-    of what I am.
+  name: Naoki Higashida
+  subtitle: Autistic Author - \"The Reason I Jump\"
+  image: images/avatar/04.png
+  content: \"Everybody has a heart that can be touched by something.\"
 who_we_are:
   title: Who am I?
   content: I discovered I was Autistic in late 2021 quite by accident. I took the
