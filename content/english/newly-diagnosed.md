@@ -23,7 +23,7 @@ banner:
 about_this_product:
   enable: true
   title: "Learn from other Autistic people and find them on social media"
-  content: "Twitter, Instagram, TikTok, and Youtube are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
+  content: "Twitter, Instagram, Youtube, and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
   features:
@@ -142,6 +142,29 @@ product_info:
    \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
+  - image: "images/anns-autism-blog.jpg"
+    content : "##### AnnsAutism.Blogspot.com
+
+    <a href=\"http://annsautism.blogspot.com\" text=\"Anns Autism Blog\">Ann\'s Autism Blog</a> is run by Ann Memmott an, \"Autistic autism professional. National and international speaker. Post Graduate Certificate - autism. Associate, AT-Autism and NDTi 25 years of working alongside autistic people across a wide variety of settings. Trainer, consultant, speaker, lecturer. Working with NHS teams as an external adviser. Previous work as charity Trustee and School Governor.\"
+
+    <br>
+
+    ###### About The Blog
+
+    \"This is a personal blog and does not represent the views of any organisation linked to me.\"
+    "
+
+  - image: "images/autistic-hoya.jpg"
+    content : "##### AutisticHoya.com
+
+    <a href=\"https://www.autistichoya.com\" text=\"Autisti Hoya\">Autistic Hoya</a> is a website run by Lydia X. Z. Brown. \"I'm a writer, dreamer, organizer, builder, advocate, attorney, activist, strategist, educator, trainer, consultant, and speaker. I work in grassroots organizing, public policy advocacy, and writing focused on disability justice and intersectionality.\"\"
+
+    <br>
+
+    ###### About The Blog
+
+    Is this an autism blog? \"It started out that way in the summer of 2011, when I created it. But it's not really an autism blog anymore. It's still largely autism and disability focused, but my thinking, ideas, and interests (even within my activism-related interests) have all shifted, changed, and grown over time.\"
+    "
   - image: "images/embrace-autism.jpg"
     content : "##### Embrace-Autism.com
 

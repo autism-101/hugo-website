@@ -10,7 +10,7 @@ Please read these terms of service ("terms", "terms of service") carefully befor
 
 ##### Conditions of Use
 
-We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully.
+We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully. Links offsite are not to be construed as endorsement or acceptance of the ideas and opinions expressed therein.
 
 ##### Privacy Policy
 
