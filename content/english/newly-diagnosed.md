@@ -126,6 +126,13 @@ product_info:
   content: "Here are a some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accomodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
+  - image: "images/asan.jpg"
+    content : "##### AutisticAdvocacy.org
+
+
+    <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. Nothing About Us, Without Us!\"
+    "
+
   - image: "images/neuroclastic.jpg"
     content : "##### Neuroclastic.com
 
@@ -211,6 +218,18 @@ product_info:
    \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
     "
 
+  - image: "images/neurodivergent-rebel.jpg"
+    content : "##### NeurodivergentRebel.com
+
+
+    \"Lyric Holmans, an autistic self-advocate from Texas, runs the the internationally recognized neurodiversity lifestyle blog <a href=\"https://neurodivergentrebel.com\" text=\"Neurodivergent Rebel\">Neurodivergent Rebel</a>. They also manage Neurodivergent Consulting.\"
+
+    <br>
+
+    ###### Blog
+
+    \"The Neurodivergent Rebel opened their blog in 2016 as a way to introduce people unfamiliar with the concept of neurodiversity to this new way of seeing neurological difference.\"
+    "
   - image: "images/art-of-autism.jpg"
     content : "##### The-Art-of-Autism.com
 
