@@ -54,7 +54,7 @@ about_this_product:
 
   - title: "Instagram"
     icon: "fab fa-instagram"
-    content: "Instagram has a lot of autistic content creators that post both images and short videos. <br><br>Some popular ones are:
+    content: "Instagram has a lot of Autistic content creators that post both images and short videos. <br><br>Some popular ones are:
     
     * <a href='https://www.instagram.com/purpleellaandcoco/'>purpleellaandcoco</a>
 
@@ -81,7 +81,7 @@ about_this_product:
 
   - title: "Youtube"
     icon: "fab fa-youtube"
-    content: "Youtube has a lot of autistic content creators that post about living with autism. <br><br>Here are both our playlists and some other wonderful content creators:
+    content: "Youtube has a lot of Autistic content creators that post about living with Autism. <br><br>Here are both our playlists and some other wonderful content creators:
     
     * <a href='https://www.youtube.com/watch?v=eJoww4Cx47M&list=PL0t4t5lmGKqSK93KM0FBnOOccPiUbdWWG'>Autistic Living</a>
 
@@ -110,6 +110,15 @@ about_this_product:
     * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>    
     "
       
+  - title: "TikTok"
+    icon: "fab fa-tiktok"
+    content: "TikTok is beginning to have more and more Autistic content creators. We will be adding much more to this list below:
+    
+    * <a href='https://www.tiktok.com/@autisticsunmasked'>Autistics Unmasked</a>
+
+    * <a href='https://www.tiktok.com/@neurodivergentrebel'>Neurodivergent Rebel</a>
+
+    "
 ######################### product_info #####################
 product_info:
   enable : true
