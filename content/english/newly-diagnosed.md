@@ -33,7 +33,7 @@ about_this_product:
     <br><br>
     Here is our Twitter List of Autistic and Neurodivergent people:
    
-   * <a href='https://mobile.twitter.com/i/lists/1510396142621757445'>Autism-101 List of Autistics</a>
+   * <a href='https://mobile.twitter.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a>
 
    <br><br>
    Some of the more popuplar Twitter hashtags include:
