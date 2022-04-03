@@ -158,6 +158,12 @@ product_info:
    \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
+  - image: "images/spectrum-women.jpg"
+    content : "##### SpectrumWomen.com
+
+    <a href=\"https://www.spectrumwomen.com\" text=\"Spectrum Women\">Spectrum Women</a> is an online magazine and community dedicated to women who are uniquely different. Our approach is to bring to you inspiring women of all ages who have had a different outlook on life in a positive and unique way. Our online magazine embraces diversity and the differing ideals we all have but with one common goal, to bring together a wealth of knowledge and strength in being the unique women we are.\"
+    "
+
   - image: "images/anns-autism-blog.jpg"
     content : "##### AnnsAutism.Blogspot.com
 
