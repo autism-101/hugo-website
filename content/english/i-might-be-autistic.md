@@ -29,7 +29,7 @@ about_this_product:
   features:
   - title: "Self Diagnosis"
     icon: "fas fa-user-check "
-    content: "Discovering you are Autistic can come from a variety of sources. Some people might have taken a free online Autism screening test, while others make the connection after a child's diagnosis. Some have friends that point out their Autistic characteristics. Autistic author Sonia Boué created a PDF guide for people on the beginning of their autism journey called, <a href='https://drive.google.com/file/d/1xCeaqDTKq88LUBcJtxpWRFtYBTrzctHM/view'>Am I Autistic?</a>  
+    content: "Discovering you are Autistic can come from a variety of sources. Some people might have taken a free online Autism screening test, while others make the connection after a child's diagnosis. Some have friends that point out their Autistic characteristics. Autistic author Sonia Boué created a PDF guide for people on the beginning of their autism journey called, <a href='https://www.bom.org.uk/wp-content/uploads/2022/03/Am-I-Autistic.pdf'>Am I Autistic?</a>  
     
     <br><br>
     
