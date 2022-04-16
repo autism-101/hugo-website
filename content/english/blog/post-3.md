@@ -6,7 +6,7 @@ image: "images/blog/post-3.jpg"
 # author
 author: "Autism 101"
 # post type (regular/featured)
-type: "regular"
+type: "featured"
 # meta description
 description: "Craving Routines"
 # post draft

@@ -6,7 +6,7 @@ image: "images/blog/post-1.jpg"
 # author
 author: "Autism 101"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "Hyperfocus Ability in Autism"
 # post draft
