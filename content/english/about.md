@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Autism-101 website creator.
 subtitle: ''
 description: About
 layout: about

@@ -1,7 +1,7 @@
 ---
 date: "2022-01-25"
 draft: false
-title: "Wrong Planet"
+title: "Wrong Planet website review."
 logo: "images/autistic-groups/04.png"
 alttext: "Wrong Planet"
 ---

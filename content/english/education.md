@@ -1,7 +1,7 @@
 ---
 date: "2021-07-14"
 draft: false
-title: "Education"
+title: "Autism educational resources."
 description: "Education"
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 layout: "education"

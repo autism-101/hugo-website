@@ -1,5 +1,5 @@
 ---
-title: "In Sync"
+title: "In Sync - communication among the disabled."
 date: 2022-04-02T10:07:21+06:00
 # post image
 image: "images/blog/post-2.jpg"

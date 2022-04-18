@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "Autism-101 Frequently Asked Questions"
 subtitle: "Because we all have them. 😄"
 # meta description
 description: "Frequently Asked Questions"

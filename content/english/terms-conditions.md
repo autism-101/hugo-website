@@ -1,5 +1,5 @@
 ---
-title: "Terms of Service"
+title: "Autism-101 Terms of Service"
 subtitle: ""
 # meta description
 description: "This is meta description"

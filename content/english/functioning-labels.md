@@ -1,5 +1,5 @@
 ---
-title: "Functioning Labels"
+title: "Why Functioning labels are not helpful."
 subtitle: "Why they are not helpful."
 fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description

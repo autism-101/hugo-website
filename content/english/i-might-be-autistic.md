@@ -1,7 +1,7 @@
 ---
 date: "2021-07-14"
 draft: false
-title: "I Might Be Autistic"
+title: "Resources for determining if are Autistic."
 description: "How Can I Tell?"
 icon: "fas fa-portrait"  # fontawesome icon pack : https://fontawesome.com/icons/
 layout: "i-might-be-autistic"

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autism-101</title>
+    <title>Autism-101 provides resources for newly diagnosed Autistic people and those who think they might be.</title>
     <link>https://autism-101.com/</link>
-    <description>Recent content on Autism-101</description>
+    <description>Recent content on Autism-101 provides resources for newly diagnosed Autistic people and those who think they might be.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 16 Apr 2022 10:07:21 +0600</lastBuildDate><atom:link href="https://autism-101.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Autism and Routines</title>
+      <title>Autism and Routines - why they are helpful.</title>
       <link>https://autism-101.com/blog/post-3/</link>
       <pubDate>Sat, 16 Apr 2022 10:07:21 +0600</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Hyperfocus</title>
+      <title>Hyperfocus in Autism</title>
       <link>https://autism-101.com/blog/post-1/</link>
       <pubDate>Sat, 02 Apr 2022 10:07:21 +0600</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>In Sync</title>
+      <title>In Sync - communication among the disabled.</title>
       <link>https://autism-101.com/blog/post-2/</link>
       <pubDate>Sat, 02 Apr 2022 10:07:21 +0600</pubDate>
       
@@ -35,7 +35,7 @@
     </item>
     
     <item>
-      <title>Autastic</title>
+      <title>Autastic website review.</title>
       <link>https://autism-101.com/autistic-groups/group-1/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>AutiComm</title>
+      <title>AutiComm website review.</title>
       <link>https://autism-101.com/autistic-groups/group-2/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Sounds autistic</title>
+      <title>Sounds autistic website review.</title>
       <link>https://autism-101.com/autistic-groups/group-3/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -62,7 +62,7 @@
     </item>
     
     <item>
-      <title>Wrong Planet</title>
+      <title>Wrong Planet website review.</title>
       <link>https://autism-101.com/autistic-groups/group-4/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -71,7 +71,7 @@
     </item>
     
     <item>
-      <title>Autistic Adults</title>
+      <title>Autistic Adults website review.</title>
       <link>https://autism-101.com/autistic-groups/group-5/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -80,7 +80,7 @@
     </item>
     
     <item>
-      <title>Meetup</title>
+      <title>Meetup website review.</title>
       <link>https://autism-101.com/autistic-groups/group-6/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>Autism-Forums</title>
+      <title>Autism-Forums website review.</title>
       <link>https://autism-101.com/autistic-groups/group-7/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -98,7 +98,7 @@
     </item>
     
     <item>
-      <title>ACEing Autism</title>
+      <title>ACEing Autism website review.</title>
       <link>https://autism-101.com/autistic-groups/group-8/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 -0600</pubDate>
       
@@ -107,7 +107,7 @@
     </item>
     
     <item>
-      <title>Education</title>
+      <title>Autism educational resources.</title>
       <link>https://autism-101.com/education/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
       
@@ -116,16 +116,7 @@
     </item>
     
     <item>
-      <title>I Might Be Autistic</title>
-      <link>https://autism-101.com/i-might-be-autistic/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://autism-101.com/i-might-be-autistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newly Diagnosed</title>
+      <title>Autistic resources for the newly diagnosed.</title>
       <link>https://autism-101.com/newly-diagnosed/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
       
@@ -134,7 +125,16 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>Resources for determining if are Autistic.</title>
+      <link>https://autism-101.com/i-might-be-autistic/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://autism-101.com/i-might-be-autistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Autism-101 website creator.</title>
       <link>https://autism-101.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -143,7 +143,7 @@
     </item>
     
     <item>
-      <title>Autism 101</title>
+      <title>Autism-101 author overview.</title>
       <link>https://autism-101.com/author/autism-101/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>Contact Us</title>
+      <title>Autism-101 Contact Us</title>
       <link>https://autism-101.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>Frequently Asked Questions</title>
+      <title>Autism-101 Frequently Asked Questions</title>
       <link>https://autism-101.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -170,16 +170,7 @@
     </item>
     
     <item>
-      <title>Functioning Labels</title>
-      <link>https://autism-101.com/functioning-labels/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://autism-101.com/functioning-labels/</guid>
-      <description>What&amp;rsquo;s The Big Deal? After being around the autistic community for a while, you will come across the use of functioning labels.</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
+      <title>Autism-101 Privacy Policy</title>
       <link>https://autism-101.com/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -188,12 +179,21 @@
     </item>
     
     <item>
-      <title>Terms of Service</title>
+      <title>Autism-101 Terms of Service</title>
       <link>https://autism-101.com/terms-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://autism-101.com/terms-conditions/</guid>
       <description>Please read these terms of service (&amp;ldquo;terms&amp;rdquo;, &amp;ldquo;terms of service&amp;rdquo;) carefully before using the Autism-101 website (the &amp;ldquo;service&amp;rdquo;) operated by Autism-101 (&amp;ldquo;us&amp;rdquo;, &amp;lsquo;we&amp;quot;, &amp;ldquo;our&amp;rdquo;).</description>
+    </item>
+    
+    <item>
+      <title>Why Functioning labels are not helpful.</title>
+      <link>https://autism-101.com/functioning-labels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://autism-101.com/functioning-labels/</guid>
+      <description>What&amp;rsquo;s The Big Deal? After being around the autistic community for a while, you will come across the use of functioning labels.</description>
     </item>
     
   </channel>
