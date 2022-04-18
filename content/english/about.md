@@ -1,5 +1,5 @@
 ---
-title: About Autism-101 website creator.
+title: "About Autism-101 Creator"
 subtitle: ''
 description: About
 layout: about

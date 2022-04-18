@@ -1,5 +1,5 @@
 ---
-title: "Autism-101 Contact Us"
+title: "Contact Us"
 subtitle: ""
 # meta description
 description: "Contact Us"

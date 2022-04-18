@@ -1,5 +1,5 @@
 ---
-title: "Hyperfocus in Autism"
+title: "Hyperfocus"
 date: 2022-04-02T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Autism-101 Privacy Policy"
+title: "Privacy Policy"
 subtitle: ""
 # meta description
 description: "Autism-101 Privacy Policy"

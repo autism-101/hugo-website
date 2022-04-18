@@ -1,7 +1,7 @@
 ---
 date: "2022-01-28"
 draft: false
-title: "Autastic website review."
+title: "Autastic"
 logo: "images/autistic-groups/01.png"
 alttext: "Autastic"
 ---

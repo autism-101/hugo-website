@@ -1,5 +1,5 @@
 ---
-title: "Autism-101 author overview."
+title: "Autism 101"
 image: "images/avatar/03.jpg"
 social:
   - icon : "fab fa-twitter"

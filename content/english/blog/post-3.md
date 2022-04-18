@@ -1,5 +1,5 @@
 ---
-title: "Autism and Routines - why they are helpful."
+title: "Autism and Routines"
 date: 2022-04-16T10:07:21+06:00
 # post image
 image: "images/blog/post-3.jpg"
