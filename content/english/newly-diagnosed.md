@@ -77,6 +77,8 @@ about_this_product:
     * <a href='https://www.instagram.com/neurocurioustherapist/'>neurocurioustherapist</a>
 
     * <a href='https://www.instagram.com/autieselfcare/'>autieselfcare</a>    
+
+    * <a href='https://www.instagram.com/mind_your_autistic_brain'>mind_your_autistic_brain</a>
     "
 
   - title: "Youtube"
@@ -105,9 +107,9 @@ about_this_product:
 
     * <a href='https://www.youtube.com/c/StephanieBethany'>Stephanie Bethany</a>
 
-    * <a href='https://www.youtube.com/c/MindYourAutisticBrainwithSocialAUtie'>Social Autie</a>
+    * <a href='https://www.youtube.com/c/MindYourAutisticBrainwithSocialAUtie'>Mind Your Autistic Brain - Social Autie</a>
 
-    * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>    
+    * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>
     "
       
   - title: "TikTok"
@@ -270,6 +272,18 @@ product_info:
     ###### Service
 
     \"Ira has been advocating for disabled students on their university campus as a disabled graduate student. They enjoy playing online games with their friends and connecting to other autistic adults and the disability community through social media.\"
+    "
+
+  - image: "images/social_autie.jpg"
+    content : "##### SocialAutie.com
+
+    <a href=\"https://socialautie.com\" text=\"Social Autie\">Social Autie</a> is run by autistic self-advocate Carole Jean Whittington. She hosts the \"Mind Your Autistic Brain\" Talk Show for Late Identified Autistics.
+
+    <br><br>
+
+    ###### Coaching Available
+
+    Today, she teaches a global audience of adult Autistics in over 65 countries how to go from Burnout to Thriving through The UnVeiling Method™. Carole Jean uses her *NeuroDistinct perspective to share a common language from a place of deep knowing and experience.
     "
 ######################### Intro Video #####################
 intro_video:
