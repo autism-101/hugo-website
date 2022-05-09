@@ -52,7 +52,7 @@ about_this_product:
     
     <br><br>
 
-    For instance in the U.S. they use The American Psychiatric Association’s Diagnostic and Statistical Manual, Fifth Edition (<a href=\"https://www.cdc.gov/ncbddd/autism/hcp-dsm.html\">DSM-5</a>) and testing often utilizes the Autism Diagnostic Observation Schedule (ADOS-2) for adults.
+    For instance in the U.S. they use The American Psychiatric Association’s Diagnostic and Statistical Manual, Fifth Edition (<a href=\"https://www.cdc.gov/ncbddd/autism/hcp-dsm.html\">DSM-5</a>) and testing often utilizes the Autism Diagnostic Observation Schedule (ADOS-2) for adults. The ADOS-2 may be less sensitive to female presentations of Autism (<a href=\"https://link.springer.com/article/10.1007/s10803-022-05566-3\">Sex Differences on the ADOS-2</a>).
 
     <br><br>
     
