@@ -1,7 +1,7 @@
 ---
 date: "2022-01-26"
 draft: false
-title: "Sounds autistic"
+title: "Sounds Autistic"
 logo: "images/autistic-groups/03.png"
 alttext: "Sounds Autistic"
 ---
@@ -18,4 +18,4 @@ The {{< newtabref  href="https://www.facebook.com/groups/2223274367896109/" titl
 * Accessibility is a must - If you are asked to add image descriptions, or to remove inaccessible backgrounds, you are required to do so. Modmins will write descriptions for you to add where possible.
 
 
-<a href="https://www.facebook.com/groups/2223274367896109/" rel="external">{{< image title="Sounds autistic, I'm in is a Facebook group for autistic adults 18+ only." w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-3.jpg" alt="Sounds autistic I'm in Facebook Group" >}}</a>
+<a href="https://www.facebook.com/groups/2223274367896109/" rel="external">{{< image title="Sounds Autistic, I'm in is a Facebook group for autistic adults 18+ only." w="1200" o="webp q100" p="center" c="img-fluid shadow rounded-1" src="images/autistic-groups/group-3.jpg" alt="Sounds Autistic I'm in Facebook Group" >}}</a>
