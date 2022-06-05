@@ -251,10 +251,10 @@ name = "About"
 url = "about/"
 weight = 1
 
-# [[footer_left]]
-# name = "Team"
-# url = "team/"
-# weight = 2
+[[footer_left]]
+name = "Blog"
+url = "blog/"
+weight = 2
 
 # [[footer_left]]
 # name = "How It Works"
