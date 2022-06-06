@@ -2,7 +2,7 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "Contact Us"
+description: "Autism-101 Contact Us Page"
 draft: false
 layout: "contact"
 ---

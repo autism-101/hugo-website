@@ -1,7 +1,7 @@
 ---
 title: "About Autism-101 Creator"
 subtitle: ''
-description: About
+description: "About Autism-101 website creator."
 layout: about
 about:
   title: An Autistic Person

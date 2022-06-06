@@ -8,7 +8,7 @@ author: "Autism 101"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Craving Routines"
+description: "Why Autistics love routines."
 # post draft
 draft: false
 ---
