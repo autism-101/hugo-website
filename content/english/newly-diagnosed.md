@@ -2,7 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Autistic resources for the newly diagnosed."
-description: "Newly Diagnosed"
+description: "I'm newly diagnosed as Autistic."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 layout: "newly-diagnosed"
 
