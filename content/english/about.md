@@ -4,7 +4,7 @@ subtitle: ''
 description: "About Autism-101 website creator."
 layout: about
 about:
-  title: An Autistic Person
+  title: I'm An Autistic Person
   content: I have a passion to try and help those who are newly diagnosed as Autistic
     and those who think they might be.
   image: images/autism-101-group.jpg

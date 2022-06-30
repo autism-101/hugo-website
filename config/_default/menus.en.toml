@@ -151,6 +151,12 @@ hasChildren = true
 
   [[main]]
   parent = "Pages"
+  name = "About"
+  url = "about/"
+  weight = 14
+
+  [[main]]
+  parent = "Pages"
   name = "FAQ"
   url = "faq/"
   weight = 16
