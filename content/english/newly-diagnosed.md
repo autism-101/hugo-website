@@ -211,7 +211,7 @@ product_info:
 
     ###### Ask JAN!
 
-   \"<a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce.\"
+   \"<a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce.\" Autism related resources can be found: <a href=\"https://askjan.org/disabilities/Autism-Spectrum.cfm\" text=\"ASKJan ASD Resources\">here</a>.
     "
 
   - image: "images/thinking-persons-guide.jpg"
