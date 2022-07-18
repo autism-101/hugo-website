@@ -41,6 +41,8 @@ about_this_product:
 
    * <a href='https://www.idrlabs.com/autism-quotient/test.php'>Autism Quotient (AQ) Test</a>
    
+   * <a href='https://rdos.net/eng/Aspie-quiz.php'>Aspie-Quiz</a>
+
    * <a href='https://www.idrlabs.com/3-minute-asperger-syndrome/test.php'>3 Minute Asperger Syndrome Test</a>
 
    * <a href='https://www.clinical-partners.co.uk/for-adults/autism-and-aspergers/adult-autism-test/test'>Adult Autism Test</a>
