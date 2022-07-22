@@ -12,10 +12,10 @@ banner:
   image: "images/education.jpg"
   imagealt: "A woman is shown reading while sitting on a large stack of books."
   content : "I have gathered some great resources for you to learn more."
-  button:
-    enable : true
-    label : "Youtube Playlists"
-    link : "https://www.youtube.com/channel/UCNJB9XK2b2l9fy0pvDFPFgg/playlists"    
+#  button:
+#    enable : true
+#    label : "Youtube Playlists"
+#    link : "https://www.youtube.com/channel/UCNJB9XK2b2l9fy0pvDFPFgg/playlists"    
   button2:
     enable : true
     label : "Goodreads Lists"

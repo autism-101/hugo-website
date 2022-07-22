@@ -83,12 +83,8 @@ about_this_product:
 
   - title: "Youtube"
     icon: "fab fa-youtube"
-    content: "Youtube has a lot of Autistic content creators that post about living with Autism. <br><br>Here are both our playlists and some other wonderful content creators:
+    content: "Youtube has a lot of Autistic content creators that post about living with Autism. <br><br>Here are some wonderful content creators:
     
-    * <a href='https://www.youtube.com/watch?v=eJoww4Cx47M&list=PL0t4t5lmGKqSK93KM0FBnOOccPiUbdWWG'>Autistic Living</a>
-
-    * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis</a>
-
     * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber</a>
 
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
