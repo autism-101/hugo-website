@@ -99,10 +99,10 @@ title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://github.com/autism-101"
 
-#[[social]]
-#title = "youtube"
-#icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM"
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM"
 
 [[social]]
 title = "goodreads"
