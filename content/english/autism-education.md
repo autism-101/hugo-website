@@ -8,10 +8,10 @@ layout: "education"
 
 ######################### banner #####################
 banner:
-  title: "Education"
+  title: "Autism Education"
   image: "images/education.jpg"
   imagealt: "A woman is shown reading while sitting on a large stack of books."
-  content : "I have gathered some great resources for you to learn more."
+  content : "I have gathered some great resources for you to learn more about autism directly from other autistic people."
   button:
     enable : true
     label : "Youtube Playlists"

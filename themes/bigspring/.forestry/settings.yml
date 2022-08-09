@@ -50,19 +50,19 @@ sections:
   path: bigspring/content/english/about.md
   label: About (en)
 - type: document
-  path: bigspring/content/english/education.md
+  path: bigspring/content/english/autism-education.md
   label: Educations (en)
 - type: document
   path: bigspring/content/english/faq.md
   label: FAQ (en)
 - type: document
-  path: bigspring/content/english/functioning-labels.md
+  path: bigspring/content/english/autism-functioning-labels.md
   label: Functioning Labels (en)
 - type: document
   path: bigspring/content/english/i-might-be-autistic.md
   label: I Might Be Autistic (en)
 - type: document
-  path: bigspring/content/english/newly-diagnosed.md
+  path: bigspring/content/english/autism-resources-newly-diagnosed.md
   label: Newly Diagnosed (en)
 - type: document
   path: bigspring/content/english/contact.md

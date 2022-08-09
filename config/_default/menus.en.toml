@@ -190,7 +190,7 @@ isMenuLarge = true
   name = "Newly Diagnosed"
   pre = "<i class='dropdown-icon fas fa-user-md'></i>"
   post = "<small class='dropdown-subtitle'>I was just diagnosed as autistic.</small>"
-  url = "newly-diagnosed/"
+  url = "autism-resources-newly-diagnosed/"
   weight = 1
   
   [[main]]
@@ -219,18 +219,18 @@ isMenuLarge = true
 
   [[main]]
   parent = "Resources"
-  name = "Education"
+  name = "Autism Education"
   pre = "<i class='dropdown-icon fas fa-book'></i>"
   post = "<small class='dropdown-subtitle'>Great books by autistic authors.</small>"
-  url = "education/"
+  url = "autism-education/"
   weight = 5
 
   [[main]]
   parent = "Resources"
-  name = "Functioning Labels"
+  name = "Autism Functioning Labels"
   pre = "<i class='dropdown-icon fas fa-user-tag'></i>"
   post = "<small class='dropdown-subtitle'>Why they are not helpful.</small>"
-  url = "functioning-labels/"
+  url = "autism-functioning-labels/"
   weight = 6
 
 [[main]]
@@ -276,7 +276,7 @@ weight = 2
 # footer menu middle
 [[footer_middle]]
 name = "Newly Diagnosed"
-url = "newly-diagnosed/"
+url = "autism-resources-newly-diagnosed/"
 weight = 1
 
 [[footer_middle]]
@@ -295,13 +295,13 @@ weight = 3
 # weight = 4
 
 [[footer_middle]]
-name = "Education"
-url = "education/"
+name = "Autism Education"
+url = "autism-education/"
 weight = 5
 
 [[footer_middle]]
-name = "Functioning Labels"
-url = "functioning-labels/"
+name = "Autism Functioning Labels"
+url = "autism-functioning-labels/"
 weight = 6
 
 # footer menu right

@@ -20,7 +20,7 @@ autism_header:
   button:
     enable : true
     label : "Newly Diagnosed"
-    link : "newly-diagnosed/"
+    link : "autism-resources-newly-diagnosed/"
   button2:
     enable : true
     label : "I Might Be Autistic"
