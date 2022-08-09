@@ -52,6 +52,24 @@ about_this_product:
     * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
     "
 
+  - title: "Reddit"
+    icon: "fab fa-reddit"
+    content: "Reddit has a lot of wonderful Autistic subreddits. <br><br>Some popular ones are:
+    
+    * <a href='https://www.reddit.com/r/AutisticAdults/'>Autistic Adults</a>
+
+    * <a href='https://www.reddit.com/r/autism/'>Autism</a>
+
+    * <a href='https://www.reddit.com/r/AutisticPride/'>Autistic Pride</a>
+
+    * <a href='https://www.reddit.com/r/AutismTranslated/'>Autism Translated</a>
+
+    * <a href='https://www.reddit.com/r/aspergirls/'>Aspergirls</a>
+
+    * <a href='https://www.reddit.com/r/AutisticCreatives/'>Autistic Creatives</a>
+
+    "
+
   - title: "Instagram"
     icon: "fab fa-instagram"
     content: "Instagram has a lot of Autistic content creators that post both images and short videos. <br><br>Some popular ones are:
