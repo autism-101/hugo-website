@@ -14,12 +14,12 @@ banner:
   content : "I have gathered some great resources for you to learn more about autism directly from other autistic people."
   button:
     enable : true
-    label : "Youtube Playlists"
-    link : "https://www.youtube.com/channel/UCNJB9XK2b2l9fy0pvDFPFgg/playlists"    
-  button2:
-    enable : true
     label : "Goodreads Lists"
     link : "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
+  button2:
+    enable : true
+    label : "Youtube Playlists"
+    link : "https://www.youtube.com/channel/UCNJB9XK2b2l9fy0pvDFPFgg/playlists"    
   background_class: "bg-light"
 
 
