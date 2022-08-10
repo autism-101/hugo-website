@@ -60,6 +60,8 @@ about_this_product:
 
     * <a href='https://www.reddit.com/r/autism/'>Autism</a>
 
+    * <a href='https://www.reddit.com/r/AutismInWomen/'>Autism In Women</a>
+
     * <a href='https://www.reddit.com/r/AutisticPride/'>Autistic Pride</a>
 
     * <a href='https://www.reddit.com/r/AutismTranslated/'>Autism Translated</a>
