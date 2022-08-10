@@ -13,7 +13,7 @@ description: "How to Deal with Sensory Issues"
 draft: false
 ---
 
-My whole life I have struggled with the loudness of music and sounds. While at a movie or concert I often resort to putting both of my hands over my ears. I will look around and wonder why I am the only one in this large group of people that it bothers. How can they not hear how LOUD it is? Sensitivity to sounds also affects are sleep at night. Many of us suffer from insomnia.
+My whole life I have struggled with the loudness of music and sounds. While at a movie or concert I often resort to putting both of my hands over my ears. I will look around and wonder why I am the only one in this large group of people that it bothers. How can they not hear how LOUD it is? Sensitivity to sounds also affects our sleep at night. Many of us suffer from insomnia.
 
 I’m also sensitive to light and prefer to sit in the dark. Since I work from home, I will go through the house and turn off all of the lights when my family leaves for the day. I use dark-mode on my computer and I reverse black and white colors by using a black background with green or white text.
 
