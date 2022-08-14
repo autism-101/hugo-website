@@ -73,3 +73,6 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+############################ WebFontLoader PR Fix for 404 Error ###########################
+# custom_js = ["js/custom.js"]
