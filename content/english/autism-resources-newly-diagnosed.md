@@ -308,17 +308,7 @@ product_info:
     \"Ira has been advocating for disabled students on their university campus as a disabled graduate student. They enjoy playing online games with their friends and connecting to other autistic adults and the disability community through social media.\"
     "
 
-  - image: "images/social_autie.jpg"
-    content : "##### SocialAutie.com
-
-    <a href=\"https://socialautie.com\" text=\"Social Autie\">Social Autie</a> is run by autistic self-advocate Carole Jean Whittington. She hosts the \"Mind Your Autistic Brain\" Talk Show for Late Identified Autistics.
-
-    <br><br>
-
-    ###### Coaching Available
-
-    Today, she teaches a global audience of adult Autistics in over 65 countries how to go from Burnout to Thriving through The UnVeiling Method™. Carole Jean uses her *NeuroDistinct perspective to share a common language from a place of deep knowing and experience.
-    "
+  
 ######################### Intro Video #####################
 intro_video:
   enable: false
