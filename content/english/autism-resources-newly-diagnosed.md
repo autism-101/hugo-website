@@ -309,6 +309,18 @@ product_info:
     "
 
   
+  - image: "images/luna-rose.jpg"
+    content : "##### MissLunaRose.home.blog
+
+    <a href=\"https://misslunarose.home.blog\" text=\"Autistic Dreams\">Autistic Dreams</a> is a blog run by Miss Luna Rose, an autistic writer and artist who's work can be found on wikiHow.com.
+
+    <br><br>
+
+    ###### Welcome!
+
+    \"I’m Luna (MissLunaRose), a writer, wikiHow artist, and autistic person making her way in the world. I’ve slowed down on new posts while I learn to navigate the working world.\"
+    "
+
 ######################### Intro Video #####################
 intro_video:
   enable: false
