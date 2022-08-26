@@ -31,7 +31,7 @@ about_this_product:
     icon: "fab fa-twitter"
     content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
     <br><br>
-    Here is our Twitter List of Autistic and Neurodivergent people:
+    Here is our Twitter List with over a 1,000 Autistic and Neurodivergent people:
    
    * <a href='https://mobile.twitter.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a>
 
