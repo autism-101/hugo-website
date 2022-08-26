@@ -141,7 +141,9 @@ about_this_product:
     * <a href='https://www.facebook.com/groups/2223274367896109/'>Sounds Autistic I'm In</a>
 
     * <a href='https://www.facebook.com/groups/OlderAdultsASD/'>Older Adults with Aspergers</a>
+
     * <a href='https://www.facebook.com/groups/thatausomebookclub/'>That Au-Some Book Club</a>
+
     * <a href='https://www.facebook.com/groups/autisminclusivity/'>Autistic Pride</a>
     "
 
