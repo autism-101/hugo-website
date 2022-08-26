@@ -134,7 +134,7 @@ about_this_product:
       
   - title: "Facebook"
     icon: "fab fa-facebook"
-    content: "Facebook has a few Autistic group pages. <br><br>Some popular ones are:
+    content: "Facebook has some great Autistic group pages. <br><br>Some popular ones are:
     
     * <a href='https://www.facebook.com/groups/2036299673287000/'>Autistic Adults</a>
 
