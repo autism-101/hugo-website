@@ -132,6 +132,16 @@ about_this_product:
     * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>
     "
       
+  - title: "Facebook"
+    icon: "fab fa-facebook"
+    content: "Facebook has a few Autistic group pages. <br><br>Some popular ones are:
+    
+    * <a href='https://www.facebook.com/groups/2036299673287000/'>Autistic Adults</a>
+
+    * <a href='https://www.facebook.com/groups/2223274367896109/'>Sounds Autistic I'm In</a>
+
+    "
+
   - title: "TikTok"
     icon: "fab fa-tiktok"
     content: "TikTok is beginning to have more and more Autistic content creators. We will be adding much more to this list below:

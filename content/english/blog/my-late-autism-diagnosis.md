@@ -15,7 +15,7 @@ draft: false
 
 “See If You’re On The Spectrum!” read a link on social media. I was bored so I clicked on the link. It took me to an autism screening test called, The Autism Spectrum Quotient or AQ for short. The test consists of 50 questions. The average score people get is around 16. Eighty percent of those diagnosed with autism score 32 percent or higher. So I took the test. At the end it computes your score. Out came my result…43! 
 
-> This test is flawed!!.
+> This test is flawed!!
 >
 > <cite>My Reaction To My Test Results</cite>
 
