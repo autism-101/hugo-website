@@ -169,7 +169,22 @@ about_this_product:
 
     * <a href='https://podcasts.apple.com/us/podcast/neurodiverging/id1503548455?i=1000468898335'>Neurodiverging with Danielle Sullivan</a>
 
+    * <a href='https://podcasts.apple.com/us/podcast/hacking-your-adhd/id1481135244'>Hacking Your ADHD</a>
+
     "
+
+  - title: "Discord"
+    icon: "fab fa-discord"
+    content: "Here are some great autistic Discord channels where you can hang out with other autistic people.
+    
+    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
+
+    * <a href='https://discord.gg/KkKHYHzHzk'>Autistic Adults - Emotional Support</a>
+
+    * <a href='https://discord.mamapistachio.com/'>Mama Pistachio</a>
+
+    "
+
 ######################### product_info #####################
 product_info:
   enable : true
