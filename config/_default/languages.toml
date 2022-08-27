@@ -1,0 +1,11 @@
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1
+########### footer content ##########
+footer_menu_left = "Autism-101"
+footer_menu_middle = "Resources"
+footer_menu_right = "Support"
+footer_content = "Resources for newly diagnosed Autistic people and those who think they might be."

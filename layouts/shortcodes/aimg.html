@@ -1,0 +1,4 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := resources.GetMatch (.Get "src") }}
+
+<img src="{{$src.RelPermalink}}" alt="{{ .Get "title" }}">
