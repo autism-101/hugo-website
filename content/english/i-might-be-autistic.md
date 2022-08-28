@@ -37,7 +37,7 @@ about_this_product:
    
    * <a href='https://www.idrlabs.com/autism-spectrum/test.php'>Autism Spectrum Test</a>
 
-   * <a href='https://aspietests.org/raads/index.php'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
+   * <a href='https://aspietests.org'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
 
    * <a href='https://aspietests.org/userdetails.php?target=aq/index.php'>Autism Quotient (AQ) Test</a>
    
