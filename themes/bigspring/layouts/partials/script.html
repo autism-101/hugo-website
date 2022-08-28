@@ -8,7 +8,8 @@
 {{ $bootstrap = $bootstrap | fingerprint "sha512" }}
 {{ end }}
 <!-- <script crossorigin="anonymous" defer {{ if hugo.IsProduction }}integrity="{{ $bootstrap.Data.Integrity }}"{{end}} type="application/javascript">{{$bootstrap.Content | safeJS}}</script> -->
-<script crossorigin="anonymous" defer {{ if hugo.IsProduction }}integrity="{{ $bootstrap.Data.Integrity }}"{{end}} type="application/javascript" src="{{$bootstrap.Content}}"></script>
+<!-- <script crossorigin="anonymous" defer {{ if hugo.IsProduction }}integrity="{{ $bootstrap.Data.Integrity }}"{{end}} type="application/javascript" src="{{$bootstrap.Content}}"></script> -->
+<script crossorigin="anonymous" defer {{ if hugo.IsProduction }}integrity="{{ $bootstrap.Data.Integrity }}"{{end}} type="application/javascript" src="{{$bootstrap.Permalink}}"></script>
 
 <!-- JS Plugins + Main script -->
 {{ $scripts := slice }}
