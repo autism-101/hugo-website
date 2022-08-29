@@ -6,7 +6,7 @@ image: "images/blog/post-5.jpg"
 # author
 author: "Autism 101"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "My Autism Diagnosis in My Late 50’s And How It Changed Me."
 # post draft
