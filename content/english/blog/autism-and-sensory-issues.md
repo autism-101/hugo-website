@@ -6,7 +6,7 @@ image: "images/blog/post-4.jpg"
 # author
 author: "Autism 101"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "How to Deal with Sensory Issues"
 # post draft
