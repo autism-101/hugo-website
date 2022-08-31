@@ -177,9 +177,11 @@ about_this_product:
     icon: "fab fa-discord"
     content: "Here are some great autistic Discord channels where you can hang out with other autistic people.
     
-    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
-
     * <a href='https://discord.gg/KkKHYHzHzk'>Autistic Adults - Emotional Support</a>
+
+    * <a href='https://discord.com/invite/8tgdN4Nu46'>Narratives of Neurodiversity Network</a>
+
+    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
     * <a href='https://discord.mamapistachio.com/'>Mama Pistachio</a>
 
