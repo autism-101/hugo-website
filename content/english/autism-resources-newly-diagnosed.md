@@ -66,6 +66,8 @@ about_this_product:
 
     * <a href='https://www.reddit.com/r/AutismTranslated/'>Autism Translated</a>
 
+    * <a href='https://www.reddit.com/r/aspergers/'>Aspergers</a>
+
     * <a href='https://www.reddit.com/r/aspergirls/'>Aspergirls</a>
 
     * <a href='https://www.reddit.com/r/AutisticCreatives/'>Autistic Creatives</a>
