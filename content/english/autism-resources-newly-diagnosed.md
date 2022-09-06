@@ -163,11 +163,13 @@ about_this_product:
     icon: "fa fa-podcast"
     content: "There are many wonderful autistic run Podcasts for you to enjoy. Here are some great ones to get you started:
     
+    * <a href='https://podcasts.apple.com/us/podcast/aut-hour/id1579235089?i=1000530661239'>Aut-Hour with Sarah Gibbs</a>
+
+    * <a href='https://podcasts.apple.com/us/podcast/autism-in-conversation-with-auticon/id1595836489'>Autism: In Conversation with Auticon</a>
+
     * <a href='https://open.spotify.com/show/7uBTvQIqIj9WJj7KYOBKT8?si=ktBnnPTGS5W7IRCPk0r85g'>A Team with Robert Smythe and Rafael Mantesso</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/thoughty-auti-the-autism-mental-health-podcast/id1470689079?i=1000448911164'>Thoughty Auti with Thomas Henley</a>
-
-    * <a href='https://podcasts.apple.com/us/podcast/aut-hour/id1579235089?i=1000530661239'>aut-hour with Sarah Gibbs</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/neurodiverging/id1503548455?i=1000468898335'>Neurodiverging with Danielle Sullivan</a>
 
