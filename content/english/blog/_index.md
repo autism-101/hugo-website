@@ -1,7 +1,7 @@
 ---
 title: "Blog Posts"
-subtitle: "Read all our latest blog posts."
+subtitle: "Living life neurodivergently."
 # meta description
-description: "Read all our latest blog posts."
+description: "Living life neurodivergently."
 draft: false
 ---
