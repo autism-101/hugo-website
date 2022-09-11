@@ -11,4 +11,4 @@ layout: "contact"
 #### How can I help you? Let me know!
 I will try my best to answer or point you in the right direction.
 
-* **Mail: contact@autism-101.com**
+* **Mail: contact AT autism-101.com**
