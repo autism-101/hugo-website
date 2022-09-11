@@ -235,17 +235,17 @@ isMenuLarge = true
 
 [[main]]
 weight = 13
-name = "Blog"
+name = "Autism Blog"
 hasChildren = true
 
   [[main]]
-  parent = "Blog"
+  parent = "Autism Blog"
   name = "Blog Posts"
-  url = "blog/"
+  url = "autism-blog/"
   weight = 3
 
   [[main]]
-  parent = "Blog"
+  parent = "Autism Blog"
   name = "Author"
   url = "author/"
   weight = 11
@@ -258,8 +258,8 @@ url = "about/"
 weight = 1
 
 [[footer_left]]
-name = "Blog"
-url = "blog/"
+name = "Autism Blog"
+url = "autism-blog/"
 weight = 2
 
 # [[footer_left]]
