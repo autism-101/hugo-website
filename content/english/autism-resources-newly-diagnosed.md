@@ -107,9 +107,9 @@ about_this_product:
     icon: "fab fa-youtube"
     content: "Youtube has a lot of Autistic content creators that post about living with Autism. <br><br>Here are both our playlists and some other wonderful content creators:
     
-    * <a href='https://www.youtube.com/watch?v=eJoww4Cx47M&list=PL0t4t5lmGKqSK93KM0FBnOOccPiUbdWWG'>Autistic Living</a>
+    * <a href='https://www.youtube.com/watch?v=eJoww4Cx47M&list=PL0t4t5lmGKqSK93KM0FBnOOccPiUbdWWG'>Autism-101 Autistic Living Playlist</a>
 
-    * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis</a>
+    * <a href='https://www.youtube.com/watch?v=x2hWVgZ8J4A&list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism-101 Autism and Diagnosis Playlist</a>
 
     * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber</a>
 
@@ -185,9 +185,9 @@ about_this_product:
 
     * <a href='https://discord.com/invite/8tgdN4Nu46'>Narratives of Neurodiversity Network</a>
 
-    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
-
     * <a href='https://discord.mamapistachio.com/'>Mama Pistachio</a>
+
+    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
     "
 
