@@ -64,7 +64,7 @@ about_this_product:
     
     Here is a playlist of resources with discussions about autism and diagnosis:
     
-    * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism and Diagnosis - Autism-101 Playlist</a>
+    * <a href='https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM'>Autism-101 Autism and Diagnosis Playlist</a>
     "
       
 ######################### product_info #####################
