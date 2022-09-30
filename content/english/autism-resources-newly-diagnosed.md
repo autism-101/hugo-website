@@ -11,7 +11,7 @@ banner:
   title: "What Now?"
   image: "images/what-now.jpg"
   imagealt: "A woman of color sits in a train looking ahead and pondering."
-  content : "So you have been diagnosed as Autistic, what are your next steps? It is important to realize that you are not alone. There are many Autistic communities both online and in real life for you to enjoy. Check out the \"Autistic Groups\" page or scroll down to learn how to find other Autistic people on social media and to explore some Autistic run websites."
+  content : "So you have been diagnosed or self-diagnosed as Autistic, what are your next steps? It is important to realize that you are not alone. There are many Autistic communities both online and in real life for you to enjoy. Check out the \"Autistic Groups\" page or scroll down to learn how to find other Autistic people on social media and to explore some Autistic run websites."
   button:
     enable : true
     label : "Autistic Groups"

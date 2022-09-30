@@ -10,7 +10,7 @@ layout: "about"
 # about
 about:
   title: "I'm An Autistic Person"
-  content: "I have a passion to try and help those who are newly diagnosed as Autistic
+  content: "I have a passion to try and help those who are newly diagnosed or self-diagnosed as Autistic
     and those who think they might be."
   image: "images/autism-101-group.jpg"
 

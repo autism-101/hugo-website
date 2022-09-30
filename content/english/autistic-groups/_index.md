@@ -14,7 +14,7 @@ call_to_action:
   enable : true
   title : "Let's work together."
   image : "images/vector.svg"
-  content : "We are always looking to find like-minded individuals or groups to partner with towards our goal of helping newly diagnosed autistics."
+  content : "We are always looking to find like-minded individuals or groups to partner with towards our goal of helping newly diagnosed or self-diagnosed autistics."
   button:
     enable : true
     label : "Contact Us"
