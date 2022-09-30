@@ -1,6 +1,8 @@
 <meta charset="utf-8">
 <title>{{.Title | default site.Title}}</title>
 
+{{ with .Params.robotsdisallow }}<meta name="robots" content="noindex, nofollow, noarchive">{{ end }}
+
 <!-- responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 

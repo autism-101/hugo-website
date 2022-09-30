@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /mymeeting/
 Disallow: /tags/
 Disallow: /categories/
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+Sitemap: {{ "sitemap.xml" | absLangURL }}
