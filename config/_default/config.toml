@@ -6,6 +6,8 @@ theme = ["bigspring"]
 timeZone = "America/Chicago"
 # post pagination
 paginate = "6" # see https://gohugo.io/extras/pagination/
+# Required if you want to render robots.txt template
+enableRobotsTXT = true
 # post excerpt
 summaryLength = "10" # see https://gohugo.io/content-management/excerpts/
 # google analytics
