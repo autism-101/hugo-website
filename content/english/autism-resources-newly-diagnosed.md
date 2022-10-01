@@ -49,6 +49,8 @@ about_this_product:
 
     * <a href='https://twitter.com/search?q=%23AutisticElders&src=typed_query'>#AutisticElders</a>
 
+    * <a href='https://twitter.com/search?q=%23AutisticWhileBlack&src=typed_query'>#AutisticWhileBlack</a>
+
     * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
     "
 
