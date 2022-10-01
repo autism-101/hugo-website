@@ -4,7 +4,7 @@ date: 2022-04-02T10:07:21+06:00
 # post image
 image: "images/blog/post-1.jpg"
 # author
-author: "Autism 101"
+author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description

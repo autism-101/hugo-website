@@ -9,18 +9,17 @@ layout: "about"
 
 # about
 about:
-  title: "I'm An Autistic Person"
-  content: "I have a passion to try and help those who are newly diagnosed or self-diagnosed as Autistic
-    and those who think they might be."
+  title: "About Autism-101"
+  content: "I'm Jeff Owens, an Autistic person that is passionate about helping those who are newly diagnosed or self-diagnosed as Autistic and those who think they might be. I built this website to help Autistic people connect with each other, and to learn more about Autism."
   image: "images/autism-101-group.jpg"
 
 
 # founders_quote
 founders_quote:
-  name: "Naoki Higashida"
-  subtitle: "Autistic Author - \"The Reason I Jump\""
-  image: "images/avatar/04.png"
-  content: "Everybody has a heart that can be touched by something."
+  name: "Jeff Owens"
+  subtitle: "@Autism1o1"
+  image: "images/avatar/03.jpg"
+  content: "Autistic people just want to be treated with respect like everyone else."
 
 
 # who_we_are
