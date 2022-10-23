@@ -50,7 +50,7 @@ email = "contact@autism-101.com"
 keywords = ["autism 101", "autism diagnosis", "autistic people"]
 description = "Autism-101 - Resources for newly diagnosed or self-diagnosed autistic people, and for those who think they might be autistic."
 author = "Autism-101"
-image = "images/logo.png"                           # this image will be used as fallback if a page has no image of its own
+image = ""                           # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
 [matomo]

@@ -3,6 +3,8 @@ title: "In Sync"
 date: 2022-04-02T10:07:21+06:00
 # post image
 image: "images/blog/post-2.jpg"
+# twitter card image
+og_image: "images/blog/post-2.jpg"
 # author
 author: "Jeff Owens"
 # post type (regular/featured)

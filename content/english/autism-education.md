@@ -4,6 +4,8 @@ draft: false
 title: "Autism educational resources."
 description: "Autism education resources."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
+# twitter card image
+og_image: "images/education.jpg"
 layout: "education"
 
 ######################### banner #####################

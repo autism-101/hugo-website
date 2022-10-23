@@ -1,4 +1,7 @@
 ---
+# twitter card image
+og_image: "images/banner-art.jpg"
+
 ####################### Banner #########################
 banner:
   title : "Let us solve your critical website development challenges"

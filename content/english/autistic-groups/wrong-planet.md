@@ -3,6 +3,8 @@ date: "2022-01-25"
 draft: false
 title: "Wrong Planet"
 logo: "images/autistic-groups/04.png"
+# twitter card image
+og_image: "images/autistic-groups/04.png"
 alttext: "Wrong Planet"
 ---
 

@@ -7,7 +7,7 @@
     <div class="row gy-5 justify-content-center">
     {{range where site.RegularPages "Section" .Params.section}}
     <div class="col-xl-3 col-lg-4 col-sm-6">
-      <a href="{{.RelPermalink}}" class="d-block text-reset h-100">
+      <a href="{{.RelPermalink}}" class="d-block text-reset h-100" rel="canonical">
         <div class="card bg-transparent shadow border-0 is-hoverable h-100">
           <div class="card-img-top" style="background:#f9f9f9">
             {{ partial "image" (dict "Src" .Params.logo "Alt" .Title "Size" "x220")}}

@@ -10,7 +10,7 @@
           <p class="mb-5">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
-          <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-outline-primary">{{ .label }}</a>
+          <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-outline-primary" rel="canonical">{{ .label }}</a>
           {{ end }}
           {{ end }}
         </div>

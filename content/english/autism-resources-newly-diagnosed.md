@@ -4,6 +4,8 @@ draft: false
 title: "Autism resources for the newly diagnosed."
 description: "I'm newly diagnosed as Autistic."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
+# twitter card image
+og_image: "images/what-now.jpg"
 layout: "newly-diagnosed"
 
 ######################### banner #####################
@@ -119,7 +121,7 @@ about_this_product:
 
     * <a href='https://www.youtube.com/channel/UCdaQVw-dxYuZb2GXHL7LSjA'>Neurodivergent Rebel</a>
 
-    * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Aspergers From The Inside</a>    
+    * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Autism From The Inside</a>    
 
     * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
     

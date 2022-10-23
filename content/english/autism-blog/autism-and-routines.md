@@ -3,6 +3,8 @@ title: "Autism and Routines"
 date: 2022-04-16T10:07:21+06:00
 # post image
 image: "images/blog/post-3.jpg"
+# twitter card image
+og_image: "images/blog/post-3.jpg"
 # author
 author: "Jeff Owens"
 # post type (regular/featured)

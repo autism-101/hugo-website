@@ -8581,3 +8581,29 @@ iframe.wait-autoplay {
 
 .mt-6 {
   margin-top: 2.8rem !important; }
+
+a.uparrow {
+  text-decoration: none; }
+
+.external {
+  background-image: url(/images/arrow-link2.svg);
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: 0.857em;
+  padding-right: 1em; }
+
+a.external {
+  text-decoration: none; }
+
+ol.references li a.external:hover {
+  text-decoration: underline;
+  color: #ffffff; }
+
+ol.references li:target, sup.reference:target {
+  background-color: #ae610e; }
+
+ol.references li:target, sup.reference:target {
+  background-color: #ae610e; }
+
+.content sup.reference a:hover {
+  color: #ffffff; }

@@ -3,6 +3,8 @@ title: "About Autism-101 Creator"
 subtitle: ""
 # meta description
 description: "About Autism-101 website creator."
+# twitter card image
+og_image: "images/autism-101-group.jpg"
 draft: false
 layout: "about"
 

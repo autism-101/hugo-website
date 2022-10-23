@@ -3,6 +3,8 @@ date: "2022-01-21"
 draft: false
 title: "ACEing Autism"
 logo: "images/autistic-groups/08.png"
+# twitter card image
+og_image: "images/autistic-groups/08.png"
 alttext: "ACEing Autism"
 ---
 

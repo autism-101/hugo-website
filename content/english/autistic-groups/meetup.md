@@ -3,6 +3,8 @@ date: "2022-01-23"
 draft: false
 title: "Meetup"
 logo: "images/autistic-groups/06.png"
+# twitter card image
+og_image: "images/autistic-groups/06.png"
 alttext: "Meetup"
 ---
 

@@ -189,7 +189,7 @@ isMenuLarge = true
   parent = "Resources"
   name = "Newly Diagnosed"
   pre = "<i class='dropdown-icon fas fa-user-md'></i>"
-  post = "<small class='dropdown-subtitle'>I was just diagnosed as autistic.</small>"
+  post = "<small class='dropdown-subtitle'>I've just been diagnosed or self-diagnosed as autistic.</small>"
   url = "autism-resources-newly-diagnosed/"
   weight = 1
   
@@ -197,7 +197,7 @@ isMenuLarge = true
   parent = "Resources"
   name = "I Might Be Autistic"
   pre = "<i class='dropdown-icon fas fa-portrait'></i>"
-  post = "<small class='dropdown-subtitle'>How can I tell?</small>"
+  post = "<small class='dropdown-subtitle'>So how can I tell?</small>"
   url = "i-might-be-autistic/"
   weight = 2
 
@@ -232,6 +232,14 @@ isMenuLarge = true
   post = "<small class='dropdown-subtitle'>Why they are not helpful.</small>"
   url = "autism-functioning-labels/"
   weight = 6
+
+  # [[main]]
+  # parent = "Resources"
+  # name = "Identity-First Language"
+  # pre = "<i class='dropdown-icon fas fa-person'></i>"
+  # post = "<small class='dropdown-subtitle'>Who are you?</small>"
+  # url = "identity-first-language/"
+  # weight = 7
 
 [[main]]
 weight = 13

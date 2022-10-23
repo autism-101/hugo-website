@@ -2,6 +2,8 @@
 (function () {
   "use strict";
 
+  var element = document.getElementById('hiddenDetails');
+
   // gallery slider
   new Swiper(".gallery-slider", {
     slidesPerView: 1,

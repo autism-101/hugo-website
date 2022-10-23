@@ -74,3 +74,5 @@ link = "plugins/glightbox.js"
 link = "plugins/cookie.js"
 [[params.plugins.js]]
 link = "plugins/lazy-loader.js"
+
+

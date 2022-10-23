@@ -4,6 +4,8 @@ draft: false
 title: "I Might Be Autistic. How Can I Tell?"
 description: "I might be Autistic. How Can I Tell?"
 icon: "fas fa-portrait"  # fontawesome icon pack : https://fontawesome.com/icons/
+# twitter card image
+og_image: "images/question-mark.jpg"
 layout: "i-might-be-autistic"
 
 ######################### banner #####################
