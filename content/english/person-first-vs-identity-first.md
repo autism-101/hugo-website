@@ -1,6 +1,6 @@
 ---
-title: "Identity-First Language"
-subtitle: "Who are you?"
+title: "Person-first Language vs Identity-first Language"
+subtitle: "Which language is right?"
 fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description
 description: "Why many Autistics prefer identity-first language."

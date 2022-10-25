@@ -202,11 +202,17 @@ product_info:
   content: "Here are some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accomodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
-  - image: "images/asan.jpg"
-    content : "##### AutisticAdvocacy.org
+  - image: "images/embrace-autism.jpg"
+    content : "##### Embrace-Autism.com
 
+    <a href=\"https://embrace-autism.com\" text=\"Embrace-Autism\">Embrace-Autism</a> was founded in 2018 because of the lack of information available on autism in adults. It 
+    is intended as a platform to distribute research and experience-based information on autism.
 
-    <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. Nothing About Us, Without Us!\"
+    <br>
+
+    ###### Quality Information
+
+    \"Quality autism information can help us make sense of our lives, it can help us discover who we are and the amazing potential we have, and it can help us acknowledge the beauty and splendor in ourselves and each other.\"
     "
 
   - image: "images/neuroclastic.jpg"
@@ -222,58 +228,23 @@ product_info:
     As a non-profit, <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is using their platform to support autistic business owners, scientists, authors, performers, freelancers, and artists in the pursuit of contributing something meaningful to the Greater Good.
     "
 
-  - image: "images/autistics-unmasked.jpg"
-    content : "##### AutisticsUnmasked.org
+  - image: "images/thinking-persons-guide.jpg"
+    content : "##### ThinkingAutismGuide.com
 
-    <a href=\"https://autisticsunmasked.org\" text=\"Autistics Unmasked\">Autistics Unmasked</a> is a non-profit organization dedicated to providing a safe space for autistic self advocacy.
-
-    <br>
-
-    ###### Our History
-
-   \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
-    "
-
-  - image: "images/spectrum-women.jpg"
-    content : "##### SpectrumWomen.com
-
-    <a href=\"https://www.spectrumwomen.com\" text=\"Spectrum Women\">Spectrum Women</a> is an online magazine and community dedicated to women who are uniquely different. Our approach is to bring to you inspiring women of all ages who have had a different outlook on life in a positive and unique way. Our online magazine embraces diversity and the differing ideals we all have but with one common goal, to bring together a wealth of knowledge and strength in being the unique women we are.\"
-    "
-
-  - image: "images/anns-autism-blog.jpg"
-    content : "##### AnnsAutism.Blogspot.com
-
-    <a href=\"http://annsautism.blogspot.com\" text=\"Anns Autism Blog\">Ann\'s Autism Blog</a> is run by Ann Memmott an, \"Autistic autism professional. National and international speaker. Post Graduate Certificate - autism. Associate, AT-Autism and NDTi 25 years of working alongside autistic people across a wide variety of settings. Trainer, consultant, speaker, lecturer. Working with NHS teams as an external adviser. Previous work as charity Trustee and School Governor.\"
+    <a href=\"http://www.thinkingautismguide.com\" text=\"Thinking Person's Guide To Autism\">Thinking Person's Guide To Autism</a> (TPGA) is a resource for carefully curated, evidence-based, neurodiversity-steeped information from autistic people, parents, and autism professionals.
 
     <br>
 
-    ###### About The Blog
+    ###### Mission
 
-    \"This is a personal blog and does not represent the views of any organisation linked to me.\"
+   \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
     "
 
-  - image: "images/autistic-hoya.jpg"
-    content : "##### AutisticHoya.com
+  - image: "images/asan.jpg"
+    content : "##### AutisticAdvocacy.org
 
-    <a href=\"https://www.autistichoya.com\" text=\"Autisti Hoya\">Autistic Hoya</a> is a website run by Lydia X. Z. Brown. \"I'm a writer, dreamer, organizer, builder, advocate, attorney, activist, strategist, educator, trainer, consultant, and speaker. I work in grassroots organizing, public policy advocacy, and writing focused on disability justice and intersectionality.\"\"
 
-    <br>
-
-    ###### About The Blog
-
-    Is this an autism blog? \"It started out that way in the summer of 2011, when I created it. But it's not really an autism blog anymore. It's still largely autism and disability focused, but my thinking, ideas, and interests (even within my activism-related interests) have all shifted, changed, and grown over time.\"
-    "
-  - image: "images/embrace-autism.jpg"
-    content : "##### Embrace-Autism.com
-
-    <a href=\"https://embrace-autism.com\" text=\"Embrace-Autism\">Embrace-Autism</a> was founded in 2018 because of the lack of information available on autism in adults. It 
-    is intended as a platform to distribute research and experience-based information on autism.
-
-    <br>
-
-    ###### Quality Information
-
-    \"Quality autism information can help us make sense of our lives, it can help us discover who we are and the amazing potential we have, and it can help us acknowledge the beauty and splendor in ourselves and each other.\"
+    <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. Nothing About Us, Without Us!\"
     "
 
   - image: "images/ask-jan.jpg"
@@ -288,30 +259,6 @@ product_info:
    \"<a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce.\" Autism related resources can be found: <a href=\"https://askjan.org/disabilities/Autism-Spectrum.cfm\" text=\"ASKJan ASD Resources\">here</a>.
     "
 
-  - image: "images/thinking-persons-guide.jpg"
-    content : "##### ThinkingAutismGuide.com
-
-    <a href=\"http://www.thinkingautismguide.com\" text=\"Thinking Person's Guide To Autism\">Thinking Person's Guide To Autism</a> (TPGA) is a resource for carefully curated, evidence-based, neurodiversity-steeped information from autistic people, parents, and autism professionals.
-
-    <br>
-
-    ###### Mission
-
-   \"The goal of TPGA is to help you fast-forward past society’s rampant autism fabrications and negativity, by providing clear, thoughtfully presented, balanced, and referenced information. We also want you to understand that autism awareness and acceptance are not merely noble but necessary attitudes -- and are separate matters from the autistic and other autism communities’ never-ending fights for medical, legal, social, and educational accommodation.\"
-    "
-
-  - image: "images/neurodivergent-rebel.jpg"
-    content : "##### NeurodivergentRebel.com
-
-
-    \"Lyric Holmans, an autistic self-advocate from Texas, runs the the internationally recognized neurodiversity lifestyle blog <a href=\"https://neurodivergentrebel.com\" text=\"Neurodivergent Rebel\">Neurodivergent Rebel</a>. They also manage Neurodivergent Consulting.\"
-
-    <br>
-
-    ###### Blog
-
-    \"The Neurodivergent Rebel opened their blog in 2016 as a way to introduce people unfamiliar with the concept of neurodiversity to this new way of seeing neurological difference.\"
-    "
   - image: "images/art-of-autism.jpg"
     content : "##### The-Art-of-Autism.com
 
@@ -336,6 +283,20 @@ product_info:
    * Strengthening the broader autism community
 
     "
+
+  - image: "images/neurodivergent-rebel.jpg"
+    content : "##### NeurodivergentRebel.com
+
+
+    \"Lyric Holmans, an autistic self-advocate from Texas, runs the the internationally recognized neurodiversity lifestyle blog <a href=\"https://neurodivergentrebel.com\" text=\"Neurodivergent Rebel\">Neurodivergent Rebel</a>. They also manage Neurodivergent Consulting.\"
+
+    <br>
+
+    ###### Blog
+
+    \"The Neurodivergent Rebel opened their blog in 2016 as a way to introduce people unfamiliar with the concept of neurodiversity to this new way of seeing neurological difference.\"
+    "
+
   - image: "images/autistic-science-person.jpg"
     content : "##### AutisticSciencePerson.com
 
@@ -348,6 +309,23 @@ product_info:
     \"Ira has been advocating for disabled students on their university campus as a disabled graduate student. They enjoy playing online games with their friends and connecting to other autistic adults and the disability community through social media.\"
     "
 
+  - image: "images/spectrum-women.jpg"
+    content : "##### SpectrumWomen.com
+
+    <a href=\"https://www.spectrumwomen.com\" text=\"Spectrum Women\">Spectrum Women</a> is an online magazine and community dedicated to women who are uniquely different. Our approach is to bring to you inspiring women of all ages who have had a different outlook on life in a positive and unique way. Our online magazine embraces diversity and the differing ideals we all have but with one common goal, to bring together a wealth of knowledge and strength in being the unique women we are.\"
+    "
+
+  - image: "images/anns-autism-blog.jpg"
+    content : "##### AnnsAutism.Blogspot.com
+
+    <a href=\"http://annsautism.blogspot.com\" text=\"Anns Autism Blog\">Ann\'s Autism Blog</a> is run by Ann Memmott an, \"Autistic autism professional. National and international speaker. Post Graduate Certificate - autism. Associate, AT-Autism and NDTi 25 years of working alongside autistic people across a wide variety of settings. Trainer, consultant, speaker, lecturer. Working with NHS teams as an external adviser. Previous work as charity Trustee and School Governor.\"
+
+    <br>
+
+    ###### About The Blog
+
+    \"This is a personal blog and does not represent the views of any organisation linked to me.\"
+    "
   
   - image: "images/luna-rose.jpg"
     content : "##### MissLunaRose.home.blog
@@ -359,6 +337,18 @@ product_info:
     ###### Welcome!
 
     \"I’m Luna (MissLunaRose), a writer, wikiHow artist, and autistic person making her way in the world. I’ve slowed down on new posts while I learn to navigate the working world.\"
+    "
+
+  - image: "images/autistics-unmasked.jpg"
+    content : "##### AutisticsUnmasked.org
+
+    <a href=\"https://autisticsunmasked.org\" text=\"Autistics Unmasked\">Autistics Unmasked</a> is a non-profit organization dedicated to providing a safe space for autistic self advocacy.
+
+    <br>
+
+    ###### Our History
+
+   \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
 ######################### Intro Video #####################

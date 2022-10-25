@@ -235,10 +235,10 @@ isMenuLarge = true
 
   # [[main]]
   # parent = "Resources"
-  # name = "Identity-First Language"
+  # name = "Person-first vs Identity-first"
   # pre = "<i class='dropdown-icon fas fa-person'></i>"
-  # post = "<small class='dropdown-subtitle'>Who are you?</small>"
-  # url = "identity-first-language/"
+  # post = "<small class='dropdown-subtitle'>Which language is right?</small>"
+  # url = "person-first-vs-identity-first/"
   # weight = 7
 
 [[main]]
