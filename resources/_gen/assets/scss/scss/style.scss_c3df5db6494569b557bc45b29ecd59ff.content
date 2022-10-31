@@ -8595,15 +8595,39 @@ a.uparrow {
 a.external {
   text-decoration: none; }
 
-ol.references li a.external:hover {
+body.dark ol.references li a.external:hover {
   text-decoration: underline;
   color: #ffffff; }
 
-ol.references li:target, sup.reference:target {
+body.dark ol.references li:target, sup.reference:target {
   background-color: #ae610e; }
 
 ol.references li:target, sup.reference:target {
-  background-color: #ae610e; }
+  background-color: transparent; }
 
-.content sup.reference a:hover {
+body.dark .content sup.reference a:hover {
   color: #ffffff; }
+
+body.dark .content table {
+  background-color: #fff; }
+
+body.dark .content thead {
+  background: #a55e20;
+  color: #fff; }
+
+body.dark .content .table-striped > tbody > tr:nth-child(odd) > td,
+body.dark .content .table-striped > tbody > tr:nth-child(odd) > th {
+  background-color: #fbf5c2; }
+
+body.dark .content .table-striped > tbody > tr:nth-child(even) > td,
+body.dark .content .table-striped > tbody > tr:nth-child(even) > th {
+  background-color: #fff; }
+
+table.table.table-striped tr > td:first-child {
+  width: 20%; }
+
+body.dark .content .table a {
+  color: #000; }
+
+body.dark .content sup.reference a:hover {
+  color: #ae610e; }

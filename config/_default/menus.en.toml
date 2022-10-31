@@ -241,6 +241,14 @@ isMenuLarge = true
   # url = "person-first-vs-identity-first/"
   # weight = 7
 
+  [[main]]
+  parent = "Resources"
+  name = "Autism Glossary"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Common terms.</small>"
+  url = "autism-glossary"
+  weight = 8
+
 [[main]]
 weight = 13
 name = "Autism Blog"
