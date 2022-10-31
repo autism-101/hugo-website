@@ -44,7 +44,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>Apraxia</td>
-<td>A disorder of voluntary movement, consisting of partial or total incapacity to execute purposeful movements, without impairment of muscular power, sensibility and coordination. The person has difficulty sequencing movements in the service of a goal. May be specific to speech.</td>
+<td>Apraxia is having difficulty with voluntary movement, consisting of partial or total incapacity to execute purposeful movements, without impairment of muscular power, sensibility and coordination. The person has difficulty sequencing movements in the service of a goal. May be specific to speech.</td>
 </tr>
 <tr>
 <td>Alexithymia</td>
@@ -55,8 +55,8 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>The autism spectrum is a range of neurodevelopmental conditions generally characterized by difficulties in social interactions and communication, repetitive behaviors, intense interests, and unusual responses to sensory stimuli. It is commonly referred to as autism or, in the context of a professional diagnosis, autism spectrum disorder (ASD).</td>
 </tr>
 <tr>
-<td>Asperger's Syndrome<sup>*</sup></td>
-<td>Asperger Syndrome was previously used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language.<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="Asperger's Syndrome">[2]</a></sup></td>
+<td>Asperger's Syndrome (Aspie)<sup>*</sup></td>
+<td>Hans Asperger is credited with identifying autism in the 1940's. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="Asperger's Syndrome">[2]</a></sup></td>
 </tr>
 <tr>
 <td>AT</td>
@@ -84,7 +84,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>Dyspraxia</td>
-<td>Dyspraxia: The brain’s inability to plan muscle movements and carry them out.</td>
+<td>The brain’s inability to plan muscle movements and carry them out.</td>
 </tr>
 <tr>
 <td>Echolalia</td>
@@ -104,11 +104,11 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>HFA<sup>*</sup></td>
-<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It is highly criticized by the autistic community.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="High-functioning Autism">[3]</a></sup></td>
+<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="High-functioning Autism">[3]</a></sup></td>
 </tr>
 <tr>
 <td>Hyperlexia</td>
-<td>Is a condition in which the main characteristics are an above average ability to read accompanied with a blow average ability to understand spoken language.</td>
+<td>A condition in which the main characteristics are an above average ability to read accompanied with a blow average ability to understand spoken language.</td>
 </tr>
 <tr>
 <td>ICD</td>
@@ -120,7 +120,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>IFL</td>
-<td> Identity-first language. For example, while someone who advocates for person-first language might refer to a client as a "person with autism", that same client may prefer identity-first language, and ask to be called an "autistic person". Others have proposed "person-centered language", which, instead of being a replacement linguistic rule, promotes prioritizing the preferences of those who are being referred to and argues for greater nuance in the language used to describe people and groups of people.</td>
+<td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="Identity-first Language">[4]</a></sup></td>
 </tr>
 <tr>
 <td>Masking</td>
@@ -128,11 +128,11 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>Meltdown</td>
-<td>A meltdown can be the result of an overwhelming situation. It can be the result of intense emotions and/or stimuli that are overwhelming or difficult to cope with. A meltdown becomes the involuntary response to these emotions or stimuli. It is more visible to others than a shutdown (see below) as it involves an outward reaction. This could be a verbal and/or physical reaction such as crying, screaming, repetitive movements, throwing items or hitting out.</td>
+<td>A meltdown can be the result of an overwhelming situation. It can be the result of intense emotions and/or stimuli that are overwhelming or difficult to cope with. A meltdown becomes the involuntary response to these emotions or stimuli. It is more visible to others than a shutdown as it involves an outward reaction. This could be a verbal and/or physical reaction such as crying, screaming, repetitive movements, throwing items or hitting out.</td>
 </tr>
 <tr>
 <td>Misophonia</td>
-<td>Misophonia is a common disorder characterized by the experience of strong negative emotions of anger and anxiety in response to certain everyday sounds, such as those generated by other people eating, drinking, and breathing.</td>
+<td>Misophonia is characterized by the experience of strong negative emotions of anger and anxiety in response to certain everyday sounds, such as those generated by other people eating, drinking, and breathing.</td>
 </tr>
 <tr>
 <td>Neurodiverse</td>
@@ -148,11 +148,11 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>OCD</td>
-<td>Obsessive Compulsive Disorder. An anxiety disorder, that is characterized by recurrent, time-consuming obsessive or compulsive behaviors that cause distress and/or impairment. The obsessions may be repetitive intrusive images, thoughts, or impulses.</td>
+<td>Obsessive Compulsive Disorder. An anxiety disorder, that is characterized by recurrent, time-consuming obsessive or compulsive behaviors that cause distress. The obsessions may be repetitive intrusive images, thoughts, or impulses.</td>
 </tr>
 <tr>
 <td>ODD</td>
-<td>Oppositional Defiant Disorder is a psychiatric behavior disorder that is characterized by aggressiveness and a tendency to purposefully bother and irritate others as a recurrent pattern of negativistic, defiant, disobedient, and hostile behavior.</td>
+<td>Oppositional Defiant Disorder is characterized by aggressiveness and a tendency to purposefully bother and irritate others as a recurrent pattern of negativistic behavior.</td>
 </tr>
 <tr>
 <td>OT</td>
@@ -184,15 +184,15 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>Sensory Overload</td>
-<td>Sensory overload occurs when sensory stimuli in a person’s environment become too overwhelming. This refers to the seven senses of touch, taste, sound, sight, smell, vestibular (defined below) and proprioception (defined above). It can be a very overwhelming and anxiety-inducing experience. The autistic person will likely feel a need to get away from the environment or situation that has led to overload but may need support to do this.</td>
+<td>Sensory overload occurs when sensory stimuli in a person’s environment become too overwhelming. This refers to the seven senses of touch, taste, sound, sight, smell, vestibular and proprioception. It can be a very overwhelming and anxiety-inducing experience. The autistic person will likely feel a need to get away from the environment or situation that has led to overload but may need support to do this.</td>
 </tr>
 <tr>
 <td>Shutdown</td>
 <td>Like a meltdown, a shutdown is another type of response to overwhelming emotions and/or stimuli. During a shutdown, the autistic person withdraws (either partially or completely) from the environment. They may physically remove themselves to a space they consider safe, or they may freeze in the current place and though they want to leave they are not able to. They may stop responding to communication from others.</td>
 </tr>
 <tr>
-<td>SBC</td>
-<td>Simon Baron-Cohen</td>
+<td>SBC<sup>*</sup></td>
+<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="Applied Behavior Analysis">[5]</a></sup></td>
 </tr>
 <tr>
 <td>SI</td>
@@ -226,10 +226,6 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>Vestibular Sense</td>
 <td>This relates to sense of balance. Those experiencing hypersensitivity (awareness and experiences are heightened) may struggle to tolerate quick movements and could feel disorientated if, for example, jumping and leaving the ground. A person may appear ‘clumsy’, for example I lose my balance easily and this can lead to falls or accidents. Those with hyposensitivity (awareness and experiences are reduced), on the other hand, may gain pleasure from the feeling of movement and may not experience dizziness or nausea from activities such as spinning or swinging.</td>
 </tr>
-<!-- <tr>
-<td>zebra stripes</td>
-<td>zebra stripes</td>
-</tr> -->
 </tbody>
 </table>
 </div>
@@ -241,5 +237,9 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <li id="_note-2"><a href="#_ref-2" class="uparrow">^</a><span>Reese, Hope (2018-05-22).</span> <a href="https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome" rel="nofollow" class="external">"The disturbing history of Dr. Asperger and the movement to reframe the syndrome"</a>. <cite>Vox</cite> Retrieved 2022-10-26.
 </li>
 <li id="_note-3"><a href="#_ref-3" class="uparrow">^</a><span>Autism-101 (2022-11-1).</span> <a href="/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"</a>. <cite>Autism-101</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-4"><a href="#_ref-4" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
 </ol>
