@@ -2,6 +2,8 @@
 title: "Autism Glossary"
 subtitle: "An Autism Glossary with common terms you may come across."
 fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
+# twitter card image
+og_image: "images/typewriter.jpg"
 # meta description
 description: "An Autism Glossary with common terms you may come across."
 draft: false

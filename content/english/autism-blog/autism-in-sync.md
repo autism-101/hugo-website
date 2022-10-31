@@ -1,5 +1,5 @@
 ---
-title: "In Sync"
+title: "Autism In Sync - how I connect with other disabled people."
 date: 2022-04-02T10:07:21+06:00
 # post image
 image: "images/blog/post-2.jpg"
