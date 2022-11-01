@@ -6,7 +6,7 @@ image: "images/blog/post-5.jpg"
 # twitter card image
 og_image: "images/blog/post-5.jpg"
 # author
-author: "Autism 101"
+author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
