@@ -42,7 +42,7 @@
               {{ with site.Params.social }}
               <ul class="list-inline social-icons">
                 {{ range . }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}" title="{{ .title }}"><i class="{{ .icon }}"></i></a></li>
+                <li class="list-inline-item"><a {{ if (eq .title "mastodon") }} rel="me" {{end}} href="{{ .link | safeURL }}" title="{{ .title }}"><i class="{{ .icon }}"></i></a></li>
                 {{ end }}
               </ul>
               {{ end }}

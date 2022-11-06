@@ -118,6 +118,11 @@ title = "goodreads"
 icon = "fab fa-goodreads" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
 
+[[social]]
+title = "mastodon"
+icon = "fa-brands fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://mstdn.social/@autism101"
+
 # [[social]]
 # title = "linkedin"
 # icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
