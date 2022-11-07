@@ -101,12 +101,16 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>Early Intensive Behavioral Intervention (EIBI): A fairly generic term for applied behavioral analysis (ABA-based) interventions, the focus is on very young children with ASD, usually younger than five, and often younger than three. The intensity of intervention is significant in number of hours and in the ratio of child to instructor.</td>
 </tr>
 <tr>
+<td>EDS</td>
+<td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="High-functioning Autism">[3]</a></sup></td>
+</tr>
+<tr>
 <td>EOT</td>
 <td>Externally Oriented Thinking style</td>
 </tr>
 <tr>
 <td>HFA<sup>*</sup></td>
-<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="High-functioning Autism">[3]</a></sup></td>
+<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="High-functioning Autism">[4]</a></sup></td>
 </tr>
 <tr>
 <td>Hyperlexia</td>
@@ -122,7 +126,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>IFL</td>
-<td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="Identity-first Language">[4]</a></sup></td>
+<td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="Identity-first Language">[5]</a></sup></td>
 </tr>
 <tr>
 <td>Masking</td>
@@ -177,6 +181,10 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>Proprioception refers to a person’s awareness of where their body is positioned in their environment, and where their limits are in terms of their body and how much force is being applied to it. They can also struggle with how to regulate this. If people are hypo- or hypersensitive to this sense it will impact their coordination and how they interact with the world around them. Difficulties with fine motor skills are related to proprioception and this can impact a person’s ability to carry out day-to-day tasks such as writing or using cutlery. Poor gross motor skills impact on coordination of the body in larger movements such as dancing or running. A person may also have difficulty with placing objects or avoiding objects when moving.</td>
 </tr>
 <tr>
+<td>SBC<sup>*</sup></td>
+<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Applied Behavior Analysis">[6]</a></sup></td>
+</tr>
+<tr>
 <td>SDAM</td>
 <td>Severely Deficient Autobiographical Memory (SDAM) refers to a lifelong inability to vividly recollect or re-experience personal past events from a first-person perspective.</td>
 </tr>
@@ -193,10 +201,6 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>Like a meltdown, a shutdown is another type of response to overwhelming emotions and/or stimuli. During a shutdown, the autistic person withdraws (either partially or completely) from the environment. They may physically remove themselves to a space they consider safe, or they may freeze in the current place and though they want to leave they are not able to. They may stop responding to communication from others.</td>
 </tr>
 <tr>
-<td>SBC<sup>*</sup></td>
-<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="Applied Behavior Analysis">[5]</a></sup></td>
-</tr>
-<tr>
 <td>SI</td>
 <td>Sensory Integration (SI): This is a term applied to the way the brain processes sensory stimulation or sensation from the body and then translates that information into specific, planned and coordinated motor activity.</td>
 </tr>
@@ -206,7 +210,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>Spectrum</td>
-<td>As in Autism Spectrum Disorder. Many people picture the spectrum as a straight line, often with people that are perceived as needing more support on one end, and people perceived as needing less support on the other. This is not what was meant by the Autism Spectrum. The term spectrum was introduced to acknowledge that autistic people have difficulties or different experiences in common areas, but they are affected in different ways and to varying extents. Each autistic person’s experience is unique.</td>
+<td>What the medical community refers to as Autism Spectrum Disorder. Many people picture the spectrum as a straight line, often with people that are perceived as needing more support on one end, and people perceived as needing less support on the other. This is not what was meant by the Autism Spectrum. The term spectrum was introduced to acknowledge that autistic people have difficulties or different experiences in common areas, but they are affected in different ways and to varying extents. Each autistic person’s experience is unique.</td>
 </tr>
 <tr>
 <td>SPED</td>
@@ -238,10 +242,12 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </li>
 <li id="_note-2"><a href="#_ref-2" class="uparrow">^</a><span>Reese, Hope (2018-05-22).</span> <a href="https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome" rel="nofollow" class="external">"The disturbing history of Dr. Asperger and the movement to reframe the syndrome"</a>. <cite>Vox</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-3"><a href="#_ref-3" class="uparrow">^</a><span>Autism-101 (2022-11-1).</span> <a href="/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"</a>. <cite>Autism-101</cite> Retrieved 2022-10-26.
+<li id="_note-3"><a href="#_ref-3" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Ehlers–Danlos_syndromes" rel="nofollow" class="external">"Ehlers–Danlos syndromes"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
-<li id="_note-4"><a href="#_ref-4" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
+<li id="_note-4"><a href="#_ref-4" class="uparrow">^</a><span>Autism-101 (2022-11-1).</span> <a href="/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"</a>. <cite>Autism-101</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+<li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-6"><a href="#_ref-6" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
 </ol>
