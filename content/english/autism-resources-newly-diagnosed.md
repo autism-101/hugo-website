@@ -25,7 +25,7 @@ banner:
 about_this_product:
   enable: true
   title: "Learn from other Autistic people and find them on social media"
-  content: "Twitter, Reddit, Instagram, Facebook, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
+  content: "Twitter, Mastodon, Reddit, Instagram, Facebook, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
   features:
@@ -53,6 +53,17 @@ about_this_product:
     * <a href='https://twitter.com/search?q=%23AutisticWhileBlack&src=typed_query'>#AutisticWhileBlack</a>
 
     * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
+    "
+
+  - title: "Mastodon"
+    icon: "fab fa-mastodon"
+    content: "Since Elon Musk bought Twitter things have become chaotic to say the least. Many autistic people have decided to join Mastodon as a Twitter alternative. It is run by volunteers, not corporations or billionaires. If you are interested you can learn more at <a href='https://fedi.tips'>fedi.tips</a>.
+    <br><br>
+    You can find me on Mastodon at @autism101@mstdn.social.💛
+    <br><br>
+    You can join Mastodon by signing up <a href='https://joinmastodon.org/servers'>here</a>. Find any server that has a 'Create account' button that looks interesting and register your account. It does not matter which server you signup with, you will still be able to communicate and follow anyone. 
+    <br><br>
+    I built a <a href='https://forms.gle/i5EgVXcLUyPpWZ3c8'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
     "
 
   - title: "Reddit"
