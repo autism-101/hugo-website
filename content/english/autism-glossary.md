@@ -9,7 +9,7 @@ description: "An Autism Glossary with common terms you may come across."
 draft: false
 ---
 
-NOTE: some terms below may be offensive to autistic people, and others are no longer in use. These are marked with an asterisk (*).
+NOTE: some terms below may be offensive to autistic people, controversial, or are no longer in use. These are marked with an asterisk.
 
 <div class="table-responsive-lg">
 <table class="table table-sm table-striped table-bordered">
@@ -102,7 +102,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>EDS</td>
-<td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="High-functioning Autism">[3]</a></sup></td>
+<td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="EDS">[3]</a></sup></td>
 </tr>
 <tr>
 <td>EOT</td>
@@ -129,8 +129,16 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="Identity-first Language">[5]</a></sup></td>
 </tr>
 <tr>
+<td>Interoception</td>
+<td>Interoception is a lesser-known sense that helps you understand and feel what’s going on inside your body. People who struggle with the interoceptive sense may have trouble knowing when they feel hungry, full, hot, cold, or thirsty. Having trouble with this sense can also make self-regulation a challenge.</td>
+</tr>
+<tr>
 <td>Masking</td>
 <td>Masking involves an autistic person making changes to their behaviour to disguise autistic traits and seem more like their non-autistic peers. Another term used for this is camouflaging. Sometimes masking is a conscious choice in that moment. At other times, autistic people may not realise they are masking. ’Unmasking’ is not as simple as an autistic person deciding to stop masking. They will likely need to spend time relearning who they truly are and want to be. It involves changing instinctive habits and thought patterns that have been developed through masking and so it is a difficult process.</td>
+</tr>
+<tr>
+<td>Melatonin</td>
+<td>Melatonin is naturally produced by the body to regulate the sleep-wake cycle. Its levels begin to rise shortly after nightfall, promoting sleep. A string of studies over the past decade suggest it also improves sleep in some children with autism.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Melatonin">[6]</a></sup></td>
 </tr>
 <tr>
 <td>Meltdown</td>
@@ -165,6 +173,10 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 <td>Occupational Therapy or Occupational Therapist. A therapist that focuses on daily living skills, sensory integration, self-help skills, playing, adaptive behavior and fine motor skills. An Occupational therapists would provide Sensory Integration Therapy.</td>
 </tr>
 <tr>
+<td>PDA*</td>
+<td>Pathological Demand Avoidance (PDA) is a set of personality and behavioral traits exhibited by autistic people who tend to refuse to cooperate with others’ requests. It is a contentious term especially in the medical community.<sup id="_ref-7" class="reference"><a href="#_note-7" data-toggle="tooltip" title="PDA">[7]</a></sup></td>
+</tr>
+<tr>
 <td>PECS</td>
 <td>Picture Exchange Communication System (PECS): PECS is an alternative communication system that uses picture symbols. It is taught in six phases starting with a simple exchange of a picture symbol for a desired item. Individuals learn to use picture symbols to construct complete sentences, initiate communication, and answer direct questions.</td>
 </tr>
@@ -182,7 +194,7 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </tr>
 <tr>
 <td>SBC<sup>*</sup></td>
-<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Applied Behavior Analysis">[6]</a></sup></td>
+<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-8" class="reference"><a href="#_note-8" data-toggle="tooltip" title="SBC">[8]</a></sup></td>
 </tr>
 <tr>
 <td>SDAM</td>
@@ -248,6 +260,10 @@ NOTE: some terms below may be offensive to autistic people, and others are no lo
 </li>
 <li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-6"><a href="#_ref-6" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+<li id="_note-6"><a href="#_ref-6" class="uparrow">^</a><span>Gholipour, Bahar (2017-11-10).</span> <a href="https://www.spectrumnews.org/news/melatonin-gains-momentum-sleep-aid-people-autism/" rel="nofollow" class="external">"Melatonin gains momentum as sleep aid for people with autism"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-7"><a href="#_ref-7" class="uparrow">^</a><span>Hess, Peter (2022-10-11).</span> <a href="https://www.spectrumnews.org/news/pathological-demand-avoidance-in-autism-explained/" rel="nofollow" class="external">"Pathological demand avoidance in autism, explained"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-8"><a href="#_ref-8" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
 </ol>
