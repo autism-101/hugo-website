@@ -37,6 +37,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>The Autism Diagnostic Observation Schedule (ADOS) is a standardized diagnostic test for diagnosing and assessing autism, now in its second edition as of 2012. It is considered to be a "gold standard" in diagnosing Autism Spectrum Disorder (ASD).</td>
 </tr>
 <tr>
+<td>Allistic</td>
+<td>Allistic simply means a non autistic person. It is a term autistic people came up with. Autism comes from the Greek word “autos”, meaning “self” while allistic is from the Greek word “allos”, meaning “other”.</td>
+</tr>
+<tr>
 <td>Aphasia</td>
 <td>Loss of ability to use or understand words.</td>
 </tr>
@@ -53,12 +57,16 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>The inability to identify and describe emotions experienced by oneself.</td>
 </tr>
 <tr>
+<td>ASC</td>
+<td>Autistic Spectrum Condition is sometimes used by those outside the medical profession to describe someone with autism. The term ASD is looked upon as being demeaning since it uses the word "disorder" to describe autism. ASC is becoming more widespread and the medical community is re-evaluating the use of disorder in the DSM-5.<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="ASC">[2]</a></sup></td>
+</tr>
+<tr>
 <td>ASD</td>
-<td>The autism spectrum is a range of neurodevelopmental conditions generally characterized by difficulties in social interactions and communication, repetitive behaviors, intense interests, and unusual responses to sensory stimuli. It is commonly referred to as autism or, in the context of a professional diagnosis, autism spectrum disorder (ASD).</td>
+<td>The autism spectrum is a range of neurodevelopmental conditions generally characterized by difficulties in social interactions and communication, repetitive behaviors, intense interests, and unusual responses to sensory stimuli. It is commonly referred to as autism or, in the context of a professional diagnosis, autism spectrum disorder (ASD). The term is now used less often because of its use of the negatively charged word "disorder" to describe autism. It is rapidly being replaced by ASC.</td>
 </tr>
 <tr>
 <td>Asperger's Syndrome (Aspie)<sup>*</sup></td>
-<td>Hans Asperger is credited with identifying autism in the 1940's. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="Asperger's Syndrome">[2]</a></sup></td>
+<td>Hans Asperger is credited with identifying autism in the 1940's. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="Asperger's Syndrome">[3]</a></sup></td>
 </tr>
 <tr>
 <td>AT</td>
@@ -67,6 +75,11 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>AuDHD</td>
 <td>A person who has both Autism and ADHD.</td>
+</tr>
+<tr>
+<td>Autigender</td>
+<td>A term for when a person perceives that their experience of gender is influenced by their autism. For example if something about their gender is influenced by a special interest, a sensory experience, or a disconnect from neurotypical definitions of gender.
+</td>
 </tr>
 <tr>
 <td>Autistic Ally</td>
@@ -102,7 +115,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>EDS</td>
-<td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="EDS">[3]</a></sup></td>
+<td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="EDS">[4]</a></sup></td>
 </tr>
 <tr>
 <td>EOT</td>
@@ -110,7 +123,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>HFA<sup>*</sup></td>
-<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="High-functioning Autism">[4]</a></sup></td>
+<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="High-functioning Autism">[5]</a></sup></td>
 </tr>
 <tr>
 <td>Hyperlexia</td>
@@ -126,7 +139,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>IFL</td>
-<td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="Identity-first Language">[5]</a></sup></td>
+<td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Identity-first Language">[6]</a></sup></td>
 </tr>
 <tr>
 <td>Interoception</td>
@@ -138,7 +151,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>Melatonin</td>
-<td>Melatonin is naturally produced by the body to regulate the sleep-wake cycle. Its levels begin to rise shortly after nightfall, promoting sleep. A string of studies over the past decade suggest it also improves sleep in some children with autism.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Melatonin">[6]</a></sup></td>
+<td>Melatonin is naturally produced by the body to regulate the sleep-wake cycle. Its levels begin to rise shortly after nightfall, promoting sleep. A string of studies over the past decade suggest it also improves sleep in some children with autism.<sup id="_ref-7" class="reference"><a href="#_note-7" data-toggle="tooltip" title="Melatonin">[7]</a></sup></td>
 </tr>
 <tr>
 <td>Meltdown</td>
@@ -174,7 +187,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>PDA*</td>
-<td>Pathological Demand Avoidance (PDA) is a set of personality and behavioral traits exhibited by autistic people who tend to refuse to cooperate with others’ requests. It is a contentious term especially in the medical community.<sup id="_ref-7" class="reference"><a href="#_note-7" data-toggle="tooltip" title="PDA">[7]</a></sup></td>
+<td>Pathological Demand Avoidance (PDA) is a set of personality and behavioral traits exhibited by autistic people who tend to refuse to cooperate with others’ requests. It is a contentious term especially in the medical community.<sup id="_ref-8" class="reference"><a href="#_note-8" data-toggle="tooltip" title="PDA">[8]</a></sup></td>
 </tr>
 <tr>
 <td>PECS</td>
@@ -193,8 +206,12 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>Proprioception refers to a person’s awareness of where their body is positioned in their environment, and where their limits are in terms of their body and how much force is being applied to it. They can also struggle with how to regulate this. If people are hypo- or hypersensitive to this sense it will impact their coordination and how they interact with the world around them. Difficulties with fine motor skills are related to proprioception and this can impact a person’s ability to carry out day-to-day tasks such as writing or using cutlery. Poor gross motor skills impact on coordination of the body in larger movements such as dancing or running. A person may also have difficulty with placing objects or avoiding objects when moving.</td>
 </tr>
 <tr>
+<td>Prosopagnosia</td>
+<td>Prosopagnosia, also known as face blindness, is a condition where someone can't recognise people's faces. Face blindness often affects people from birth and is usually a problem a person has for most or all of their life. It can have a severe impact on everyday life. Many people with prosopagnosia are not able to recognise family members, partners or friends. They may cope by using alternative strategies to recognise people, such as remembering the way they walk or their hairstyle, voice or clothing.</td>
+</tr>
+<tr>
 <td>SBC<sup>*</sup></td>
-<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-8" class="reference"><a href="#_note-8" data-toggle="tooltip" title="SBC">[8]</a></sup></td>
+<td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.<sup id="_ref-9" class="reference"><a href="#_note-9" data-toggle="tooltip" title="SBC">[9]</a></sup></td>
 </tr>
 <tr>
 <td>SDAM</td>
@@ -252,18 +269,20 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <ol class="references">
 <li id="_note-1"><a href="#_ref-1" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Applied_behavior_analysis#Views_of_Autistic_community" rel="nofollow" class="external">"Applied behavior analysis"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
-<li id="_note-2"><a href="#_ref-2" class="uparrow">^</a><span>Reese, Hope (2018-05-22).</span> <a href="https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome" rel="nofollow" class="external">"The disturbing history of Dr. Asperger and the movement to reframe the syndrome"</a>. <cite>Vox</cite> Retrieved 2022-10-26.
+<li id="_note-2"><a href="#_ref-2" class="uparrow">^</a><span>Baron-Cohen, Simon (2015-05-14).</span> <a href="https://insar.confex.com/imfar/2015/webprogram/Paper19861.html" rel="nofollow" class="external">"ASD vs. ASC: Is One Small Letter Important?"</a>. <cite>Insar</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-3"><a href="#_ref-3" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Ehlers–Danlos_syndromes" rel="nofollow" class="external">"Ehlers–Danlos syndromes"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+<li id="_note-3"><a href="#_ref-3" class="uparrow">^</a><span>Reese, Hope (2018-05-22).</span> <a href="https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome" rel="nofollow" class="external">"The disturbing history of Dr. Asperger and the movement to reframe the syndrome"</a>. <cite>Vox</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-4"><a href="#_ref-4" class="uparrow">^</a><span>Autism-101 (2022-11-1).</span> <a href="/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"</a>. <cite>Autism-101</cite> Retrieved 2022-10-26.
+<li id="_note-4"><a href="#_ref-4" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Ehlers–Danlos_syndromes" rel="nofollow" class="external">"Ehlers–Danlos syndromes"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
-<li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
+<li id="_note-5"><a href="#_ref-5" class="uparrow">^</a><span>Autism-101 (2022-11-1).</span> <a href="/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"</a>. <cite>Autism-101</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-6"><a href="#_ref-6" class="uparrow">^</a><span>Gholipour, Bahar (2017-11-10).</span> <a href="https://www.spectrumnews.org/news/melatonin-gains-momentum-sleep-aid-people-autism/" rel="nofollow" class="external">"Melatonin gains momentum as sleep aid for people with autism"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
+<li id="_note-6"><a href="#_ref-6" class="uparrow">^</a><span>Malone, Emerson (2021-07-06).</span> <a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"</a>. <cite>BuzzFeed News</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-7"><a href="#_ref-7" class="uparrow">^</a><span>Hess, Peter (2022-10-11).</span> <a href="https://www.spectrumnews.org/news/pathological-demand-avoidance-in-autism-explained/" rel="nofollow" class="external">"Pathological demand avoidance in autism, explained"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
+<li id="_note-7"><a href="#_ref-7" class="uparrow">^</a><span>Gholipour, Bahar (2017-11-10).</span> <a href="https://www.spectrumnews.org/news/melatonin-gains-momentum-sleep-aid-people-autism/" rel="nofollow" class="external">"Melatonin gains momentum as sleep aid for people with autism"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
 </li>
-<li id="_note-8"><a href="#_ref-8" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+<li id="_note-8"><a href="#_ref-8" class="uparrow">^</a><span>Hess, Peter (2022-10-11).</span> <a href="https://www.spectrumnews.org/news/pathological-demand-avoidance-in-autism-explained/" rel="nofollow" class="external">"Pathological demand avoidance in autism, explained"</a>. <cite>Spectrum News</cite> Retrieved 2022-10-26.
+</li>
+<li id="_note-9"><a href="#_ref-9" class="uparrow">^</a><a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"</a>. <cite>Wikipedia,</cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
 </li>
 </ol>
