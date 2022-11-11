@@ -127,7 +127,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>Hyperlexia</td>
-<td>A condition in which the main characteristics are an above average ability to read accompanied with a blow average ability to understand spoken language.</td>
+<td>A condition in which the main characteristics are an above average ability to read accompanied with a below average ability to understand spoken language.</td>
 </tr>
 <tr>
 <td>ICD</td>
