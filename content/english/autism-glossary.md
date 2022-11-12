@@ -146,6 +146,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>Interoception is a lesser-known sense that helps you understand and feel what’s going on inside your body. People who struggle with the interoceptive sense may have trouble knowing when they feel hungry, full, hot, cold, or thirsty. Having trouble with this sense can also make self-regulation a challenge.</td>
 </tr>
 <tr>
+<td>Intersectionality</td>
+<td>Intersectionality considers how an individual can experience a variety of identities, be it around neurodiversity, race, gender, class, sexuality or otherwise.</td>
+</tr>
+<tr>
 <td>Masking</td>
 <td>Masking involves an autistic person making changes to their behaviour to disguise autistic traits and seem more like their non-autistic peers. Another term used for this is camouflaging. Sometimes masking is a conscious choice in that moment. At other times, autistic people may not realise they are masking. ’Unmasking’ is not as simple as an autistic person deciding to stop masking. They will likely need to spend time relearning who they truly are and want to be. It involves changing instinctive habits and thought patterns that have been developed through masking and so it is a difficult process.</td>
 </tr>
@@ -156,6 +160,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>Meltdown</td>
 <td>A meltdown can be the result of an overwhelming situation. It can be the result of intense emotions and/or stimuli that are overwhelming or difficult to cope with. A meltdown becomes the involuntary response to these emotions or stimuli. It is more visible to others than a shutdown as it involves an outward reaction. This could be a verbal and/or physical reaction such as crying, screaming, repetitive movements, throwing items or hitting out.</td>
+</tr>
+<tr>
+<td>Misokinesia</td>
+<td>Misokinesia is defined as a strong negative affective or emotional response to the sight of someone else’s small and repetitive movements, such as seeing someone mindlessly fidgeting with a hand or foot.</td>
 </tr>
 <tr>
 <td>Misophonia</td>
@@ -244,6 +252,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>SPED</td>
 <td>Special Education (SPED): Specialized and personalized instruction of a disabled child, designed in response to educational disabilities determined by an evaluation.</td>
+</tr>
+<tr>
+<td>Spoons</td>
+<td>Spoon theory is a metaphor describing the amount of physical and/or mental energy that a person has available for daily activities and tasks, and how it can become limited. It was coined by writer and blogger Christine Miserandino in 2003 as a way to express how it felt to have lupus; using spoons at a restaurant to represent units of energy that a person might have to a friend, she reduced the spoons to represent how chronic illness forced her to plan out days and actions in advance so as to try to not run out of energy. It has since been used to describe a wide range of disabilities, mental health issues, forms of marginalization, and other factors that might place an extra and often unseen burden on people living with them.</td>
 </tr>
 <tr>
 <td>Stimming</td>
