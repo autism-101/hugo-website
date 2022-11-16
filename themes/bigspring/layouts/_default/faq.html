@@ -13,10 +13,10 @@
       </div>
       {{range .Params.faq_list}}
       <div class="col-lg-8 mx-auto">
-        <div class="faq-content mb-5 p-5 is-hoverable shadow border rounded-2">
-          <h3 class="h5 check-mark" role="listitem">{{.title | markdownify}}</h3>
-          <div class="content">
-            {{.content | markdownify}}
+        <div class="faq-content mb-5 p-5 is-hoverable shadow border rounded-2" itemscope itemtype=”http://schema.org/Question”>
+          <h3 class="h5 check-mark" itemprop=”text” role="listitem">{{.title | markdownify}}</h3>
+          <div class="content" itemscope itemtype=”http://schema.org/Answer”>
+            <div itemprop=”text”>{{.content | markdownify}}</div>
           </div>
         </div>
       </div>
