@@ -17,6 +17,9 @@ faq_list:
 - title: "Why do autistic people wear headphones?"
   content: "Autistic people can have very different sensory profiles. Many are extremely sensitive to sound and use noise-cancelling headphones to help block out too much sensory input. Otherwise they can get overstimulated which causes them stress and anxiety."
 
+- title: "Can an autistic person fall in love?"
+  content: "Yes, autistic people have romantic relationships, fall in love, marry, and have children."
+
 - title: "Do you support the use of functioning labels?"
   content: "No, you can see my viewpoint on that topic [here](/autism-functioning-labels/)."
 
