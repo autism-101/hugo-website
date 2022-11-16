@@ -1,5 +1,5 @@
 ---
-title: "My Autism Diagnosis in My Late 50’s"
+title: "My Late Autism Diagnosis in My 50’s"
 date: 2022-07-20T10:07:21+06:00
 # post image
 image: "images/blog/post-5.jpg"
@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "My Autism Diagnosis in My Late 50’s And How It Changed Me."
+description: "My Late Autism Diagnosis in My 50’s And How It Changed Me."
 # post draft
 draft: false
 ---
@@ -21,8 +21,10 @@ draft: false
 >
 > <cite>My Reaction To My Test Results</cite>
 
+#### My Reaction
 Whaaaat??? I was incredulous. “This test is flawed!!”, I said to myself. So I went searching for other online autism screening tests and took those like the RAADS-R. All of them came back the same. “You should get tested for autism”, they all said. So I started researching autism. The only thing I knew about it was from watching tv or movies. Autistic savants like in the movie Rain Man was what I thought autism was. Spoiler alert, I’m not a savant. After reading about the main characteristics of autism and the actual diagnosis criteria found in the DSM-V I knew the tests were correct.
 
+#### Other Diagnoses
 In this past year I have been diagnosed with Autism, ADHD, and General Anxiety Disorder (GAD). In addition, I deal with SDAM<sup id="_ref-1" class="reference"><a href="#_note-1" data-toggle="tooltip" title="Severely Deficient Autobiographical Memory">[1]</a></sup>, aphantasia<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="Aphantasia">[2]</a></sup>, insomnia, misophonia<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="Misophonia">[3]</a></sup>, and alexithymia<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="Alexithymia">[4]</a></sup>.
 
 > But remember, you haven't changed.

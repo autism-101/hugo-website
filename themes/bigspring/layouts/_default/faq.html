@@ -3,7 +3,7 @@
 {{ partial "page-header.html" . }}
 
 <section class="section">
-  <div class="container">
+  <div class="container" role="list">
     <div class="row justify-content-center">
       <div class="col-lg-8 mb-5">
         <div class="input-group">
@@ -14,7 +14,7 @@
       {{range .Params.faq_list}}
       <div class="col-lg-8 mx-auto">
         <div class="faq-content mb-5 p-5 is-hoverable shadow border rounded-2">
-          <h3 class="h5 check-mark">{{.title | markdownify}}</h3>
+          <h3 class="h5 check-mark" role="listitem">{{.title | markdownify}}</h3>
           <div class="content">
             {{.content | markdownify}}
           </div>

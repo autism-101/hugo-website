@@ -3,7 +3,7 @@ title: "Frequently Asked Questions"
 subtitle: "Because we all have them. 😄"
 # meta description
 description: "Frequently Asked Questions"
-draft: false
+draft: true
 layout: "faq"
 
 faq_list:
