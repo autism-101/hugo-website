@@ -13,9 +13,9 @@
       </div>
       {{range .Params.faq_list}}
       <div class="col-lg-8 mx-auto">
-        <div class="faq-content mb-5 p-5 is-hoverable shadow border rounded-2" itemscope itemprop="mainEntity" itemtype="http://schema.org/Question">
-          <h3 class="h5 check-mark" itemprop=”name” role="listitem">{{.title | markdownify}}</h3>
-          <div class="content" itemscope itemprop="acceptedAnswer" itemtype="http://schema.org/Answer">
+        <div itemscope itemprop="mainEntity" itemtype="http://schema.org/Question" class="faq-content mb-5 p-5 is-hoverable shadow border rounded-2">
+          <h3 itemprop=”name” class="h5 check-mark">{{.title | markdownify}}</h3>
+          <div itemscope itemprop="acceptedAnswer" itemtype="http://schema.org/Answer" class="content">
             <div itemprop=”text”>{{.content | markdownify}}</div>
           </div>
         </div>
