@@ -1,0 +1,49 @@
+<!-- <script type="application/ld+json"> -->
+	{{ if eq .Section "autism-blog" }}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "BlogPosting",
+	  "headline": {{ .Title }},
+	  "image": {{ .Params.image | absURL }},
+	  "datePublished": {{ .PublishDate }},
+	  "dateModified": {{ .Lastmod }},
+	  "author": {
+	    "@type": "Person",
+	    "name": {{ .Site.Params.author }}
+	  },
+	  "mainEntityOfPage": { "@type": "WebPage" },
+	   "publisher": {
+	    "@type": "Organization",
+	    "name": {{ .Site.Params.header }},
+	    "logo": {
+	      "@type": "ImageObject",
+	      "url": {{ .Site.Params.logo }}
+	    }
+	  },
+	  "description": {{ .Summary | plainify | safeHTML }},
+	  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+	}
+	</script>
+	{{ end }}
+	{{ if not (eq .Section "autism-faq") }}
+		{{ if not (eq .Section "autism-blog") }}
+<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "Organization",
+	  "name": {{ .Site.Params.header }},
+	  "url": {{ .Site.BaseURL }},
+	  "sameAs": [
+	    "https://twitter.com/{{ .Site.Params.twitter }}",
+	    "https://mstdn.social/{{ .Site.Params.mastodon }}",
+	    "https://www.instagram.com/{{ .Site.Params.instagram }}",
+	    "https://www.goodreads.com/{{ .Site.Params.goodreads }}",
+	    "https://youtube.com/{{ .Site.Params.youtube }}",
+	    "https://linktr.ee/{{ .Site.Params.linktree }}"
+	  ]
+	}
+	</script>
+		{{ end }}
+	{{ end }}
+	<!-- </script> -->

@@ -21,6 +21,15 @@ hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Kor
 ############################# Params ##############################
 [params]
 env = "production"
+author = "Jeff Owens"
+logo = "images/logo.svg"
+header = "Autism Resources"
+twitter = "Autism1o1"
+mastodon = "@autism101"
+instagram = "autism_1_0_1"
+goodreads = "autism-101"
+youtube = "@Autism101"
+linktree = "autism_101"
 
 ############################# Modules ##############################
 [module]
