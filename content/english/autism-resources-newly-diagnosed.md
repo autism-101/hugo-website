@@ -169,8 +169,13 @@ about_this_product:
     
     * <a href='https://www.tiktok.com/@autisticsunmasked'>Autistics Unmasked</a>
 
+    * <a href='https://www.tiktok.com/@purpleellaandcoco'>Purple Ella and Coco</a>
+
     * <a href='https://www.tiktok.com/@neurodivergentrebel'>Neurodivergent Rebel</a>
 
+    * <a href='https://www.tiktok.com/@autistic.alex'>Autistic Alex</a>
+
+    * <a href='https://www.tiktok.com/@soundoftheforest'>Sound Of The Forest</a>
     "
   
   - title: "Podcasts"
@@ -202,6 +207,10 @@ about_this_product:
     * <a href='https://discord.com/invite/8tgdN4Nu46'>Narratives of Neurodiversity Network</a>
 
     * <a href='https://discord.mamapistachio.com/'>Mama Pistachio</a>
+
+    * <a href='https://discord.gg/zT2DsUHV'>Stim City</a>
+
+    * <a href='https://discord.gg/wvnm9wbz'>The Autism Page</a>
 
     * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
