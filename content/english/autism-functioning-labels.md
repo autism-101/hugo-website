@@ -7,7 +7,7 @@ description: "Why most autistic people don't like functioning labels."
 draft: false
 ---
 
-##### What's The Big Deal?
+<h2 class="h4 mb-4">What's The Big Deal?</h2>
 
 A common response autistic people get when disclosing they are autistic, is for the other person to remark on how "high-functioning" they are. It is implied that this is much better than being "low-functioning", and that their autism can't really be that bad. Because hey, isn't everybody on the spectrum somewhere?
 
@@ -33,11 +33,11 @@ Kat Williams in her National Center for Mental Health article writes:
 > 'High functioning’ is not how an autistic person experiences being autistic, it’s how society experiences the autistic person.
 > <cite>--Kat Williams, 2019<sup id="_ref-2" class="reference"><a href="#_note-2" data-toggle="tooltip" title="Functioning Labels">[2]</a></sup></cite>
 
-##### DSM-V
+<h2 class="h4 mb-4">DSM-V</h2>
 
 The American Psychiatric Association released the fifth edition of its Diagnostic and Statistical Manual of Mental Disorders (DSM-V) in 2013. In the United States and many other countries, the DSM-V is the reference guide healthcare professionals use to diagnose autism and other mental and behavioral conditions. It contains three different severity levels<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="Autism Severity Levels">[3]</a></sup> of autism with the highest level three requiring "very substantial support". 
 
-##### Problems With Functioning Labels
+<h2 class="h4 mb-4">Problems With Functioning Labels</h2>
 
 * Labels Don't Reflect Reality: Autistic people's abilities to function constantly change. Everyone has had a bad day where they can barely do anything. Autistic people are no different, and their abilities to function often fluctuate dramatically during a single day.
 * Labels Limit Who Gets Accommodations: Unless you are considered "low functioning" then automatically your accommodation needs will get ignored. It assumes "low functioning" people lack intelligence so they get denied opportunities, and "high functioning" people are assumed to be normal and denied support.
@@ -45,18 +45,18 @@ The American Psychiatric Association released the fifth edition of its Diagnosti
 * Labels Are Often Ableist: Instead of accepting people how they are, people are taught to believe being disabled is bad. So being labeled "high functioning" must be much better than "low functioning".
 * Labels Divide Us: People can use labels as a means to silence autistic voices they don't approve of.
 
-##### Studies Show Functioning Labels Are Harmful
+<h2 class="h4 mb-4">Studies Show Functioning Labels Are Harmful</h2>
 
 Recent studies have shown that:
 
 > High cognitive “function” had no connection to high function in other areas of life — an autistic person with high cognitive abilities can struggle significantly socially or emotionally.           
 > <cite>--Dr. Gail Alvares, 2019<sup id="_ref-4" class="reference"><a href="#_note-4" data-toggle="tooltip" title="New Study Agrees Harmful Autism 'Functioning' Labels Are Harmful">[4]</a></sup></cite>
 
-##### In 2022 People Are Still Trying To Use Them
+<h2 class="h4 mb-4">In 2022 People Are Still Trying To Use Them</h2>
 
 The National Council On Severe Autism (NCSA) wants to add a new category to the DSM-5. Can you guess what they want to call it? If you guessed "severe autism"<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="New Study Agrees Harmful Autism 'Functioning' Labels Are Harmful">[5]</a></sup> you are right. 
 
-<h5 id="zapme">References</h5>
+<h3 class="h4 mb-4" id="zapme">References</h3>
 <ol class="references">
 <li id="_note-1"><a href="#_ref-1" class="uparrow">^</a><span>Vance, Terra (2018-09-10).</span> <a href="https://neuroclastic.com/the-journey-begins/" rel="nofollow" class="external">"Function Labels: And We’re Supposed to be The Awkward Ones"</a>. <cite>Neuroclastic</cite> Retrieved 2022-10-26.
 </li>
