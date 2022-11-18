@@ -13,4 +13,4 @@ social:
     link : "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
 ---
 
-I'm Jeff, an Autistic person who is trying to make sense of the world and my place in it. I like to help other people when I am able. I love being a part of the Autistic community.  
+Hi, I'm Jeff Owens, an Autistic person who is trying to make sense of the world and my place in it. I like to help other people when I am able. I love being a part of the Autistic community.  

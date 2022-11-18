@@ -220,7 +220,7 @@ about_this_product:
 product_info:
   enable : true
   title: "Autism & Disability Websites"
-  content: "Here are some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accomodations, discussions on disclosure and living autistically."
+  content: "Here are some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accommodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
   - image: "images/ask-jan.jpg"

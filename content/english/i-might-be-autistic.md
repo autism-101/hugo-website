@@ -60,7 +60,7 @@ about_this_product:
 
     <br><br>
     
-    You might need to get a referal from your GP doctor to get tested for Autism. It is a good idea to write down all of the Autistic characteristics and any related past stories from your life on a sheet of paper to share with your physician. And if you have taken any online Autism screening tests bring the results with you.
+    You might need to get a referral from your GP doctor to get tested for Autism. It is a good idea to write down all of the Autistic characteristics and any related past stories from your life on a sheet of paper to share with your physician. And if you have taken any online Autism screening tests bring the results with you.
 
     <br><br>
     

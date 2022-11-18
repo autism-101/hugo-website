@@ -1,7 +1,7 @@
 ---
 title: "Author"
 subtitle: ""
-description: "Read latest blog posts by Author"
+description: "Read our latest blog posts by Author"
 draft: false
 ---
 

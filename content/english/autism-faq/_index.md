@@ -15,12 +15,12 @@ faq_list:
   content: "Yes, despite the stereotype, many autistic people experience empathy. Learn about the [double empathy problem](https://www.spectrumnews.org/news/double-empathy-explained/)."
 
 - title: "Why do autistic people wear headphones?"
-  content: "Autistic people can have very different sensory profiles. Many are extremely sensitive to sound and use noise-cancelling headphones to help block out too much sensory input. Otherwise they can get overstimulated which causes them stress and anxiety."
+  content: "Autistic people can have very different [sensory profiles](/autism-blog/autism-and-sensory-issues/). Many are extremely sensitive to sound and use noise-cancelling headphones to help block out too much sensory input. Otherwise they can get overstimulated which causes them stress and anxiety."
 
 - title: "Can an autistic person fall in love?"
-  content: "Yes, autistic people have romantic relationships, fall in love, marry, and have children."
+  content: "Yes, some autistic people have romantic relationships, fall in love, marry, and have children."
 
-- title: "Do you support the use of functioning labels?"
-  content: "No, you can see my viewpoint on that topic [here](/autism-functioning-labels/)."
+- title: "What are functioning labels?"
+  content: "[Functioning labels](/autism-functioning-labels/) such as \"high functioning\" are sometimes used to identify someone’s communication methods and intellectual ability. These \"functioning labels\" are harmful to autistic people and have been used in the past to keep us from receiving services we need."
 
 ---
