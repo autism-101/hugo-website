@@ -98,32 +98,27 @@ title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://twitter.com/Autism1o1"
 
-# [[social]]
-# title = "instagram"
-# icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = "#!"
-
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com/autism-101"
-
-[[social]]
-title = "youtube"
-icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.youtube.com/playlist?list=PL0t4t5lmGKqRBZysEzKJ6_aaoSPNx-hVM"
-
-[[social]]
-title = "goodreads"
-icon = "fab fa-goodreads" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.goodreads.com/review/list/147931757-autism-101?ref=nav_mybooks&shelf=autistic-living"
-
 [[social]]
 title = "mastodon"
 icon = "fa-brands fa-mastodon" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "https://mstdn.social/@autism101"
 
+[[social]]
+title = "youtube"
+icon = "fab fa-youtube" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.youtube.com/@autism101/playlists"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.instagram.com/autism_1_0_1/"
+
+[[social]]
+title = "goodreads"
+icon = "fab fa-goodreads" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.goodreads.com/autism-101"
+
 # [[social]]
 # title = "linkedin"
 # icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = "#!"
+# link = "www.linkedin.com/in/autism101"
