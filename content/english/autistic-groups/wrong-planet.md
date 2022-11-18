@@ -14,7 +14,7 @@ alttext: "Wrong Planet"
 ##### Overview
 {{< newtabref  href="https://wrongplanet.net/" title="Wrong Planet" >}} has lots of content divided into various sections. The most active content if found underneath the Forums section where users can find discussion threads on many categories such as general autism discussion, getting to know each other, autism politics and activism, news and current events, and many more. 
 
-Other main sections of the site include:
+##### Site Sections
 
 * {{< newtabref  href="https://wrongplanet.net/forums/" title="Forums" >}}
 * {{< newtabref  href="https://wrongplanet.net/videos/" title="Videos" >}}

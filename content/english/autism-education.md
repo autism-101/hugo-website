@@ -13,7 +13,7 @@ banner:
   title: "Autism Educational Resources"
   image: "images/education.jpg"
   imagealt: "A woman is shown reading while sitting on a large stack of books."
-  content : "I have gathered some great educational resources for you to learn more about autism directly from other autistic people."
+  content : "I have gathered some great Autism educational resources for you to learn more directly from other autistic people."
   button:
     enable : true
     label : "Goodreads Lists"
