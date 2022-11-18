@@ -10,10 +10,10 @@ og_image: "images/autistic-groups/05.png"
 alttext: "Autistic Adults"
 ---
 
-##### About:
+<h2 class="h3 mb-3">About Autistic Adults:</h2>
 {{< newtabref  href="https://www.facebook.com/groups/2036299673287000/" title="Autistic Adults" >}} is a Facebook group that is for autistic adults that would like help and support to deal with anxiety, depression, and other emotional support. It is a friendly group aimed at helping each other, sharing tips and tricks, or just venting about feelings. They are inclusive of all people.
 
-##### Overview
+<h2 class="h3 mb-3">Autistic Adults Overview</h2>
 {{< newtabref  href="https://www.facebook.com/groups/2036299673287000/" title="Autistic Adults" >}} has over 8 thousand members. Every person is welcome here no matter their religion, political views, colour of their skin, gender, or lifestyle choice. They accept all ASD adults. They accept self-diagnosis and professional diagnosis. Denial of the validity of a person's form of diagnosis will result in a ban. 
 
 Some of the posting rules include: 

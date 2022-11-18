@@ -10,10 +10,10 @@ og_image: "images/autistic-groups/03.png"
 alttext: "Sounds Autistic"
 ---
 
-##### About:
+<h2 class="h3 mb-3">About Sounds Autistic:</h2>
 The {{< newtabref  href="https://www.facebook.com/groups/2223274367896109/" title="Sounds Autistic I'm In" >}} is a private Facebook group for autistic adults that are 18+ only. They welcome all who believe they are or may be autistic, a medical diagnosis is not required.
 
-##### Overview
+<h2 class="h3 mb-3">Sounds Autistic Overview</h2>
 {{< newtabref  href="https://www.facebook.com/groups/2223274367896109/" title="Sounds Autistic I'm In" >}} has over 10 thousand members. Users can post to the group and expect to get great feedback and information. Some of the posting rules include: 
 
 * No promoting the medical model - No person first language, no functioning labels, no pathologising of traits, no support of neurotypical charities, no defending the Asperger's label, no promoting ABA. 
