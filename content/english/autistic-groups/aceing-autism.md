@@ -2,6 +2,8 @@
 date: "2022-01-21"
 draft: false
 title: "ACEing Autism"
+# meta description
+description: "ACEing Autism helps autistic children develop connections and fitness through affordable tennis programming."
 logo: "images/autistic-groups/08.png"
 # twitter card image
 og_image: "images/autistic-groups/08.png"

@@ -2,6 +2,8 @@
 date: "2022-01-27"
 draft: false
 title: "AutiComm"
+# meta description
+description: ""
 logo: "images/autistic-groups/02.png"
 # twitter card image
 og_image: "images/autistic-groups/02.png"

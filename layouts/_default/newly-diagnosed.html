@@ -51,7 +51,7 @@
             <i class="{{.icon}} text-primary"></i>
           </div>
   
-          <h2 class="h4 mb-3">{{.title | markdownify}}</h2>
+          <h3 class="h4 mb-4">{{.title | markdownify}}</h3>
           <div class="content">{{.content | markdownify}}</div>
         </div>
       </div>
@@ -80,7 +80,7 @@
     <div class="row align-items-center {{if ne $i 0}} mt-6 {{end}}">
       <div class="col-lg-6 order-2 order-lg-1">
         <div class="me-0 me-lg-5">
-          <h2 class="section-title h3">{{ .title | markdownify }}</h2>
+          <h3 class="section-title h4 mb-4">{{ .title | markdownify }}</h3>
           <p class="mb-4">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}

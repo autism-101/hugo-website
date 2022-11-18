@@ -2,6 +2,8 @@
 date: "2022-01-26"
 draft: false
 title: "Sounds Autistic"
+# meta description
+description: ""
 logo: "images/autistic-groups/03.png"
 # twitter card image
 og_image: "images/autistic-groups/03.png"
