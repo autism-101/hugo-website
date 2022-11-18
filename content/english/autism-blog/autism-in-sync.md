@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "In Sync with other Disabled People"
+description: "Learn how an autistic person connected with other disabled people."
 # post draft
 draft: false
 ---

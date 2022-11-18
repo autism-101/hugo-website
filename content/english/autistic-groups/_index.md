@@ -3,7 +3,7 @@ title: "Autistic Groups"
 subtitle: "Where to find other Autistic people. <br>* Most groups do not allow the use of functioning labels. <a href='/autism-functioning-labels/'>Learn why?</a>"
 fvicon: "<i class='dropdown-icon fas fa-users'></i>"
 # meta description
-description: "Autistic Groups - reviews of community websites."
+description: "Looking to find some autism groups? Read our reviews of some great autistic community websites."
 draft: false
 # content section
 section: "autistic-groups"

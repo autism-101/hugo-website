@@ -2,7 +2,7 @@
 title: "Autism Frequently Asked Questions"
 subtitle: "Because we all have them. 😊"
 # meta description
-description: "Autism Frequently Asked Questions (FAQ)"
+description: "Autism Frequently Asked Questions (FAQ)."
 draft: false
 section: "autism-faq"
 layout: "faq"

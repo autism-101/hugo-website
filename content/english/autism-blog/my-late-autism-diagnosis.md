@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "My Late Autism Diagnosis in My 50’s And How It Changed Me."
+description: "Learn how an autism diagnosis late in their life, completely changed them."
 # post draft
 draft: false
 ---

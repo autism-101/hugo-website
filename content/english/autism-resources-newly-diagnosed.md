@@ -2,7 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Autism resources for the newly diagnosed."
-description: "I'm newly diagnosed as Autistic."
+description: "Autism resources for the newly diagnosed, or self diagnosed. Learn how to find other autistic people."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/what-now.jpg"
@@ -63,7 +63,7 @@ about_this_product:
     <br><br>
     You can join Mastodon by signing up <a href='https://joinmastodon.org/servers'>here</a>. Find any server that has a 'Create account' button that looks interesting and register your account. It does not matter which server you signup with, you will still be able to communicate and follow anyone. 
     <br><br>
-    I built a <a href='https://forms.gle/i5EgVXcLUyPpWZ3c8'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
+    I built a <a href='https://docs.google.com/forms/d/e/1FAIpQLScMczoV34fI3ozjvvIUu9Ujyhv5LDLL_43ROS2dFgfKxlQrXQ/viewform'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
     "
 
   - title: "Reddit"
@@ -160,7 +160,19 @@ about_this_product:
 
     * <a href='https://www.facebook.com/groups/thatausomebookclub/'>That Au-Some Book Club</a>
 
-    * <a href='https://www.facebook.com/groups/autisminclusivity/'>Autistic Pride</a>
+    * <a href='https://www.facebook.com/groups/autisminclusivity/'>Autistic Inclusivity</a>
+
+    * <a href='https://www.facebook.com/groups/236272016838118/'>Autistic Researchers Researching Autism (ARRA)</a>
+
+    * <a href='https://www.facebook.com/groups/148276319191895/'>ADHD/Autism Cleaning / Decluttering Support</a>
+
+    * <a href='https://www.facebook.com/groups/autisticadultswithadhd/'>Autistic Adults with ADHD</a>
+
+    * <a href='https://www.facebook.com/groups/676189865840218/'>Autism Late Diagnosis/Self-Identification Support and Education</a>
+
+    * <a href='https://www.facebook.com/groups/2138776736451241/'>Ask Autistic Adults - Resource for Parents of Autistics</a>
+
+    * <a href='https://www.facebook.com/groups/822842864718484/'>This is autistic culture</a>
     "
 
   - title: "TikTok"
@@ -202,17 +214,17 @@ about_this_product:
     icon: "fab fa-discord"
     content: "Here are some great autistic Discord channels where you can hang out with other autistic people.
     
-    * <a href='https://discord.gg/KkKHYHzHzk'>Autistic Adults - Emotional Support</a>
+    * <a href='https://discord.com/invite/KkKHYHzHzk'>Autistic Adults - Emotional Support</a>
 
     * <a href='https://discord.com/invite/8tgdN4Nu46'>Narratives of Neurodiversity Network</a>
 
-    * <a href='https://discord.mamapistachio.com/'>Mama Pistachio</a>
+    * <a href='https://discord.com/invite/UQGv75EN'>Mama Pistachio</a>
 
-    * <a href='https://discord.gg/zT2DsUHV'>Stim City</a>
+    * <a href='https://discord.com/invite/zT2DsUHV'>Stim City</a>
 
-    * <a href='https://discord.gg/wvnm9wbz'>The Autism Page</a>
+    * <a href='https://discord.com/invite/wvnm9wbz'>The Autism Page</a>
 
-    * <a href='https://discord.gg/r3KhnzrQUM'>DFW Autistic Support Group</a>
+    * <a href='https://discord.com/invite/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
     "
 

@@ -246,7 +246,7 @@ isMenuLarge = true
   name = "Autism Glossary"
   pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
   post = "<small class='dropdown-subtitle'>Common terms.</small>"
-  url = "autism-glossary"
+  url = "autism-glossary/"
   weight = 8
 
   [[main]]
@@ -254,7 +254,7 @@ isMenuLarge = true
   name = "Autism FAQ"
   pre = "<i class='dropdown-icon fas fa-circle-question'></i>"
   post = "<small class='dropdown-subtitle'>Frequently asked questions.</small>"
-  url = "autism-faq"
+  url = "autism-faq/"
   weight = 9
 
 [[main]]

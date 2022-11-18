@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Why Autistics love routines."
+description: "Learn why autistic people love routines, and why it helps with reducing their anxiety."
 # post draft
 draft: false
 ---

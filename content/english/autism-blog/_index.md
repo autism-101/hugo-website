@@ -2,6 +2,6 @@
 title: "Autism Blog Posts"
 subtitle: "Living life neurodivergently."
 # meta description
-description: "Living life neurodivergently."
+description: "An autism blog about living life neurodivergently."
 draft: false
 ---

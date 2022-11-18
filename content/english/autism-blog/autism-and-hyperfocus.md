@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Hyperfocus Ability in Autism"
+description: "Learn how an autistic persons hyperfocus created opportunities for work."
 # post draft
 draft: false
 ---
