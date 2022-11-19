@@ -3,7 +3,7 @@ date: "2022-01-23"
 draft: false
 title: "Meetup"
 # meta description
-description: ""
+description: "Meetup.com has some autistic groups that are available. Check to see if one is in your area."
 logo: "images/autistic-groups/06.png"
 # twitter card image
 og_image: "images/autistic-groups/06.png"

@@ -3,7 +3,7 @@ date: "2022-01-22"
 draft: false
 title: "Autism Forums"
 # meta description
-description: ""
+description: "Autism Forums is a friendly space to discuss and related conditions."
 logo: "images/autistic-groups/07.png"
 # twitter card image
 og_image: "images/autistic-groups/07.png"

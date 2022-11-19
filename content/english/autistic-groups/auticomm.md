@@ -3,7 +3,7 @@ date: "2022-01-27"
 draft: false
 title: "AutiComm"
 # meta description
-description: ""
+description: "AutiComm is an autistic community made by us and for us, intended to both incubate connection among autie folks and launch projects towards greater public connection."
 logo: "images/autistic-groups/02.png"
 # twitter card image
 og_image: "images/autistic-groups/02.png"
