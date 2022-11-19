@@ -61,7 +61,7 @@
               <div class="fw-500"><i class="far fa-calendar-alt text-dark me-1"></i> {{ time.Format ":date_long" .PublishDate }}</div>
             </div>
 
-            <h3 class="h5"><a href="{{ .Permalink }}" title="{{ .Title }}" class="text-dark d-inline-block" rel="canonical">{{ .Title }}</a></h3>
+            <h2 class="h5"><a href="{{ .Permalink }}" title="{{ .Title }}" class="text-dark d-inline-block" rel="canonical">{{ .Title }}</a></h2>
             <p class="mb-4">{{ .Summary }}</p>
             <a href="{{.Permalink}}" title="{{ i18n `read_more` }} - {{ .Title }}" class="btn btn-sm btn-primary btn-sm" rel="canonical">{{ i18n `read_more` }}</a>
           </div>

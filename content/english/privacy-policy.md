@@ -10,7 +10,7 @@ This privacy policy ("policy") will help you understand how Autism-101 ("us", "w
 
 We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.
 
-##### What User Data We Collect
+<h2 class="h4 mb-4">What User Data We Collect</h2>
 
 When you visit the website, we may collect the following data:
 
@@ -18,7 +18,7 @@ When you visit the website, we may collect the following data:
 * Your contact information and email address.
 * Data profile regarding your online behavior on our website.
 
-##### Why We Collect Your Data
+<h2 class="h4 mb-4">Why We Collect Your Data</h2>
 
 We are collecting your data for several reasons:
 
@@ -26,11 +26,11 @@ We are collecting your data for several reasons:
 * To improve our services and products.
 * To customize our website according to your online behavior and personal preferences.
 
-##### Safeguarding and Securing the Data
+<h2 class="h4 mb-4">Safeguarding and Securing the Data</h2>
 
 Autism-101 is committed to securing your data and keeping it confidential. Autism-101 has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.
 
-##### Our Cookie Policy
+<h2 class="h4 mb-4">Our Cookie Policy</h2>
 
 Once you agree to allow our website to use cookies, you also agree to use the data it collects regarding your online behavior (analyze web traffic, web pages you spend the most time on, and websites you visit).
 
@@ -40,10 +40,10 @@ Please note that cookies don't allow us to gain control of your computer in any 
 
 If you want to disable cookies, you can do it by accessing the settings of your internet browser. (Provide links for cookie settings for major internet browsers).
 
-##### Links to Other Websites
+<h2 class="h4 mb-4">Links to Other Websites</h2>
 
 Our website contains links that lead to other websites. If you click on these links Autism-101 is not held responsible for your data and privacy protection. Visiting those websites is not governed by this privacy policy agreement. Make sure to read the privacy policy documentation of the website you go to from our website.
 
-##### Restricting the Collection of your Personal Data
+<h2 class="h4 mb-4">Restricting the Collection of your Personal Data</h2>
 
 Autism-101 will not lease, sell or distribute your personal information to any third parties, unless we have your permission. We might do so if the law forces us.

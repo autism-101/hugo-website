@@ -8,7 +8,7 @@ layout: "contact"
 ---
 
 
-#### How can I help you? Let me know!
+<h2 class="h4 mb-4">How can I help you? Let me know!</h2>
 I will try my best to answer or point you in the right direction.
 
 * **Mail: contact AT autism-101.com**
