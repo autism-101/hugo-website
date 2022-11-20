@@ -31,7 +31,7 @@ For instance, if he made a mistake while playing a piece he might say, “Oh wel
 
 I would drive over to Olivia’s house each week for her piano lesson. She would greet me at the door eager for the lesson to begin. I always brought with me a recording I had prepared for her to use for that weeks practice. I recorded any new songs for her to listen to with instructions on how to practice them. She would lead me to the piano where we would begin. Olivia had an amazing ear and memory. She would rock back and forth on the piano bench as she played through her pieces with great musical understanding. She also enjoyed composing her own music. Sometimes she had written lyrics for her composition and would sing along while she played for me. I would always encourage her to compose more.
 
-<h2 class="h4 my-4">Connection</h2>
+<h2 class="h4 my-4">Connecting with the Disabled</h2>
 
 I now believe my own neurodivergent mind found it quite easy to communicate with Steven and Olivia because we are on the same wavelength. The latest research has borne this out.<sup id="_ref-1" class="reference"><a href="#_note-1" data-toggle="tooltip" title="Double empathy, explained">[1]</a></sup> When neurodivergent people communicate there are no issues, it is only when a neurotypical person and a neurodivergent person talk, that issues seem to arise.   
 
