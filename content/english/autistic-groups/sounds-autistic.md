@@ -3,7 +3,7 @@ date: "2022-01-26"
 draft: false
 title: "Sounds Autistic"
 # meta description
-description: "Sounds Autistic is a private Facebook group for autistic adults that are 18+ only. They welcome all who believe they are or may be autistic, a medical diagnosis is not required."
+description: "Sounds Autistic is a Facebook group for autistic adults and those who believe they might be. A medical diagnosis is not required."
 logo: "images/autistic-groups/03.png"
 # twitter card image
 og_image: "images/autistic-groups/03.png"

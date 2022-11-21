@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 subtitle: ""
 # meta description
-description: "Autism-101 Privacy Policy"
+description: "Autism-101 Privacy Policy and data usage information."
 draft: false
 ---
 

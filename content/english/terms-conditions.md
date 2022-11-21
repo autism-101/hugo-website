@@ -2,7 +2,7 @@
 title: "Terms of Service"
 subtitle: ""
 # meta description
-description: "Autism-101 Terms of Service."
+description: "Autism-101 Terms of Service and conditions for using the website."
 draft: false
 ---
 

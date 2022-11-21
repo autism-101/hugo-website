@@ -3,7 +3,7 @@ date: "2022-01-24"
 draft: false
 title: "Autistic Adults"
 # meta description
-description: "Autistic Adults is a Facebook group that is for those that would like help and support to deal with anxiety, depression, and other emotional support. It is a friendly group aimed at helping each other, sharing tips and tricks, or just venting about feelings."
+description: "Autistic Adults is a Facebook group that is for those that would like help and support to deal with anxiety, depression, and other emotional support."
 logo: "images/autistic-groups/05.png"
 # twitter card image
 og_image: "images/autistic-groups/05.png"

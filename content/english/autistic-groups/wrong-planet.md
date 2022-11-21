@@ -3,7 +3,7 @@ date: "2022-01-25"
 draft: false
 title: "Wrong Planet"
 # meta description
-description: "Wrong Planet is a web community designed for autistic individuals as well as parents and professionals of those with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences."
+description: "Wrong Planet is a community of autistic people, ADHD, PDDs, and other neurological differences."
 logo: "images/autistic-groups/04.png"
 # twitter card image
 og_image: "images/autistic-groups/04.png"
