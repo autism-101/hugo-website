@@ -74,6 +74,10 @@ about_this_product:
 
     * <a href='https://www.reddit.com/r/autism/'>Autism</a>
 
+    * <a href='https://www.reddit.com/r/AutisticWithADHD/'>Autistic with ADHD</a>
+
+    * <a href='https://www.reddit.com/r/AskAutism/'>Ask Autism</a>
+
     * <a href='https://www.reddit.com/r/AutismInWomen/'>Autism In Women</a>
 
     * <a href='https://www.reddit.com/r/AutisticPride/'>Autistic Pride</a>
@@ -84,7 +88,17 @@ about_this_product:
 
     * <a href='https://www.reddit.com/r/aspergirls/'>Aspergirls</a>
 
+    * <a href='https://www.reddit.com/r/aspieGirls/'>Aspie Girls</a>
+
+    * <a href='https://www.reddit.com/r/aspiememes/'>Aspie Memes</a>
+
+    * <a href='https://www.reddit.com/r/aspiepositive/'>Aspie Positive</a>
+
     * <a href='https://www.reddit.com/r/AutisticCreatives/'>Autistic Creatives</a>
+
+    * <a href='https://www.reddit.com/r/NDemployed/'>ND Employed</a>
+
+    * <a href='https://www.reddit.com/r/Neurodiversity/'>Neurodiversity</a>
 
     "
 
@@ -187,7 +201,17 @@ about_this_product:
 
     * <a href='https://www.tiktok.com/@autistic.alex'>Autistic Alex</a>
 
+    * <a href='https://www.tiktok.com/@joe.cox90'>Joe Cox</a>
+
     * <a href='https://www.tiktok.com/@soundoftheforest'>Sound Of The Forest</a>
+
+    * <a href='https://www.tiktok.com/@orionkelly_australia'>Orion Kelly</a>
+
+    * <a href='https://www.tiktok.com/@paigelayle'>Paige Layle</a>
+
+    * <a href='https://www.tiktok.com/@taylor_heaton_'>Taylor Heaton</a>
+
+    * <a href='https://www.tiktok.com/@thecreativenerdd'>Ana Maria Nunez-Gonz</a>
     "
   
   - title: "Podcasts"
@@ -198,13 +222,23 @@ about_this_product:
 
     * <a href='https://podcasts.apple.com/us/podcast/autism-in-conversation-with-auticon/id1595836489'>Autism: In Conversation with Auticon</a>
 
+    * <a href='https://podcasts.apple.com/us/podcast/the-squarepeg-podcast/id1534436014'>Squarepeg with Amy Richards</a>
+
+    * <a href='https://podcasts.apple.com/us/podcast/oh-thats-just-my-autism/id1571451093'>Oh, That's Just My Autism with Melissa Tacia</a>
+
     * <a href='https://open.spotify.com/show/7uBTvQIqIj9WJj7KYOBKT8?si=ktBnnPTGS5W7IRCPk0r85g'>A Team with Robert Smythe and Rafael Mantesso</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/thoughty-auti-the-autism-mental-health-podcast/id1470689079?i=1000448911164'>Thoughty Auti with Thomas Henley</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/neurodiverging/id1503548455?i=1000468898335'>Neurodiverging with Danielle Sullivan</a>
 
+    * <a href='https://podcasts.apple.com/us/podcast/not-neurotypical/id1479197664'>Not Neurotypical</a>
+
     * <a href='https://open.spotify.com/show/5AWFgZ4yHaobPHf35MtRXr'>Autistic at 40 with Toni B</a>
+
+    * <a href='https://podcasts.apple.com/us/podcast/my-friend-autism/id1478602313'>My Friend Autism with Orion Kelly</a>
+
+    * <a href='https://podcasts.apple.com/us/podcast/aspergers-autism-1-podcast-the-aspie-world/id1441602028'>The Aspie World</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/hacking-your-adhd/id1481135244'>Hacking Your ADHD</a>
 
@@ -223,6 +257,8 @@ about_this_product:
     * <a href='https://discord.com/invite/zT2DsUHV'>Stim City</a>
 
     * <a href='https://discord.com/invite/wvnm9wbz'>The Autism Page</a>
+
+    * <a href='https://discord.com/invite/8FeNHSd'>ASDirect</a>
 
     * <a href='https://discord.com/invite/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
