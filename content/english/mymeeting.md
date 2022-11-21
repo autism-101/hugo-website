@@ -3,7 +3,7 @@ title: "Meeting"
 subtitle: "Lets Talk! 😄"
 # meta description
 description: "Meeting"
-draft: false
+draft: true
 layout: "mymeeting"
 robotsdisallow: true
 

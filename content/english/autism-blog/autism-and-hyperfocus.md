@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how an autistic persons hyperfocus created opportunities for work."
+description: "How the autistic ability to hyperfocus led to a career change."
 # post draft
 draft: false
 ---

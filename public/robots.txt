@@ -2,6 +2,4 @@ User-agent: *
 Disallow: /tags/
 Disallow: /categories/
 
-Disallow: /mymeeting/
-
 Sitemap: https://autism-101.com/sitemap.xml

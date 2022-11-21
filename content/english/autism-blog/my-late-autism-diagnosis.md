@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how an autism diagnosis late in their life, completely changed them."
+description: "Learn how an autism diagnosis late in life changed everything."
 # post draft
 draft: false
 ---

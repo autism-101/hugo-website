@@ -10,7 +10,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how an autistic person deals with their sensory issues."
+description: "Learn how autistic people deal with sensory issues."
 # post draft
 draft: false
 ---

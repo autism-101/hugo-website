@@ -13,7 +13,7 @@ banner:
   title: "What Now?"
   image: "images/what-now.jpg"
   imagealt: "A woman of color sits in a train looking ahead and pondering."
-  content : "So what are your next steps? It is important to realize that you are not alone. There are many Autistic communities both online and in real life for you to enjoy. Check out the \"Autistic Groups\" page or scroll down to learn how to find other Autistic people on social media and to explore some Autistic run websites. If you come across any terminology or acronyms you are not familiar with be sure to check out our handy \"Autism Glossary\" page."
+  content : "So what are your next steps? It is important to realize that you are not alone. There are many Autistic communities both online and in real life for you to enjoy. Check out the <a href='/autistic-groups/'>Autistic Groups</a> page or <a href='#socialmedia'>scroll down</a> to learn how to find other Autistic people on social media and to explore some <a href='#websites'>Autistic run websites</a>. If you come across any terminology or acronyms you are not familiar with be sure to check out our handy <a href='/autism-glossary/'>Autism Glossary</a> page."
   button:
     enable : true
     label : "Autistic Groups"
@@ -24,7 +24,7 @@ banner:
 ######################### about this product #####################
 about_this_product:
   enable: true
-  title: "Learn from other Autistic people and find them on social media"
+  title: "<span id='socialmedia'>Learn from other Autistic people and find them on social media</span>"
   content: "Twitter, Mastodon, Reddit, Instagram, Facebook, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
@@ -231,7 +231,7 @@ about_this_product:
 ######################### product_info #####################
 product_info:
   enable : true
-  title: "Autism & Disability Websites"
+  title: "<span id='websites'>Autism & Disability Websites</span>"
   content: "Here are some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accommodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:

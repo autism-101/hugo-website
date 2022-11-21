@@ -1,7 +1,7 @@
 ---
 title: "Jeff Owens"
 # meta description
-description: "Autism-101 author Jeff Owens articles and social media links"
+description: "Autism-101 author Jeff Owens. Articles and social media links."
 image: "images/avatar/03.jpg"
 social:
   - icon : "fab fa-twitter"

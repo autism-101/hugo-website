@@ -1,8 +1,8 @@
 ---
-title: "About Autism-101 Creator"
+title: "About the Autism-101 website."
 subtitle: ""
 # meta description
-description: "About Autism-101 website creator."
+description: "The Autism-101 website was created to help Autistic people connect with each other, and to learn more about Autism."
 # twitter card image
 og_image: "images/autism-101-group.jpg"
 draft: false
