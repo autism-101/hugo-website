@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /tags/
 Disallow: /categories/
+Disallow: /cdn-cgi/l/email-protection
 {{ range where .Data.Pages "Params.robotsdisallow" true }}
 Disallow: {{ .RelPermalink }}
 {{ end }}
