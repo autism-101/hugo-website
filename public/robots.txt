@@ -2,5 +2,13 @@ User-agent: *
 Disallow: /tags/
 Disallow: /categories/
 Disallow: /cdn-cgi/l/email-protection
+Disallow: /autistic-groups/group-1/
+Disallow: /autistic-groups/group-2/
+Disallow: /autistic-groups/group-3/
+Disallow: /autistic-groups/group-4/
+Disallow: /autistic-groups/group-5/
+Disallow: /autistic-groups/group-6/
+Disallow: /autistic-groups/group-7/
+Disallow: /autistic-groups/group-8/
 
 Sitemap: https://autism-101.com/sitemap.xml
