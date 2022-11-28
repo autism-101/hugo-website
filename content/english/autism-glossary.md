@@ -25,6 +25,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>ABA is a model of intervention focused on changing the external behaviors of autistic children, with the goal of making an autistic child look and act nonautistic. Ethical concerns have been raised within the autistic community as to how ABA and similar practices serve to “normalize” autistic children, via teaching children to hide their autistic traits. Hiding autistic traits has been linked to worse mental health outcomes and increased suicidality in autistic adults.<sup id="_ref-1" class="reference"><a href="#_note-1" data-toggle="tooltip" title="Applied Behavior Analysis">[1]</a></sup></td>
 </tr>
 <tr>
+<td>Ableism</td>
+<td>Discrimination or prejudice against individuals with disabilities. Ableism characterizes people as defined by their disabilities and inferior to the non-disabled.</td>
+</tr>
+<tr>
 <td>ADA</td>
 <td>Americans with Disabilities Act is a civil rights law passed in the U.S. (1990) that does not allow discrimination against people with disabilities in employment, public service, and public accommodations.</td>
 </tr>
@@ -216,6 +220,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>Proprioception</td>
 <td>Proprioception refers to a person’s awareness of where their body is positioned in their environment, and where their limits are in terms of their body and how much force is being applied to it. They can also struggle with how to regulate this. If people are hypo- or hypersensitive to this sense it will impact their coordination and how they interact with the world around them. Difficulties with fine motor skills are related to proprioception and this can impact a person’s ability to carry out day-to-day tasks such as writing or using cutlery. Poor gross motor skills impact on coordination of the body in larger movements such as dancing or running. A person may also have difficulty with placing objects or avoiding objects when moving.</td>
+</tr>
+<tr>
+<td>Prosody</td>
+<td>When people talk, they do much more than merely speak words to convey their meaning. They will also vary their rhythm, loudness, tempo and pitch. These changes are known as prosody. Some autistic people find prosody difficult to hear, understand, or reproduce.</td>
 </tr>
 <tr>
 <td>Prosopagnosia</td>
