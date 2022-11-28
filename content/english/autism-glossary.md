@@ -111,11 +111,11 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>EF</td>
-<td>Executive function: The ability to plan, organize and follow through, as well as the ability to inhibit actions, delay responses, make appropriate choices and shift attention. Individuals with ASDs, learning disabilities and other neurological conditions often have deficits in executive function, which is important to the attainment of goals.</td>
+<td>Executive function: The ability to plan, organize and follow through, as well as the ability to inhibit actions, delay responses, make appropriate choices and shift attention. Individuals with Autism, learning disabilities and other neurological conditions often have deficits in executive function, which is important to the attainment of goals.</td>
 </tr>
 <tr>
 <td>EBI</td>
-<td>Early Intensive Behavioral Intervention (EIBI): A fairly generic term for applied behavioral analysis (ABA-based) interventions, the focus is on very young children with ASD, usually younger than five, and often younger than three. The intensity of intervention is significant in number of hours and in the ratio of child to instructor.</td>
+<td>Early Intensive Behavioral Intervention (EIBI): A fairly generic term for applied behavioral analysis (ABA-based) interventions, the focus is on very young children with Autism, usually younger than five, and often younger than three. The intensity of intervention is significant in number of hours and in the ratio of child to instructor.</td>
 </tr>
 <tr>
 <td>EDS</td>
@@ -127,7 +127,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>HFA<sup>*</sup></td>
-<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with ASDs who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="High-functioning Autism">[5]</a></sup></td>
+<td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with Autism who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.<sup id="_ref-5" class="reference"><a href="#_note-5" data-toggle="tooltip" title="High-functioning Autism">[5]</a></sup></td>
 </tr>
 <tr>
 <td>Hyperlexia</td>
@@ -211,7 +211,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>Perseverate</td>
-<td>Perseverate means “to repeat something insistently or redundantly.” Just like stimming, perseveration is not exclusive to people diagnosed with ASD, but it is a commonly observed behavior among that particular group. An example of perseveration would be repeatedly salting a piece of food until no salt is left in the container.</td>
+<td>Perseverate means “to repeat something insistently or redundantly.” Just like stimming, perseveration is not exclusive to people diagnosed with Autism, but it is a commonly observed behavior among that particular group. An example of perseveration would be repeatedly salting a piece of food until no salt is left in the container.</td>
 </tr>
 <tr>
 <td>PFL</td>
@@ -275,7 +275,7 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 </tr>
 <tr>
 <td>TEACHH</td>
-<td>Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) Model: A program of services, rather than a teaching method, in which respect for individual differences, respect and inclusion of parents and various professionals and input from individuals with ASDs are considered in treatment and education. Developed at the University of North Carolina, Chapel Hill and takes a lifespan approach.</td>
+<td>Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) Model: A program of services, rather than a teaching method, in which respect for individual differences, respect and inclusion of parents and various professionals and input from individuals with Autism are considered in treatment and education. Developed at the University of North Carolina, Chapel Hill and takes a lifespan approach.</td>
 </tr>
 <tr>
 <td>Theory Of Mind</td>
