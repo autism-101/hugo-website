@@ -11,7 +11,7 @@ alttext: "Wrong Planet"
 ---
 
 <h2 class="h3 mb-3">About Wrong Planet:</h2>
-{{< newtabref  href="https://wrongplanet.net/" title="Wrong Planet" >}} is a web community designed for autistic individuals as well as parents and professionals of those with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences. They provide a discussion forum, where members communicate with each other, an article section with exclusive articles and how-to guides, blogging features, and more.
+{{< newtabref  href="https://wrongplanet.net/" title="Wrong Planet" >}} is a web community designed for autistic individuals as well as parents and professionals of those with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences. You will find many differing opinions on almost every topic, and finding like-minded people on the site can be quite challenging. I've had some autistic people tell me to include this warning, as they have had some bad experiences on the site. The site also provides a discussion forum where members communicate with each other, and a section with exclusive articles, how-to guides, and blogging features.
 
 <h2 class="h3 mb-3">Wrong Planet Overview</h2>
 {{< newtabref  href="https://wrongplanet.net/" title="Wrong Planet" >}} has lots of content divided into various sections. The most active content if found underneath the Forums section where users can find discussion threads on many categories such as general autism discussion, getting to know each other, autism politics and activism, news and current events, and many more. 
