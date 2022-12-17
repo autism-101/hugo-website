@@ -12,7 +12,7 @@ layout: "about"
 # about
 about:
   title: "About Autism-101"
-  content: "Hi, I'm Jeff Owens, an Autistic person that is passionate about helping those who are newly diagnosed or self-diagnosed as Autistic and those who think they might be. I built this website to help Autistic people connect with each other, and to learn more about Autism."
+  content: "Hi, I'm Jeff Owens, an Autistic person that is passionate about helping those who are newly diagnosed or self-identified as Autistic and those who think they might be. I built this website to help Autistic people connect with each other, and to learn more about Autism."
   image: "images/autism-101-group.jpg"
 
 

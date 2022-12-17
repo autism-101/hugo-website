@@ -2,7 +2,7 @@
 date: "2021-07-14"
 draft: false
 title: "Autism resources for the newly diagnosed."
-description: "Autism resources for the newly diagnosed, or self diagnosed. Learn how to find other autistic people."
+description: "Autism resources for the newly diagnosed, or self-identified. Learn how to find other autistic people."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/what-now.jpg"
@@ -29,6 +29,44 @@ about_this_product:
   background_class: ""
 
   features:
+  - title: "Facebook"
+    icon: "fab fa-facebook"
+    content: "Facebook has some wonderful group pages where Autistic people hang out. Most are private groups. <br><br>Some popular ones are:
+    
+    * <a href='https://www.facebook.com/groups/2036299673287000/'>Autistic Adults</a>
+
+    * <a href='https://www.facebook.com/groups/2223274367896109/'>Sounds Autistic I'm In</a>
+
+    * <a href='https://www.facebook.com/groups/OlderAdultsASD/'>Older Adults with Aspergers</a>
+
+    * <a href='https://www.facebook.com/groups/thatausomebookclub/'>That Au-Some Book Club</a>
+
+    * <a href='https://www.facebook.com/groups/autisminclusivity/'>Autistic Inclusivity</a>
+
+    * <a href='https://www.facebook.com/groups/236272016838118/'>Autistic Researchers Researching Autism (ARRA)</a>
+
+    * <a href='https://www.facebook.com/groups/148276319191895/'>ADHD/Autism Cleaning / Decluttering Support</a>
+
+    * <a href='https://www.facebook.com/groups/autisticadultswithadhd/'>Autistic Adults with ADHD</a>
+
+    * <a href='https://www.facebook.com/groups/676189865840218/'>Autism Late Diagnosis/Self-Identification Support and Education</a>
+
+    * <a href='https://www.facebook.com/groups/2138776736451241/'>Ask Autistic Adults - Resource for Parents of Autistics</a>
+
+    * <a href='https://www.facebook.com/groups/822842864718484/'>This is autistic culture</a>
+    "
+
+  - title: "Mastodon"
+    icon: "fab fa-mastodon"
+    content: "Since Elon Musk bought Twitter things have become chaotic on that social media platform to say the least. Many autistic people have decided to join Mastodon as a Twitter alternative. It is run by volunteers, not corporations or billionaires. Accounts are free and it doesn't matter what server you create an account on. You can learn more at <a href='https://fedi.tips'>fedi.tips</a>.
+    <br><br>
+    You can find me on Mastodon at @autism101@mstdn.social. 💛
+    <br><br>
+    You can join Mastodon by signing up <a href='https://joinmastodon.org/servers'>here</a>. Find any server that has a 'Create account' button that looks interesting and register your account. It does not matter which server you signup with, you will still be able to communicate and follow anyone. 
+    <br><br>
+    I built a <a href='https://docs.google.com/forms/d/e/1FAIpQLScMczoV34fI3ozjvvIUu9Ujyhv5LDLL_43ROS2dFgfKxlQrXQ/viewform'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
+    "
+
   - title: "Twitter"
     icon: "fab fa-twitter"
     content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
@@ -53,17 +91,6 @@ about_this_product:
     * <a href='https://twitter.com/search?q=%23AutisticWhileBlack&src=typed_query'>#AutisticWhileBlack</a>
 
     * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
-    "
-
-  - title: "Mastodon"
-    icon: "fab fa-mastodon"
-    content: "Since Elon Musk bought Twitter things have become chaotic to say the least. Many autistic people have decided to join Mastodon as a Twitter alternative. It is run by volunteers, not corporations or billionaires. If you are interested you can learn more at <a href='https://fedi.tips'>fedi.tips</a>.
-    <br><br>
-    You can find me on Mastodon at @autism101@mstdn.social.💛
-    <br><br>
-    You can join Mastodon by signing up <a href='https://joinmastodon.org/servers'>here</a>. Find any server that has a 'Create account' button that looks interesting and register your account. It does not matter which server you signup with, you will still be able to communicate and follow anyone. 
-    <br><br>
-    I built a <a href='https://docs.google.com/forms/d/e/1FAIpQLScMczoV34fI3ozjvvIUu9Ujyhv5LDLL_43ROS2dFgfKxlQrXQ/viewform'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
     "
 
   - title: "Reddit"
@@ -151,44 +178,13 @@ about_this_product:
     
     * <a href='https://www.youtube.com/c/IndieAndy'>Indie Andy</a>    
 
-    * <a href='https://www.youtube.com/channel/UCxyGdIDgSyXnhKlnrC88S0A'>Hunter Hansen - The Life Autistic</a>
-
     * <a href='https://www.youtube.com/user/AspieWorld1'>The Aspie World</a>
 
-    * <a href='https://www.youtube.com/c/StephanieBethany'>Stephanie Bethany</a>
-
-    * <a href='https://www.youtube.com/c/MindYourAutisticBrainwithSocialAUtie'>Mind Your Autistic Brain - Social Autie</a>
+    * <a href='https://www.youtube.com/@MindYourAutisticBrainTalkShow'>Mind Your Autistic Brain Talk Show</a>
 
     * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>
     "
       
-  - title: "Facebook"
-    icon: "fab fa-facebook"
-    content: "Facebook has some great Autistic group pages. <br><br>Some popular ones are:
-    
-    * <a href='https://www.facebook.com/groups/2036299673287000/'>Autistic Adults</a>
-
-    * <a href='https://www.facebook.com/groups/2223274367896109/'>Sounds Autistic I'm In</a>
-
-    * <a href='https://www.facebook.com/groups/OlderAdultsASD/'>Older Adults with Aspergers</a>
-
-    * <a href='https://www.facebook.com/groups/thatausomebookclub/'>That Au-Some Book Club</a>
-
-    * <a href='https://www.facebook.com/groups/autisminclusivity/'>Autistic Inclusivity</a>
-
-    * <a href='https://www.facebook.com/groups/236272016838118/'>Autistic Researchers Researching Autism (ARRA)</a>
-
-    * <a href='https://www.facebook.com/groups/148276319191895/'>ADHD/Autism Cleaning / Decluttering Support</a>
-
-    * <a href='https://www.facebook.com/groups/autisticadultswithadhd/'>Autistic Adults with ADHD</a>
-
-    * <a href='https://www.facebook.com/groups/676189865840218/'>Autism Late Diagnosis/Self-Identification Support and Education</a>
-
-    * <a href='https://www.facebook.com/groups/2138776736451241/'>Ask Autistic Adults - Resource for Parents of Autistics</a>
-
-    * <a href='https://www.facebook.com/groups/822842864718484/'>This is autistic culture</a>
-    "
-
   - title: "TikTok"
     icon: "fab fa-tiktok"
     content: "TikTok is beginning to have more and more Autistic content creators. We will be adding much more to this list below:

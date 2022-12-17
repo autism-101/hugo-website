@@ -189,7 +189,7 @@ isMenuLarge = true
   parent = "Resources"
   name = "Newly Diagnosed"
   pre = "<i class='dropdown-icon fas fa-user-md'></i>"
-  post = "<small class='dropdown-subtitle'>I've just been diagnosed or self-diagnosed as autistic.</small>"
+  post = "<small class='dropdown-subtitle'>I've just been diagnosed or self-identified as autistic.</small>"
   url = "autism-resources-newly-diagnosed/"
   weight = 1
   
