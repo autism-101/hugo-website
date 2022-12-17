@@ -104,13 +104,13 @@ product_info:
 
 
 ######################### Intro Video #####################
-intro_video:
-  enable: true
-  title: "Are You Autistic?"
-  content: "15 Signs Of Undiagnosed Autism"
-  video_url: "https://www.youtube.com/embed/xvzz1IxUaNg"
-  video_thumbnail: "images/youtube-autistic.png"
-  background_class: ""
+# intro_video:
+#   enable: true
+#   title: "Are You Autistic?"
+#   content: "15 Signs Of Undiagnosed Autism"
+#   video_url: "https://www.youtube.com/embed/xvzz1IxUaNg"
+#   video_thumbnail: "images/youtube-autistic.png"
+#   background_class: ""
 
       
 ######################### content_and_image_ordered #####################
