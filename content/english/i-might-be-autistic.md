@@ -25,7 +25,7 @@ banner:
 about_this_product:
   enable: true
   title: "Autism Diagnosis"
-  content: "There are two main methods of diagnosis, self-identified and professional diagnosis. Each method is equally valid. The links below are not medical advice and are for educational purposes only. There is a saying in Autistic circles, \"Once you have met one Autistic person you have met one Autistic person\". We are all different so you will probably not share every Autistic characteristic. In addition, Autism is <strong>NOT</strong> just found in young white males. It can be found in every demographic including POC and BIPOC, as well as on every continent. Watch the video at the bottom of this page below to learn about some major Autistic characteristics."
+  content: "There are two main methods of diagnosis, self-identified and professional diagnosis. Each method is equally valid. The links below are not medical advice and are for educational purposes only. There is a saying in Autistic circles, \"Once you have met one Autistic person you have met one Autistic person\". We are all different so you will probably not share every Autistic characteristic. In addition, Autism is <strong>NOT</strong> just found in young white males. It can be found in every demographic including POC and BIPOC, as well as on every continent."
   background_class: ""
 
   features:
