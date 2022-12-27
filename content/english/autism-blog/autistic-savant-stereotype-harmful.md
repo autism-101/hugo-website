@@ -48,7 +48,7 @@ We are not all human calculators with no feelings. Many of us can love deeply, f
 
 <h2 class="h4 mb-4">Autistic People Are Not All The Same</h2>
 
-It oversimplifies the diversity of autistic people. The "autistic savant" white male stereotype suggests that we are all the same, when in reality our community is extremely diverse. We come in every age, shape, size, and color. It is not helpful to try to fit us into one narrow and stereotypical mold.
+It oversimplifies the diversity of autistic people. The "autistic savant" white male stereotype suggests that we are all the same, when in reality our community is extremely diverse. We come in every age, sex, shape, size, and color. It is not helpful to try to fit us into one narrow and stereotypical mold.
 
 There is a saying in our community, "If you have met one autistic person, you have met one autistic person". Meaning, we are all extremely different, hence the idea of a spectrum. 
 
