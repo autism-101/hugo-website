@@ -328,6 +328,16 @@ name = "Autism Functioning Labels"
 url = "autism-functioning-labels/"
 weight = 6
 
+[[footer_middle]]
+name = "Autism Glossary"
+url = "autism-glossary/"
+weight = 7
+
+[[footer_middle]]
+name = "Autism FAQ"
+url = "autism-faq/"
+weight = 8
+
 # footer menu right
 [[footer_right]]
 name = "Autism FAQ"
