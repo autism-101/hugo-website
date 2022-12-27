@@ -23,4 +23,10 @@ faq_list:
 - title: "What are functioning labels?"
   content: "[Functioning labels](/autism-functioning-labels/) such as \"high functioning\" are sometimes used to identify someone’s communication methods and intellectual ability. These \"functioning labels\" are harmful to autistic people and have been used in the past to keep us from receiving services we need."
 
+- title: "How common is autism?"
+  content: "Autism is a neurodevelopmental disorder, affecting about 1 in 54 children in the United States. It is more common in boys than girls, with a ratio of about 4:2. But this disparity might be due in part to diagnostic bias."
+
+- title: "How is autism diagnosed?"
+  content: "Autism is usually diagnosed in early childhood, although it can be diagnosed at any age. To diagnose autism, a healthcare provider will consider a combination of factors, including a child's developmental history, behavior, and any physical or medical conditions. The provider may also use standardized tests and observe the child in different settings to assess their social and communication skills. Adults in the U.S. are often given the ADOS-2 test during assessment."
+
 ---
