@@ -1,5 +1,5 @@
 ---
-title: "Autistic People Defined As Savants"
+title: "How The Autism Savant Stereotype Is Harmful"
 date: 2022-12-26T10:07:21+06:00
 # post image
 image: "images/blog/post-7.jpg"
