@@ -5,4 +5,4 @@
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: connect-src autism-101.com; font-src cdnjs.cloudflare.com fonts.gstatic.com; img-src 'self' autism-101.com; script-src-elem 'unsafe-inline' cdnjs.cloudflare.com autism-101.com 'self'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com translate.google.com static.cloudflareinsights.com autism-101.com
+  Content-Security-Policy: connect-src autism-101.com; font-src 'self' cdnjs.cloudflare.com fonts.gstatic.com; img-src 'self' autism-101.com; script-src-elem 'unsafe-inline' cdn.equalweb.com translate.google.com static.cloudflareinsights.com cdnjs.cloudflare.com autism-101.com 'self'; style-src-attr 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com autism-101.com
