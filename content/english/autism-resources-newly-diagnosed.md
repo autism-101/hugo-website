@@ -25,7 +25,7 @@ banner:
 about_this_product:
   enable: true
   title: "<span id='socialmedia'>Learn from other Autistic people and find them on social media</span>"
-  content: "Facebook, Mastodon, Twitter, Reddit, Instagram, Facebook, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
+  content: "Facebook, Mastodon, Twitter, Reddit, Instagram, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
   features:
