@@ -53,7 +53,6 @@ about_this_product:
 
     * <a href='https://www.facebook.com/groups/2138776736451241/'>Ask Autistic Adults - Resource for Parents of Autistics</a>
 
-    * <a href='https://www.facebook.com/groups/822842864718484/'>This is autistic culture</a>
     "
 
   - title: "Mastodon"
