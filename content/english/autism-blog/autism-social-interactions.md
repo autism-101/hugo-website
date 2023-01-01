@@ -12,6 +12,8 @@ type: "regular"
 # meta description
 description: "Learn how autistic people experience social interactions."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autism social interations", "autistic social interactions", "autism social anxiety", "autism blog"]
 draft: false
 ---
 

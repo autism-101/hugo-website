@@ -12,10 +12,12 @@ type: "regular"
 # meta description
 description: "How the autistic ability to hyperfocus led to a career change."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autism hyperfocus", "hyperfocus autism", "hyperfocus autism vs adhd", "autism blog"]
 draft: false
 ---
 
-One Autistic trait that I have is the ability to hyperfocus on something that I am really interested in. While many Autistic people share this ability not all of us do. I’m reminded of a saying we like to use, “If you’ve met one Autistic person, you’ve met one Autistic person”. This means that we are all different, and though we might have some shared characteristics, many could be different. 
+One Autistic trait that I have is the ability to hyperfocus on something that I am really interested in. While many Autistic and ADHD people share this ability not all of us do. I’m reminded of a saying we like to use, “If you’ve met one Autistic person, you’ve met one Autistic person”. This means that we are all different, and though we might have some shared characteristics, many could be different. 
 
 <h2 class="h4 mb-4">Learning New Skills</h2>
 

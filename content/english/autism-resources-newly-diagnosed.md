@@ -6,6 +6,8 @@ description: "Autism resources for the newly diagnosed, or self-identified. Lear
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/what-now.jpg"
+contenttypes: ["Article"]
+keywords: ["autism resources newly diagnosed", "autism resources", "newly diagnosed autism", "autism blog", "autism groups", "autistic groups"]
 layout: "newly-diagnosed"
 
 ######################### banner #####################

@@ -2,6 +2,8 @@
 title: "Jeff Owens"
 # meta description
 description: "Autism-101 author Jeff Owens. Articles and social media links."
+contenttypes: ["Person"]
+author: "jeff-owens"
 image: "images/avatar/03.jpg"
 social:
   - icon : "fab fa-twitter"

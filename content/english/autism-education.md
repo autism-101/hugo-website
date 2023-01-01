@@ -6,6 +6,8 @@ description: "Autism educational resources such as books by autistic authors, an
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/education.jpg"
+contenttypes: ["Article"]
+keywords: ["autism educational resources", "autism education", "autistic resources", "autism blog", "autism resources"]
 layout: "education"
 
 ######################### banner #####################

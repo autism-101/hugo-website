@@ -12,6 +12,8 @@ type: "regular"
 # meta description
 description: "Learn how an autistic person connects with other disabled people."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autism communication", "autism disability communication", "disability community communication", "disability community", "autism blog"]
 draft: false
 ---
 

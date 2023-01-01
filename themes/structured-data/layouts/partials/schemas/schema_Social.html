@@ -1,0 +1,7 @@
+{{- with .social -}}
+{{- if .twitter -}}https://twitter.com/{{ .twitter }},{{- end -}}
+{{- if .instagram -}}https://instagram.com/{{ .instagram }},{{- end -}}
+{{- if .linkedin -}}https://www.linkedin.com/in/{{ .linkedin }}/en,{{- end -}}
+{{- if .youtube -}}https://www.youtube.com/{{ .youtube }},{{- end -}}
+{{- if .github -}}https://github.com/{{ .github }}{{- end -}}
+{{- end -}}

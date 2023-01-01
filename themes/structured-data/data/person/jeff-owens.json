@@ -1,0 +1,13 @@
+{
+  "name": "Jeff Owens",
+  "thumbnail": "images/avatar/03.jpg",
+  "email": "contact@autism-101.com",
+  "gender": "male",
+  "nationality": "American, Canadian",
+  "social": {
+    "twitter": "Autism1o1",
+    "instagram": "autism_1_0_1",
+    "linkedin": "autism101",
+    "github": "autism-101"
+  }
+}

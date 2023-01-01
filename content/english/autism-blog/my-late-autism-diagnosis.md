@@ -6,12 +6,14 @@ image: "images/blog/post-5.jpg"
 # twitter card image
 og_image: "images/blog/post-5.jpg"
 # author
-author: "Jeff Owens"
+author: "jeff-owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
 description: "Learn how an autism diagnosis late in life changed everything."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autism diagnosis 50s", "my late autism diagnosis", "adult autism diagnosis", "autism blog", "adult autism"]
 draft: false
 ---
 

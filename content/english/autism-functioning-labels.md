@@ -4,6 +4,8 @@ subtitle: "Why they are not helpful."
 fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description
 description: "Why most autistic people don't like functioning labels."
+contenttypes: ["Article"]
+keywords: ["autism functioning labels", "functioning labels", "autism blog"]
 draft: false
 ---
 

@@ -1,0 +1,49 @@
+<!-- Source: Mashable Post -->
+
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"Article",
+    "headline":"{{ .Title }}",
+    "url":"{{ .Permalink }}",
+    "keywords":[ {{- if .Keywords -}}
+    {{- range $i, $e := .Keywords -}}{{- if $i -}}, {{- end -}}"{{- $e -}}"{{- end -}}
+    {{- else -}}
+    {{- range $i, $e := .Site.Params.keywords -}}{{- if $i -}}, {{- end -}}"{{ $e }}"{{- end -}}{{- end -}}
+    ],
+    {{ with .Params.Banner }}
+    {{- with .image -}}
+    {{- if fileExists (add `assets/` .) -}}
+    {{- $img:= resources.Get . -}} 
+    "image":{
+        "@type":"ImageObject", 
+        "url": "{{ $img.Permalink }}", 
+        "width":"{{ $img.Width }}",
+        "height":"{{ $img.Height }}"
+    },
+    {{- end -}}
+    {{- end -}}
+    {{ end }}
+    "mainEntityOfPage":"True",
+    "publisher":{
+        "@type":"Organization",
+        "name":"{{ .Site.Params.name }}",
+        "url":"{{ .Site.BaseURL }}",
+        "logo":{
+            "@type":"ImageObject",
+            "url":"{{ .Site.Params.logourl | absURL }}",
+            "width":"357",
+            "height":"60"
+        }
+    },
+    "dateCreated":"{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+    "datePublished":"{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+    {{ if isset .Params "author" }}
+    {{ $author := index .Site.Data.person .Params.author }}
+    "author":"{{ $author.name }}",
+    "creator":"{{ $author.name }}",
+    {{ end }}
+    "dateModified":"{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+    "articleSection":"Autism"
+}
+</script>

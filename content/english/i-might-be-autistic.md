@@ -6,6 +6,8 @@ description: "Think you might be autistic? Learn how to find out."
 icon: "fas fa-portrait"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/question-mark.jpg"
+contenttypes: ["Article"]
+keywords: ["autism diagnosis", "i might be autistic", "am i autistic", "autism blog", "autism testing"]
 layout: "i-might-be-autistic"
 
 ######################### banner #####################

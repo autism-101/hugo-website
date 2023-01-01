@@ -12,6 +12,8 @@ type: "regular"
 # meta description
 description: "Learn how autistic people deal with sensory issues."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autism sensory issues", "autistic sensory issues", "autism sensory overload", "autism blog"]
 draft: false
 ---
 

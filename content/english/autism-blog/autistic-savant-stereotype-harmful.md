@@ -6,12 +6,14 @@ image: "images/blog/post-7.jpg"
 # twitter card image
 og_image: "images/blog/post-7.jpg"
 # author
-author: "Jeff Owens"
+author: "jeff-owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
 description: "Learn how tropes such as the autistic savant are harmful."
 # post draft
+contenttypes: ["BlogPosting"]
+keywords: ["autistic savant stereotype", "autistic savant", "autism stereotypes", "autism blog", "autistic stereotypes", "harmful autism stereotypes"]
 draft: false
 ---
 
