@@ -70,6 +70,9 @@ In the end autistic people are just that...people. We can be found everywhere. W
 
 {{< aimg  src="/images/blog/post-7c.jpg" title="List of Autistic traits." >}}
 
+<br>
+<caption>Art By <a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fautieselfcare&e=ATPNMgOb74d0oEZEsg8bJHm8-u9l-Rkl0pI_5QDUlmTr3tqAqjmfRoKB5xajq0XLoKy83kbpDb0jdUsILBzh-5U">Autie Selfcare</a></caption>
+
 <h2 class="h4 my-4" id="zapme">References</h2>
 <ol class="references">
 <li id="_note-1"><a href="#_ref-1" class="uparrow">^</a><span>Amatina, Mahlia (2022-06-01).</span> <a href="https://www.employmentautism.org.uk/blog/the-autism-spectrum-as-a-spiky-profile" rel="nofollow" class="external">"The autism spectrum as a spiky profile"</a>. <cite>Employment Autism</cite> Retrieved 2022-12-27.

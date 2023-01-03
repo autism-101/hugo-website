@@ -24,6 +24,8 @@ For many autistic people, social interactions with a neurotypical person can be 
 Some conversations can turn into a firehose of unpredictable information, which many autistics struggle with. We may quickly become overwhelmed because we can't keep up and process all of the information coming at us so fast. 
 
 {{< aimg  src="/images/blog/post-6a.jpg" title="Autism During A Conversations" >}}
+<br>
+<caption>Art By <a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fautieselfcare&e=ATPNMgOb74d0oEZEsg8bJHm8-u9l-Rkl0pI_5QDUlmTr3tqAqjmfRoKB5xajq0XLoKy83kbpDb0jdUsILBzh-5U">Autie Selfcare</a></caption>
 
 <h2 class="h4 mb-4">Autism and Comorbidities</h2>
 
@@ -32,6 +34,9 @@ Autistics have different comorbidities that can affect how we manage conversatio
 All of these elements are a big part of what happens during a conversation and are what makes navigating them for an autistic person feel like we are instead playing a game of chess.
 
 {{< aimg  src="/images/blog/post-6b.jpg" title="What Social Interactions Look Like" >}}
+
+<br>
+<caption>Art By <a href="https://www.instagram.com/pastelkattoart/?hl=en">Pastelkatto Art</a></caption>
 
 <h2 class="h4 mb-4">Autism and Social Environments</h2>
 
