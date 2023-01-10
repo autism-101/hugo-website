@@ -47,9 +47,9 @@ email = "contact@autism-101.com"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["autism 101", "autism diagnosis", "autistic people"]
-description = "Autism-101 - Resources for newly diagnosed or self-identified autistic people, and for those who think they might be autistic."
-author = "Autism-101"
+keywords = ["autism resources", "autism support groups", "autism newly diagnosed"]
+description = "Autism resources for newly diagnosed or self-identified autistic people, including books, websites, support groups, and social media."
+author = "Jeff Owens"
 image = ""                           # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
