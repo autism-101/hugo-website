@@ -39,9 +39,9 @@ about_this_product:
     
     Below are some online Autistic screening tests. It is important to note that in most of these tests a greater proportion of males were in the original ASD study groups, so they are more likely to miss Autism in females. In addition the accuracy can vary between the different tests.
    
-   * <a href='https://www.idrlabs.com/autism-spectrum/test.php'>Autism Spectrum Test</a>
+   * <a href='https://embrace-autism.com/autism-spectrum-quotient/'>Autism Spectrum Test</a> 
 
-   * <a href='https://aspietests.org'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
+   * <a href='https://embrace-autism.com/raads-r/'>Ritvo Autism & Asperger Diagnostic Scale (RAADS-R)</a>
 
    * <a href='https://aspietests.org/userdetails.php?target=aq/index.php'>Autism Quotient (AQ) Test</a>
    
