@@ -414,6 +414,18 @@ product_info:
    \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
+  - image: "images/nd-connect.jpg"
+    title: "NDConnect.app"
+    content : "
+    <a href=\"https://ndconnect.app\" text=\"ND Connect\">ND Connect</a> provides mentorship and peer support for neurodivergent people.
+
+    <br>
+
+    <h4 class=\"h6 mb-6\">Our Team</h4>
+
+   \"As a neurodiverse team, we know that sometimes you just need to talk to someone that gets it because they’ve gone through it. Our app lets you connect with neurodivergent people that share the lived experiences that matter to you.\"
+    "
+
 ######################### Intro Video #####################
 intro_video:
   enable: false
