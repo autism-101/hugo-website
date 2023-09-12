@@ -68,7 +68,7 @@ about_this_product:
     I built a <a href='https://docs.google.com/forms/d/e/1FAIpQLScMczoV34fI3ozjvvIUu9Ujyhv5LDLL_43ROS2dFgfKxlQrXQ/viewform'>Neurodivergent Mastodon List</a> form so it makes it easy to find other autistic people. Please consider adding your handle there so others can find you and add you to their Follow List.   
     "
 
-  - title: "Twitter"
+  - title: "Twitter (X)"
     icon: "fab fa-twitter"
     content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
     <br><br>
@@ -310,8 +310,6 @@ product_info:
     content : "
     <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is a site with contributions from almost exclusively autistic people. Their stated goal is to \"represent the autistic experience in its broad diversity, and we recruit people from backgrounds and with experiences that are underrepresented in autistic self-advocacy\".
 
-    <br>
-
     <h4 class=\"h6 mb-6\">Non-Profit</h4>
 
     As a non-profit, <a href=\"https://neuroclastic.com\" text=\"Neuroclastic\">Neuroclastic</a> is using their platform to support autistic business owners, scientists, authors, performers, freelancers, and artists in the pursuit of contributing something meaningful to the Greater Good.
@@ -320,7 +318,17 @@ product_info:
   - image: "images/asan.jpg"
     title: "AutisticAdvocacy.org"
     content : "
-    <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. Nothing About Us, Without Us!\"
+    <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. \"Nothing About Us, Without Us!\"
+    "
+
+  - image: "images/aut-collab.jpg"
+    title: "AutCollab.org"
+    content : "
+    <a href=\"https://autcollab.org\" text=\"AutCollab\">Aut Collab</a> (the Autistic Collaboration Trust) is a community that welcomes all individuals and groups who fully appreciate the value of neurodiversity. If you are looking for a global network of collaborative Autistic peers, Autistic organisations, and NeurodiVentures, you have come to the right place.
+    
+    <br><br>
+    
+    <strong>Aut Collab</strong> acts as a global hub for mutual support, and encourages neurodivergent individuals and ventures to connect and establish long-term collaborations.
     "
 
   - image: "images/art-of-autism.jpg"
@@ -365,7 +373,7 @@ product_info:
     content : "
     <a href=\"https://autisticscienceperson.com\" text=\"Autistic Science Person\">Autistic Science Person</a> is run by Ira, an autistic self-advocate and graduate student in auditory science.
 
-    <br><br>
+    <br>
 
     <h4 class=\"h6 mb-6\">Service</h4>
 
@@ -395,7 +403,7 @@ product_info:
     content : "
     <a href=\"https://misslunarose.home.blog\" text=\"Autistic Dreams\">Autistic Dreams</a> is a blog run by Miss Luna Rose, an autistic writer and artist who's work can be found on wikiHow.com.
 
-    <br><br>
+    <br>
 
     <h4 class=\"h6 mb-6\">Welcome!</h4>
 
