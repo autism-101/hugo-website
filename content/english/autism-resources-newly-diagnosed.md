@@ -331,6 +331,16 @@ product_info:
     <strong>Aut Collab</strong> acts as a global hub for mutual support, and encourages neurodivergent individuals and ventures to connect and establish long-term collaborations.
     "
 
+  - image: "images/aitm.jpg"
+    title: "AutismInTheMedia.com"
+    content : "
+    <a href=\"https://autisminthemedia.com\" text=\"Autism in the Media\">Autism in the Media's</a> (AITM) mission is to shine a light on the portrayal of autism in film and television, advocating for authentic and diverse depictions that reflect the reality of the autistic community.
+    
+    <br><br>
+    
+    <strong>AITM</strong> offers a chronological journey, listing movies and TV shows by decades.
+    "
+
   - image: "images/art-of-autism.jpg"
     title: "The-Art-of-Autism.com"
     content : "
