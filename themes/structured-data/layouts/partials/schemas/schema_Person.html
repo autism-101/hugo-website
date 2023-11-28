@@ -2,19 +2,21 @@
 {{ $author := index .Site.Data.person .Params.author }}
 <script type="application/ld+json">
 {
-"@context": "http://www.schema.org",
-"@type": "Person",
-"@id": "{{ .Permalink }}",
-"name": "{{ $author.name }}",
-"alternateName": "{{ $author.name }}",
-{{ if $author.nationality }}"nationality": "{{ $author.nationality }}",{{ end }}
-"affiliation": [
-	{
-		"@type": "Organization",
-		"name": "{{ .Site.Params.name }}",
-		"sameAs": [{{ partial "schemas/schema_Social.html" $author }}]
-  	}
-],
+	"@context": "http://www.schema.org",
+	"@type": "Person",
+	"@id": "{{ .Permalink }}",
+	"name": "{{ $author.name }}",
+	"alternateName": "{{ $author.name }}",
+	{{ if $author.nationality }}"nationality": "{{ $author.nationality }}",{{ end }}
+	"affiliation": [
+		{
+			"@type": "Organization",
+			"name": "{{ .Site.Params.name }}",
+			"sameAs": [
+				{{ partial "schemas/schema_Social.html" $author }}
+			]
+		}
+	]
 }
 </script>
 {{ end }}
