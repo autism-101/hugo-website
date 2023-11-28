@@ -3,7 +3,7 @@ params:
   name: "Autism-101" # your company name
   contact: "contact@autism-101.com" # Primary email address
   phone: "" # Primary phone
-  copyright: "© 2023 Autism-101. All rights reserved."
+  copyright: "© 2024 Autism-101. All rights reserved."
   desc: "Resources for newly diagnosed or self-identified Autistic people and for those who think they might be." # Add a short description
   logourl: "images/logo.png" # Used in structured data as logo url
   imageurl: "images/bg.jpg" # Used in structured data as background image
