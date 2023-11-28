@@ -4,6 +4,7 @@ languageName = "EN"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
+[en.params]
 ########### footer content ##########
 footer_menu_left = "Autism-101"
 footer_menu_middle = "Resources"

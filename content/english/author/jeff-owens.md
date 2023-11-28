@@ -21,6 +21,9 @@ social:
   - icon : "fab fa-goodreads"
     name: "goodreads"
     link : "https://www.goodreads.com/autism-101"
+  - icon : "fab fa-linkedin"
+    name: "linkedin"
+    link : "https://www.linkedin.com/in/autism101"
 ---
 
 Hi, I'm Jeff Owens, an Autistic person who is trying to make sense of the world and my place in it. I like to help other people when I am able. I love being a part of the Autistic community.  

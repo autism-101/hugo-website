@@ -280,19 +280,6 @@ product_info:
    <a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce. Autism related resources can be found: <a href=\"https://askjan.org/disabilities/Autism-Spectrum.cfm\" text=\"ASKJan ASD Resources\">here</a>.
     "
 
-  - image: "images/embrace-autism.jpg"
-    title: "Embrace-Autism.com"
-    content : "
-    <a href=\"https://embrace-autism.com\" text=\"Embrace-Autism\">Embrace-Autism</a> was founded in 2018 because of the lack of information available on autism in adults. It 
-    is intended as a platform to distribute research and experience-based information on autism.
-
-    <br>
-
-    <h4 class=\"h6 mb-6\">Quality Information</h4>
-
-    \"Quality autism information can help us make sense of our lives, it can help us discover who we are and the amazing potential we have, and it can help us acknowledge the beauty and splendor in ourselves and each other.\"
-    "
-
   - image: "images/thinking-persons-guide.jpg"
     title: "ThinkingAutismGuide.com"
     content : "
