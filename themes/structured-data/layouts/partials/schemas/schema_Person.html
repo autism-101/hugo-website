@@ -12,9 +12,7 @@
 		{
 			"@type": "Organization",
 			"name": "{{ .Site.Params.name }}",
-			"sameAs": [
-				{{ partial "schemas/schema_Social.html" $author }}
-			]
+			"sameAs": [{{ partial "schemas/schema_Social.html" $author }}]
 		}
 	]
 }
