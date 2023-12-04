@@ -308,6 +308,16 @@ product_info:
     <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. \"Nothing About Us, Without Us!\"
     "
 
+  - image: "images/kind-theory.jpg"
+    title: "KindTheory.org"
+    content : "
+    <a href=\"https://kindtheory.org\" text=\"Kind Theory\">Kind Theory's</a> goal is to build a kinder world for neurodivergent people: one where systems, communities, and individuals promote their strengths, support them through their struggles, and welcome their differences.
+    
+    <br><br>
+    
+    <strong>Kind Theory</strong> provides local schools, employers, service providers, law enforcement, and other organizations with meaningful education about neurodiversity, disability justice, and the best practices for understanding and supporting autistic people and those with ADHD. The best part? All of our projects—from speaking engagements to educational videos—are shaped and led by neurodivergent people themselves. 
+    "
+
   - image: "images/aut-collab.jpg"
     title: "AutCollab.org"
     content : "
