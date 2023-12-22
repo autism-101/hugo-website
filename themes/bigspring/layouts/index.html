@@ -50,7 +50,7 @@
         {{ $imageExt := path.Ext . }}
         {{ if or (eq $imageExt `.gif`) (eq $imageExt `.svg`) }}
           {{$img:= resources.Get . }}
-          <img loading="lazy" decoding="async" class="img-fluid mt-6" width="750" height="395" src="{{$img.RelPermalink}}" alt="{{$.Params.autism_header.imagealt}}">
+          <img fetchpriority="high" loading="lazy" decoding="async" class="img-fluid mt-6" width="750" height="395" src="{{$img.RelPermalink}}" alt="{{$.Params.autism_header.imagealt}}">
         {{else}}
           {{$img:= resources.Get . }}
           {{$img:= $img.Resize "750x "}}
