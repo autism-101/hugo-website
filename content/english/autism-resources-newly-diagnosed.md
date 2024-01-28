@@ -181,8 +181,6 @@ about_this_product:
 
     * <a href='https://www.youtube.com/user/AspieWorld1'>The Aspie World</a>
 
-    * <a href='https://www.youtube.com/@MindYourAutisticBrainTalkShow'>Mind Your Autistic Brain Talk Show</a>
-
     * <a href='https://www.youtube.com/channel/UCSrb_gDRHmg5ow9AJasuf0g'>Neurodiverging</a>
     "
       
@@ -268,18 +266,6 @@ product_info:
   content: "Here are some Autism and disability websites that have wonderful content about a range of topics including dealing with sensory issues, finding jobs, school and work accommodations, discussions on disclosure and living autistically."
   background_class: "bg-light"
   features:
-  - image: "images/ask-jan.jpg"
-    title: "AskJan.org"
-    content : "
-    The Job Accommodation Network (<a href=\"https://askjan.org\" text=\"JAN\">JAN</a>) is the leading source of free, expert, and confidential guidance on job accommodations and disability employment issues. Serving customers across the United States and around the world for more than 35 years.
-
-    <br>
-
-    <h4 class=\"h6 mb-6\">Ask JAN!</h4>
-
-   <a href=\"https://askjan.org/contact-us.cfm\" text=\"Ask JAN\">Ask JAN!</a> We can help. JAN consultants and employment specialists are highly qualified and experienced thought leaders and innovators on disability employment issues. By providing trusted guidance on the ADA and practical accommodation solutions that benefit employers and individuals with medical conditions and disabilities, JAN helps everyone recognize the value and talents that qualified workers with disabilities add to the workforce. Autism related resources can be found: <a href=\"https://askjan.org/disabilities/Autism-Spectrum.cfm\" text=\"ASKJan ASD Resources\">here</a>.
-    "
-
   - image: "images/thinking-persons-guide.jpg"
     title: "ThinkingAutismGuide.com"
     content : "
