@@ -336,6 +336,26 @@ product_info:
     <strong>AITM</strong> offers a chronological journey, listing movies and TV shows by decades.
     "
 
+  - image: "images/stimpunks.jpg"
+    title: "Stimpunks.org"
+    content : "
+    <a href=\"https://stimpunks.org\" text=\"Stimpunks\">Stimpunks</a> Stimpunks is created by and for neurodivergent and disabled people. We provide mutual aid, creator grants, learning opportunities, human-centered research, and living wages for our community. We believe in self-determination.
+    
+    <br><br>
+    
+    <strong>Stimpunks</strong> exists for the direct support and mutual aid of neurodivergent and disabled people.
+    "
+
+  - image: "images/coupon-follow.jpg"
+    title: "CouponFollow.com"
+    content : "
+    <a href=\"https://couponfollow.com/research/financial-resources-for-students-with-disabilities\" text=\"Coupon Follow\">Coupon Follow</a> realizes that college can be both an extremely fun and stressful time of life for anyone, and for those who have disabilities it can add a bit of additional financial and mental stress to the equation. This is precisely why we carefully crafted this helpful guide to various financial resources, discounts and savings opportunities, and travel tips for students with disabilities. 
+    
+    <br><br>
+    
+    Check out our financial resources page that includes disability discounts, tips, and information for travel, utilities, books, software, and assistive technologies out there for disabled college students to use.
+    "
+
   - image: "images/art-of-autism.jpg"
     title: "The-Art-of-Autism.com"
     content : "
