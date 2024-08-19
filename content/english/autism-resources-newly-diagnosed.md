@@ -73,25 +73,25 @@ about_this_product:
     content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
     <br><br>
     
-   <a href='https://mobile.twitter.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a> - our Twitter List with over a 1,000 autistic and neurodivergent people. A firehose of autistic goodness!
+   <a href='https://mobile.x.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a> - our Twitter List with over a 1,000 autistic and neurodivergent people. A firehose of autistic goodness!
 
    <br><br>
    Some of the more popuplar Twitter hashtags include:
    <br>
    
-    * <a href='https://twitter.com/search?q=%23AskingAutistics&src=typed_query'>#AskingAutistics</a> - be sure to use this hashtag to ask questions from the Autistic community. And make sure to introduce yourself, we are a welcoming group.
+    * <a href='https://x.com/search?q=%23AskingAutistics&src=typed_query'>#AskingAutistics</a> - be sure to use this hashtag to ask questions from the Autistic community. And make sure to introduce yourself, we are a welcoming group.
 
-    * <a href='https://twitter.com/search?q=%23ActuallyAutistic&src=typed_query'>#ActuallyAutistic</a> 
+    * <a href='https://x.com/search?q=%23ActuallyAutistic&src=typed_query'>#ActuallyAutistic</a> 
 
-    * <a href='https://twitter.com/search?q=%23AllAutistics&src=typed_query'>#AllAutistics</a>
+    * <a href='https://x.com/search?q=%23AllAutistics&src=typed_query'>#AllAutistics</a>
 
-    * <a href='https://twitter.com/search?q=%23OpenlyAutistic&src=typed_query'>#OpenlyAutistic</a>
+    * <a href='https://x.com/search?q=%23OpenlyAutistic&src=typed_query'>#OpenlyAutistic</a>
 
-    * <a href='https://twitter.com/search?q=%23AutisticElders&src=typed_query'>#AutisticElders</a>
+    * <a href='https://x.com/search?q=%23AutisticElders&src=typed_query'>#AutisticElders</a>
 
-    * <a href='https://twitter.com/search?q=%23AutisticWhileBlack&src=typed_query'>#AutisticWhileBlack</a>
+    * <a href='https://x.com/search?q=%23AutisticWhileBlack&src=typed_query'>#AutisticWhileBlack</a>
 
-    * <a href='https://twitter.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
+    * <a href='https://x.com/search?q=%23NothingAboutUsWithoutUs&src=typed_query'>#NothingAboutUsWithoutUs</a>
     "
 
   - title: "Reddit"

@@ -8,7 +8,7 @@ image: "images/avatar/03.jpg"
 social:
   - icon : "fab fa-twitter"
     name: "twitter"
-    link : "https://twitter.com/Autism1o1"
+    link : "https://x.com/Autism1o1"
   - icon : "fab fa-mastodon"
     name: "mastodon"
     link : "https://mstdn.social/@autism101"
