@@ -27,9 +27,9 @@ Some conversations can turn into a firehose of unpredictable information, which 
 <br>
 <caption>Art By <a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fautieselfcare&e=ATPNMgOb74d0oEZEsg8bJHm8-u9l-Rkl0pI_5QDUlmTr3tqAqjmfRoKB5xajq0XLoKy83kbpDb0jdUsILBzh-5U">Autie Selfcare</a></caption>
 
-<h2 class="h4 mb-4">Autism and Comorbidities</h2>
+<h2 class="h4 mb-4">Autism and Co-occuring Conditions</h2>
 
-Autistics have different comorbidities that can affect how we manage conversations. I'll mention one of mine as an example. Like many autistic people I have Alexithymia. It means that I often struggle with knowing how I internally feel. In my opinion, Alexithymia is why so many autistics relate to Spock from Star Trek. For example, when a person approaches me and asks, "How are you?" I panic. I have no idea how to answer this question. That may sound silly to a non-autistic person, but for me it causes great anxiety. Even though I have been told by neurotypical people that nobody really wants to know how you are doing, I still don't know what I'm expected to say or do. And because I don't like lying or being dishonest I can't just blurt out "Fine, thank you." if I'm not really fine. 
+Autistics have different co-occuring conditions that can affect how we manage conversations. I'll mention one of mine as an example. Like many autistic people I have Alexithymia. It means that I often struggle with knowing how I internally feel. In my opinion, Alexithymia is why so many autistics relate to Spock from Star Trek. For example, when a person approaches me and asks, "How are you?" I panic. I have no idea how to answer this question. That may sound silly to a non-autistic person, but for me it causes great anxiety. Even though I have been told by neurotypical people that nobody really wants to know how you are doing, I still don't know what I'm expected to say or do. And because I don't like lying or being dishonest I can't just blurt out "Fine, thank you." if I'm not really fine. 
 
 All of these elements are a big part of what happens during a conversation and are what makes navigating them for an autistic person feel like we are instead playing a game of chess.
 
