@@ -90,6 +90,9 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>This refers to a non-autistic person who makes a conscious decision to support the autistic community, fight for autistic rights, and work against the oppression of autistic people. Anyone has the potential to be an ally. An ally can use their privilege to be powerful voices alongside autistic people.</td>
 </tr>
 <tr>
+<td>Co-Occuring Conditions</td>
+<td>Autistic people often experience other conditions such as: ADHD, anxiety, depression, epilepsy, gastrointestinal and immune function issues, metabolic issues, sleep issues, and others.</td>
+</tr>
 <td>DDF</td>
 <td>Difficulty Describing Feelings</td>
 </tr>
