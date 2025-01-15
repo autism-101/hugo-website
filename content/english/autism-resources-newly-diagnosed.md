@@ -27,7 +27,7 @@ banner:
 about_this_product:
   enable: true
   title: "<span id='socialmedia'>Learn from other Autistic people and find them on social media</span>"
-  content: "Facebook, Mastodon, Twitter, Reddit, Instagram, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
+  content: "Facebook, Mastodon, Twitter (X), Reddit, Instagram, Discord and TikTok are all Autistic hangouts. We tend to use the same hashtags across different platforms, so be sure to check out our list below."
   background_class: ""
 
   features:
@@ -169,6 +169,8 @@ about_this_product:
 
     * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber</a>
 
+    * <a href='https://www.youtube.com/@Kaelynnism'>Kaelynn Partlow</a>
+
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
 
     * <a href='https://www.youtube.com/channel/UCdaQVw-dxYuZb2GXHL7LSjA'>Neurodivergent Rebel</a>
@@ -177,6 +179,10 @@ about_this_product:
 
     * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
     
+    * <a href='https://www.youtube.com/@imautisticnowwhat'>I'm Autistic, Now What?</a>    
+
+    * <a href='https://www.youtube.com/@Ember_Green'>Ember Green</a>    
+
     * <a href='https://www.youtube.com/c/IndieAndy'>Indie Andy</a>    
 
     * <a href='https://www.youtube.com/user/AspieWorld1'>The Aspie World</a>
@@ -306,16 +312,6 @@ product_info:
     <a href=\"https://autisticadvocacy.org\" text=\"ASAN\">Autistic Self Advocacy Network</a> is a nonprofit that \"seeks to advance the principles of the disability rights movement with regard to autism. ASAN believes that the goal of autism advocacy should be a world in which autistic people enjoy equal access, rights, and opportunities. We work to empower autistic people across the world to take control of our own lives and the future of our common community, and seek to organize the autistic community to ensure our voices are heard in the national conversation about us. \"Nothing About Us, Without Us!\"
     "
 
-  - image: "images/kind-theory.jpg"
-    title: "KindTheory.org"
-    content : "
-    <a href=\"https://kindtheory.org\" text=\"Kind Theory\">Kind Theory's</a> goal is to build a kinder world for neurodivergent people: one where systems, communities, and individuals promote their strengths, support them through their struggles, and welcome their differences.
-    
-    <br><br>
-    
-    <strong>Kind Theory</strong> provides local schools, employers, service providers, law enforcement, and other organizations with meaningful education about neurodiversity, disability justice, and the best practices for understanding and supporting autistic people and those with ADHD. The best part? All of our projects—from speaking engagements to educational videos—are shaped and led by neurodivergent people themselves. 
-    "
-
   - image: "images/aut-collab.jpg"
     title: "AutCollab.org"
     content : "
@@ -411,6 +407,16 @@ product_info:
     <a href=\"https://www.spectrumwomen.com\" text=\"Spectrum Women\">Spectrum Women</a> is an online magazine and community dedicated to women who are uniquely different. Our approach is to bring to you inspiring women of all ages who have had a different outlook on life in a positive and unique way. Our online magazine embraces diversity and the differing ideals we all have but with one common goal, to bring together a wealth of knowledge and strength in being the unique women we are.\"
     "
 
+  - image: "images/kind-theory.jpg"
+    title: "KindTheory.org"
+    content : "
+    <a href=\"https://kindtheory.org\" text=\"Kind Theory\">Kind Theory's</a> goal is to build a kinder world for neurodivergent people: one where systems, communities, and individuals promote their strengths, support them through their struggles, and welcome their differences.
+    
+    <br><br>
+    
+    <strong>Kind Theory</strong> provides local schools, employers, service providers, law enforcement, and other organizations with meaningful education about neurodiversity, disability justice, and the best practices for understanding and supporting autistic people and those with ADHD. The best part? All of our projects—from speaking engagements to educational videos—are shaped and led by neurodivergent people themselves. 
+    "
+
   - image: "images/anns-autism-blog.jpg"
     title: "AnnsAutism.Blogspot.com"
     content : "
@@ -433,18 +439,6 @@ product_info:
     <h4 class=\"h6 mb-6\">Welcome!</h4>
 
     \"I’m Luna (MissLunaRose), a writer, wikiHow artist, and autistic person making her way in the world. I’ve slowed down on new posts while I learn to navigate the working world.\"
-    "
-
-  - image: "images/autistics-unmasked.jpg"
-    title: "AutisticsUnmasked.org"
-    content : "
-    <a href=\"https://autisticsunmasked.org\" text=\"Autistics Unmasked\">Autistics Unmasked</a> is a non-profit organization dedicated to providing a safe space for autistic self advocacy.
-
-    <br>
-
-    <h4 class=\"h6 mb-6\">Our History</h4>
-
-   \"We are Autistics Unmasked (AU), an up and coming non-profit organization working to uplift autistic voices while providing education and resources to the people in our lives so they can better understand us.\"
     "
 
   - image: "images/nd-connect.jpg"
