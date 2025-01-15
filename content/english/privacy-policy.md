@@ -4,6 +4,8 @@ subtitle: ""
 # meta description
 description: "Autism-101 Privacy Policy and data usage information."
 draft: false
+date: "2022-04-16"
+lastmod: "2025-01-15"
 ---
 
 This privacy policy ("policy") will help you understand how Autism-101 ("us", "we", "our") uses and protects the data you provide to us when you visit and use [autism-101.com](https://autism-101.com) ("website", "service").

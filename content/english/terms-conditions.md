@@ -4,6 +4,8 @@ subtitle: ""
 # meta description
 description: "Autism-101 Terms of Service and conditions for using the website."
 draft: false
+date: "2022-04-16"
+lastmod: "2025-01-15"
 ---
 
 Please read these terms of service ("terms", "terms of service") carefully before using the Autism-101 website (the "service") operated by Autism-101 ("us", 'we", "our").

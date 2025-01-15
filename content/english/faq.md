@@ -4,6 +4,8 @@ subtitle: "Because we all have them. 😄"
 # meta description
 description: "Autism frequently asked questions (FAQ)."
 draft: true
+date: "2022-04-16"
+lastmod: "2025-01-15"
 layout: "faq"
 
 faq_list:

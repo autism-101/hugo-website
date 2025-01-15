@@ -7,6 +7,8 @@ description: "Why many Autistics prefer identity-first language."
 # twitter card image
 og_image: "images/who-are-you.png"
 draft: true
+date: "2022-04-16"
+lastmod: "2025-01-15"
 ---
 
 ##### Why Language Matters

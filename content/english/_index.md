@@ -1,4 +1,6 @@
 ---
+date: "2022-04-16"
+lastmod: "2025-01-15"
 # twitter card image
 og_image: "images/banner-art.jpg"
 

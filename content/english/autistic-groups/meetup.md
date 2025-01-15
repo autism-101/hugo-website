@@ -1,5 +1,6 @@
 ---
 date: "2022-01-23"
+lastmod: "2025-01-15"
 draft: false
 title: "Meetup"
 # meta description

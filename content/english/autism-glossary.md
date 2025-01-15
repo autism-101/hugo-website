@@ -7,6 +7,8 @@ og_image: "images/typewriter.jpg"
 # meta description
 description: "An Autism Glossary with common terms you may come across."
 draft: false
+date: "2022-04-16"
+lastmod: "2025-01-15"
 ---
 
 NOTE: some terms below may be offensive to autistic people, controversial, or are no longer in use. These are marked with an asterisk.

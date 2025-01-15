@@ -1,5 +1,6 @@
 ---
 date: "2022-01-27"
+lastmod: "2025-01-15"
 draft: true
 title: "AutiComm"
 # meta description

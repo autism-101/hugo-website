@@ -6,6 +6,8 @@ description: "The Autism-101 website was created to help Autistic people connect
 # twitter card image
 og_image: "images/autism-101-group.jpg"
 draft: false
+date: "2022-04-16"
+lastmod: "2025-01-15"
 layout: "about"
 
 

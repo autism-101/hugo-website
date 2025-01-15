@@ -1,6 +1,7 @@
 ---
 title: "Autism and Social Interactions"
 date: 2022-12-25T10:07:21+06:00
+lastmod: "2025-01-15"
 # post image
 image: "images/blog/post-6.jpg"
 # twitter card image

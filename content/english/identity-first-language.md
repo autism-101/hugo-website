@@ -5,6 +5,8 @@ fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description
 description: "Why many Autistics prefer identity-first language."
 draft: true
+date: "2022-04-16"
+lastmod: "2025-01-15"
 ---
 
 ##### Why Language Matters
