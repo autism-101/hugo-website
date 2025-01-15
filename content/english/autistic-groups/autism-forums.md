@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 draft: false
 title: "Autism Forums"
 # meta description
-description: "Autism Forums is a friendly space to discuss and related conditions."
+description: "Connect with others on autism forums where autistic individuals and allies share experiences, seek advice, and discuss diverse topics."
 logo: "images/autistic-groups/07.png"
 # twitter card image
 og_image: "images/autistic-groups/07.png"

@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 draft: false
 title: "Autastic"
 # meta description
-description: "Autastic is for late identified autistic people of color and our allies."
+description: "Autastic is a vibrant community for autistic individuals, providing a platform to connect, share resources, and celebrate neurodiversity."
 logo: "images/autistic-groups/01.png"
 # twitter card image
 og_image: "images/autistic-groups/01.png"

@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how autistic people experience social interactions."
+description: "Discover the unique ways autistic individuals experience social interactions, including common challenges and tips for effective communication."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism social interations", "autistic social interactions", "autism social anxiety", "autism blog"]

@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "How the autistic ability to hyperfocus led to a career change."
+description: "Understand the phenomenon of hyperfocus in autism, its potential benefits, challenges, and ways to harness it effectively in daily life."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism hyperfocus", "hyperfocus autism", "hyperfocus autism vs adhd", "autism blog"]

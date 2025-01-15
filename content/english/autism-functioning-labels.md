@@ -3,7 +3,7 @@ title: "Autism Functioning Labels"
 subtitle: "Why they are not helpful."
 fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # meta description
-description: "Why most autistic people don't like functioning labels."
+description: "Explore the complexities of autism functioning labels, their impact on perceptions, and why many advocate for a shift toward more inclusive terminology."
 contenttypes: ["Article"]
 keywords: ["autism functioning labels", "functioning labels", "autism blog"]
 draft: false

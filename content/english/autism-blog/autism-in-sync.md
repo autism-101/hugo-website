@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how an autistic person connects with other disabled people."
+description: "Discover how autistic individuals can align their unique strengths and challenges to create a harmonious balance in various aspects of life."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism communication", "autism disability communication", "disability community communication", "disability community", "autism blog"]

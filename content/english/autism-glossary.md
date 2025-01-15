@@ -5,7 +5,7 @@ fvicon: "<i class='dropdown-icon fas fa-user-tag'></i>"
 # twitter card image
 og_image: "images/typewriter.jpg"
 # meta description
-description: "An Autism Glossary with common terms you may come across."
+description: "Explore our comprehensive Autism Glossary, featuring common terms and definitions to help you better understand autism-related language and concepts."
 draft: false
 date: "2022-04-16"
 lastmod: "2025-01-15"

@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn how autistic people deal with sensory issues."
+description: "Learn about sensory processing challenges faced by autistic individuals and discover strategies to manage sensory sensitivities effectively."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism sensory issues", "autistic sensory issues", "autism sensory overload", "autism blog"]

@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 draft: true
 title: "AutiComm"
 # meta description
-description: "AutiComm is an autistic community made by us and for us, intended to foster greater connections."
+description: "Auticomm is a supportive community for autistic individuals, offering a safe space to connect, share experiences, and find resources tailored to your needs."
 logo: "images/autistic-groups/02.png"
 # twitter card image
 og_image: "images/autistic-groups/02.png"

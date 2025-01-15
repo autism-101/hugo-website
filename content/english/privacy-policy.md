@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 subtitle: ""
 # meta description
-description: "Autism-101 Privacy Policy and data usage information."
+description: "Read our privacy policy to learn how Autism 101 collects, uses, and protects your data when you visit our website or engage with our content."
 draft: false
 date: "2022-04-16"
 lastmod: "2025-01-15"

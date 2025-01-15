@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 title: "Autism Frequently Asked Questions"
 subtitle: "Because we all have them. 😊"
 # meta description
-description: "Autism Frequently Asked Questions (FAQ)."
+description: "Find answers to frequently asked questions about autism, including symptoms, diagnosis, treatments, and everyday challenges faced by autistic individuals."
 draft: false
 section: "autism-faq"
 layout: "faq"

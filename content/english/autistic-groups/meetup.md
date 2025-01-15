@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 draft: false
 title: "Meetup"
 # meta description
-description: "Meetup.com has some autistic groups that are available. Check to see if one is in your area."
+description: "Find autism-friendly Meetup groups in your area where you can connect, socialize, and engage in activities within a supportive environment."
 logo: "images/autistic-groups/06.png"
 # twitter card image
 og_image: "images/autistic-groups/06.png"

@@ -3,7 +3,7 @@ date: "2021-07-14"
 lastmod: "2025-01-15"
 draft: false
 title: "I Might Be Autistic. How Can I Tell?"
-description: "Think you might be autistic? Learn how to find out."
+description: "Think you might be autistic? Discover self-assessment tools, online screening tests, and guidance on pursuing a professional autism diagnosis."
 icon: "fas fa-portrait"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/question-mark.jpg"

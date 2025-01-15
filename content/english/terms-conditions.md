@@ -2,7 +2,7 @@
 title: "Terms of Service"
 subtitle: ""
 # meta description
-description: "Autism-101 Terms of Service and conditions for using the website."
+description: "Review the terms and conditions for using Autism 101, covering user responsibilities, content usage, and legal agreements for website access."
 draft: false
 date: "2022-04-16"
 lastmod: "2025-01-15"

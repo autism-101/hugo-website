@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn why autistic people love routines, and why it helps them with reducing anxiety."
+description: "Explore the importance of routines for autistic individuals, including how structure can reduce stress and enhance daily functioning."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism routines", "autistic routines", "autism routine adults", "autism blog"]
