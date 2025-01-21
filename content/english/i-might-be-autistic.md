@@ -1,6 +1,6 @@
 ---
 date: "2021-07-14"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 draft: false
 title: "I Might Be Autistic. How Can I Tell?"
 description: "Unsure if you’re autistic? Learn about common signs and steps to take if you suspect you might be on the autism spectrum."

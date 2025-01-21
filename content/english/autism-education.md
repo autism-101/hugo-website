@@ -1,6 +1,6 @@
 ---
 date: "2021-07-14"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 draft: false
 title: "Autism educational resources."
 description: "Explore articles on autism and education, offering insights and strategies for effective learning experiences."

@@ -8,7 +8,7 @@ og_image: "images/typewriter.jpg"
 description: "Explore our comprehensive autism glossary to understand key terms and concepts related to Autism Spectrum Disorder."
 draft: false
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 ---
 
 NOTE: some terms below may be offensive to autistic people, controversial, or are no longer in use. These are marked with an asterisk.

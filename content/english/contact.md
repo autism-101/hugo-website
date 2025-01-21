@@ -5,7 +5,7 @@ subtitle: ""
 description: "Reach out to Autism-101 with your questions or feedback. We’re here to assist and guide you. Contact us via email at or through our online form."
 draft: false
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 layout: "contact"
 ---
 

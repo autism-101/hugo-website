@@ -1,6 +1,6 @@
 ---
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 title: "Autism Blog Posts"
 subtitle: "Living life neurodivergently."
 # meta description

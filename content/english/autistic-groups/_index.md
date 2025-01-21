@@ -1,6 +1,6 @@
 ---
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 title: "Autistic Groups"
 subtitle: "Where to find other Autistic people. <br>* Most groups do not allow the use of functioning labels. <a href='/autism-functioning-labels/'>Learn why?</a>"
 fvicon: "<i class='dropdown-icon fas fa-users'></i>"

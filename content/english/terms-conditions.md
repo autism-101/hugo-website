@@ -5,7 +5,7 @@ subtitle: ""
 description: "Review Autism-101’s Terms of Service outlining the conditions, privacy policies, and user responsibilities when accessing and using our website and services."
 draft: false
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 ---
 
 Please read these terms of service ("terms", "terms of service") carefully before using the Autism-101 website (the "service") operated by Autism-101 ("us", 'we", "our").

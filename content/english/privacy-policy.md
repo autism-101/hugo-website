@@ -5,7 +5,7 @@ subtitle: ""
 description: "Learn how Autism-101 collects, uses, and protects your data when you visit our website, ensuring your information remains confidential and secure."
 draft: false
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 ---
 
 This privacy policy ("policy") will help you understand how Autism-101 ("us", "we", "our") uses and protects the data you provide to us when you visit and use [autism-101.com](https://autism-101.com) ("website", "service").

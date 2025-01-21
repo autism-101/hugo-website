@@ -8,7 +8,7 @@ contenttypes: ["Article"]
 keywords: ["autism functioning labels", "functioning labels", "autism blog"]
 draft: false
 date: "2022-04-16"
-lastmod: "2025-01-15"
+lastmod: "2025-01-21"
 ---
 
 <h2 class="h4 mb-4">What's The Big Deal?</h2>
