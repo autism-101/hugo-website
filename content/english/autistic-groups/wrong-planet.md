@@ -4,7 +4,7 @@ lastmod: "2025-01-15"
 draft: false
 title: "Wrong Planet"
 # meta description
-description: "Discover Wrong Planet, an online community for autistic individuals, ADHD, PDDs, and other neurological differences, offering forums and resources."
+description: "Connect with the Wrong Planet community, a forum for individuals with autism to share experiences and find support."
 logo: "images/autistic-groups/04.png"
 # twitter card image
 og_image: "images/autistic-groups/04.png"

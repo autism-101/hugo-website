@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Learn about sensory processing challenges faced by autistic individuals and discover strategies to manage sensory sensitivities effectively."
+description: "Exploring sensory sensitivities in autism, including hypersensitivity to sounds and light, and strategies like sensory kits to manage these challenges."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism sensory issues", "autistic sensory issues", "autism sensory overload", "autism blog"]

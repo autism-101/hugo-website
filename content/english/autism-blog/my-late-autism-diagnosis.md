@@ -11,7 +11,7 @@ author: "jeff-owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Read a personal story about receiving an autism diagnosis later in life and the profound impact it has on self-understanding and acceptance."
+description: "Discover how a late autism diagnosis in my 50s transformed my life, offering clarity, community, and answers to lifelong questions about my identity."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism diagnosis 50s", "my late autism diagnosis", "adult autism diagnosis", "autism blog", "adult autism"]

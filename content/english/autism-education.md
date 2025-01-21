@@ -3,7 +3,7 @@ date: "2021-07-14"
 lastmod: "2025-01-15"
 draft: false
 title: "Autism educational resources."
-description: "Autism educational resources such as books by autistic authors, and creative content too. Learn directly from other autistic people."
+description: "Explore articles on autism and education, offering insights and strategies for effective learning experiences."
 icon: "fas fa-users"  # fontawesome icon pack : https://fontawesome.com/icons/
 # twitter card image
 og_image: "images/education.jpg"

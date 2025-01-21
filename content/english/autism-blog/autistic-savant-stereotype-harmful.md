@@ -11,7 +11,7 @@ author: "jeff-owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Understand how the autistic savant stereotype misrepresents the autism community and learn about its detrimental effects on autistic individuals."
+description: "Discover insights into autistic savants, their unique abilities, and how they perceive the world differently."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autistic savant stereotype", "autistic savant", "autism stereotypes", "autism blog", "autistic stereotypes", "harmful autism stereotypes"]

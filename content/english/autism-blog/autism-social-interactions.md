@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Discover the unique ways autistic individuals experience social interactions, including common challenges and tips for effective communication."
+description: "Autistic individuals often face anxiety during social interactions due to challenges in interpreting social cues, facial expressions, and body language."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism social interations", "autistic social interactions", "autism social anxiety", "autism blog"]

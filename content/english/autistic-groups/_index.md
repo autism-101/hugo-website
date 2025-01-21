@@ -5,7 +5,7 @@ title: "Autistic Groups"
 subtitle: "Where to find other Autistic people. <br>* Most groups do not allow the use of functioning labels. <a href='/autism-functioning-labels/'>Learn why?</a>"
 fvicon: "<i class='dropdown-icon fas fa-users'></i>"
 # meta description
-description: "Explore a variety of autistic groups and communities offering support, shared experiences, and resources for individuals across the autism spectrum."
+description: "Find and join autistic groups to connect with others, share experiences, and build a supportive community."
 draft: false
 # content section
 section: "autistic-groups"

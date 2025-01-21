@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Discover how autistic individuals can align their unique strengths and challenges to create a harmonious balance in various aspects of life."
+description: "Reflecting on my late autism diagnosis, I recall teaching piano to Steven, an autistic boy, and Olivia, a blind girl, realizing our unique communication bond."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism communication", "autism disability communication", "disability community communication", "disability community", "autism blog"]

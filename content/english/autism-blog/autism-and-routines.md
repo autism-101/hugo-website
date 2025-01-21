@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Explore the importance of routines for autistic individuals, including how structure can reduce stress and enhance daily functioning."
+description: "Exploring the importance of routines for autistic individuals, highlighting how repetitive behaviors like wearing the same clothes or eating the same foods provide stability."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism routines", "autistic routines", "autism routine adults", "autism blog"]

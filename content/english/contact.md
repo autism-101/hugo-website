@@ -2,7 +2,7 @@
 title: "Contact Us"
 subtitle: ""
 # meta description
-description: "Contact Autism 101 with your questions, feedback, or collaboration inquiries. We're here to provide support and resources for the autism community."
+description: "Reach out to Autism-101 with your questions or feedback. We’re here to assist and guide you. Contact us via email at or through our online form."
 draft: false
 date: "2022-04-16"
 lastmod: "2025-01-15"

@@ -11,7 +11,7 @@ author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "Understand the phenomenon of hyperfocus in autism, its potential benefits, challenges, and ways to harness it effectively in daily life."
+description: "Exploring hyperfocus in autism: how intense concentration on interests can lead to rapid skill acquisition, potential social misunderstandings, and media misconceptions."
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism hyperfocus", "hyperfocus autism", "hyperfocus autism vs adhd", "autism blog"]
