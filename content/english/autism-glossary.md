@@ -74,6 +74,13 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <td>Asperger's Syndrome (Aspie)<sup>*</sup></td>
 <td>Hans Asperger is credited with identifying autism in the 1940's. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.<sup id="_ref-3" class="reference"><a href="#_note-3" data-toggle="tooltip" title="Asperger's Syndrome">[3]</a></sup></td>
 </tr>
+
+<tr>
+<td>Associative Thinking</td>
+<td>Associative thinking is a cognitive style where ideas and concepts connect in a non-linear, organic manner, allowing one thought to naturally lead to another. For many autistic individuals, this means their minds create rich, unexpected networks of connections that foster creative problem-solving and unique insights. </td>
+</tr>
+
+
 <tr>
 <td>AT</td>
 <td>Assistive Technology: Electronic as well as non-electronic materials, equipment and devices designed to help people with disabilities play, learn, communicate, move around and carry out activities of daily living at home, at school, and in the community.</td>
@@ -90,6 +97,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>Autistic Ally</td>
 <td>This refers to a non-autistic person who makes a conscious decision to support the autistic community, fight for autistic rights, and work against the oppression of autistic people. Anyone has the potential to be an ally. An ally can use their privilege to be powerful voices alongside autistic people.</td>
+</tr>
+<tr>
+<td>Bottom-up Thinking</td>
+<td>Bottom-up thinking is a cognitive processing style where one gathers information starting with raw sensory details and then gradually builds toward a broader understanding. For many autistic individuals, this means experiencing the world through a careful accumulation of precise data rather than immediately applying preconceived concepts.</td>
 </tr>
 <tr>
 <td>Co-Occuring Conditions</td>
@@ -149,6 +160,14 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>IFL</td>
 <td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.<sup id="_ref-6" class="reference"><a href="#_note-6" data-toggle="tooltip" title="Identity-first Language">[6]</a></sup></td>
+</tr>
+<tr>
+<td>Infodumping</td>
+<td>Infodumping is the act of sharing an overwhelming amount of detailed information about a specific topic—often a special interest—in one go. For many autistic individuals, it’s a natural and passionate form of communication that reflects deep engagement.</td>
+</tr>
+<tr>
+<td>Internalized Ableism</td>
+<td>Internalized ableism describes the process by which autistic individuals absorb negative societal messages about disability, leading them to doubt their own value and feel pressured to mask their authentic behaviors. This often results in lower self-esteem and a reluctance to seek accommodations, reinforcing feelings of inadequacy and isolation.</td>
 </tr>
 <tr>
 <td>Interoception</td>
@@ -277,6 +296,10 @@ NOTE: some terms below may be offensive to autistic people, controversial, or ar
 <tr>
 <td>Stimming</td>
 <td>Autistic people have described stimming as being repetitive or rhythmic behaviours. Common words autistic people use to describe the feeling of stimming are often soothing, calming and comforting. Stimming can reduce anxiety and help autistic people cope with overwhelming situations, environments, and thoughts. Stimming can also be the result of positive emotions such as excitement.</td>
+</tr>
+<tr>
+<td>Synesthesia</td>
+<td>Synesthesia is a neurological phenomenon where the stimulation of one sensory or cognitive pathway automatically and involuntarily triggers experiences in another—such as seeing colors when hearing music or associating specific tastes with words. Some autistic individuals report synesthetic experiences, which can add a unique, enriched layer to how they perceive and interact with the world. </td>
 </tr>
 <tr>
 <td>TEACHH</td>
