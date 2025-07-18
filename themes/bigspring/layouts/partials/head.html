@@ -48,7 +48,7 @@
 {{ partial "schemas/schema_Global.html" . }}
 
 <!-- Accessibility Code for "autism-101.com" --> 
-<script> window.interdeal = { "sitekey": "db274f2f56136f34378e614fe8798020", "Position": "Right", "Menulang": "EN", "domains": { "js": "https://cdn.equalweb.com/", "acc": "https://access.equalweb.com/" }, "btnStyle": { "vPosition": [ "80%", null ], "scale": [ "0.8", "0.8" ], "color": { "main": "#af610e" }, "icon": { "type": 7, "shape": "semicircle", "outline": false } } }; 
+{{/*  <script> window.interdeal = { "sitekey": "db274f2f56136f34378e614fe8798020", "Position": "Right", "Menulang": "EN", "domains": { "js": "https://cdn.equalweb.com/", "acc": "https://access.equalweb.com/" }, "btnStyle": { "vPosition": [ "80%", null ], "scale": [ "0.8", "0.8" ], "color": { "main": "#af610e" }, "icon": { "type": 7, "shape": "semicircle", "outline": false } } }; 
 	(function(doc, head, body){ var coreCall = doc.createElement('script'); 
 	coreCall.src = interdeal.domains.js + 'core/4.5.12/accessibility.js'; 
 	coreCall.defer = true; 
@@ -56,4 +56,59 @@
 	coreCall.crossOrigin = 'anonymous'; 
 	coreCall.setAttribute('data-cfasync', true ); 
 	body? body.appendChild(coreCall) : head.appendChild(coreCall); })(document, document.head, document.body);
+</script>    */}}
+
+<!-- Accessibility Code for "autism-101.com" -->
+<script>
+/*
+Want to customize your button? visit our documentation page:
+https://login.equalweb.com/custom-button
+*/
+window.interdeal = {
+    get sitekey (){ return "db274f2f56136f34378e614fe8798020"} ,
+    get domains(){
+        return {
+            "js": "https://cdn.equalweb.com/",
+            "acc": "https://access.equalweb.com/"
+        }
+    },
+    "Position": "right",
+    "Menulang": "EN",
+    "draggable": true,
+    "btnStyle": {
+        "vPosition": [
+            "80%",
+            null
+        ],
+        "margin": [
+            "0",
+            "0"
+        ],
+        "scale": [
+            "0.8",
+            "0.8"
+        ],
+        "color": {
+            "main": "#af610e",
+            "second": "#ffffff"
+        },
+        "icon": {
+            "outline": false,
+            "outlineColor": "#ffffff",
+            "type":  11 ,
+            "shape": "semicircle"
+        }
+    },
+                              
+};
+
+(function(doc, head, body){
+    var coreCall             = doc.createElement('script');
+    coreCall.src             = interdeal.domains.js + 'core/5.1.13/accessibility.js';
+    coreCall.defer           = true;
+    coreCall.integrity       = 'sha512-70/AbMe6C9H3r5hjsQleJEY4y5l9ykt4WYSgyZj/WjpY/ord/26LWfva163b9W+GwWkfwbP0iLT+h6KRl+LoXA==';
+    coreCall.crossOrigin     = 'anonymous';
+    coreCall.setAttribute('data-cfasync', true );
+    body? body.appendChild(coreCall) : head.appendChild(coreCall);
+})(document, document.head, document.body);
 </script>
