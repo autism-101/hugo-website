@@ -15,7 +15,7 @@ description: "Reflecting on my late autism diagnosis, I recall teaching piano to
 # post draft
 contenttypes: ["BlogPosting"]
 keywords: ["autism communication", "autism disability communication", "disability community communication", "disability community", "autism blog"]
-draft: false
+draft: true
 ---
 
 I got my Autistic diagnosis late last year as an older adult. Many years prior I was a piano teacher with my own piano studio. I had many types of students, from beginners to advanced and I taught both young and old. Two of my younger students had disabilities. One was an Autistic boy I’ll call Steven and the other a blind girl I’ll call Olivia. I had an immediate connection with both students. We just seemed to be in sync. I had never taught anyone with a disability before, but I seemed to intuitively know how best to go about teaching them. Looking back at it now I realize that my own Autistic communication system was somehow in sync with both of theirs. 

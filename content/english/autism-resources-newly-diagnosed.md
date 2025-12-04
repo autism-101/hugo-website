@@ -170,17 +170,17 @@ about_this_product:
 
     * <a href='https://www.youtube.com/user/neurowonderful'>Amythest Schaber</a>
 
+    * <a href='https://www.youtube.com/@imautisticnowwhat'>I'm Autistic, Now What?</a>    
+
+    * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Autism From The Inside</a>    
+
     * <a href='https://www.youtube.com/@Kaelynnism'>Kaelynn Partlow</a>
 
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
 
     * <a href='https://www.youtube.com/channel/UCdaQVw-dxYuZb2GXHL7LSjA'>Neurodivergent Rebel</a>
 
-    * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Autism From The Inside</a>    
-
     * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
-    
-    * <a href='https://www.youtube.com/@imautisticnowwhat'>I'm Autistic, Now What?</a>    
 
     * <a href='https://www.youtube.com/@Ember_Green'>Ember Green</a>    
 
@@ -378,6 +378,14 @@ product_info:
 
     "
 
+  - image: "images/tigger-pritchard.jpg"
+    title: "TiggerPritchard.com"
+    content : "
+    <a href=\"https://www.tiggerpritchard.com\" text=\"Tigger Pritchard\">Tigger Pritchard</a>, Awesomely Neurodivergent and an Autism and Pathological Demand Avoidance, Advocate, Consultant and Trainer. For anyone seeking knowledge, support, Consultancy and training around Neurodivergent individuals, PDA, and more.
+    
+    <br><br>
+    
+    "
   - image: "images/neurodivergent-rebel.jpg"
     title: "NeurodivergentRebel.com"
     content : "
@@ -442,17 +450,6 @@ product_info:
     \"I’m Luna (MissLunaRose), a writer, wikiHow artist, and autistic person making her way in the world. I’ve slowed down on new posts while I learn to navigate the working world.\"
     "
 
-  - image: "images/nd-connect.jpg"
-    title: "NDConnect.app"
-    content : "
-    <a href=\"https://ndconnect.app\" text=\"ND Connect\">ND Connect</a> provides mentorship and peer support for neurodivergent people.
-
-    <br>
-
-    <h4 class=\"h6 mb-6\">Our Team</h4>
-
-   \"As a neurodiverse team, we know that sometimes you just need to talk to someone that gets it because they’ve gone through it. Our app lets you connect with neurodivergent people that share the lived experiences that matter to you.\"
-    "
 
 ######################### Intro Video #####################
 intro_video:
