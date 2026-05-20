@@ -121,11 +121,7 @@ about_this_product:
 
     * <a href='https://www.reddit.com/r/aspiememes/'>Aspie Memes</a>
 
-    * <a href='https://www.reddit.com/r/aspiepositive/'>Aspie Positive</a>
-
     * <a href='https://www.reddit.com/r/AutisticCreatives/'>Autistic Creatives</a>
-
-    * <a href='https://www.reddit.com/r/NDemployed/'>ND Employed</a>
 
     * <a href='https://www.reddit.com/r/Neurodiversity/'>Neurodiversity</a>
 
@@ -135,7 +131,7 @@ about_this_product:
     icon: "fab fa-instagram"
     content: "Instagram has a lot of Autistic content creators that post both images and short videos. <br><br>Some popular ones are:
     
-    * <a href='https://www.instagram.com/purpleellaandcoco/'>purpleellaandcoco</a>
+    * <a href='https://www.instagram.com/purpleellaandpup/'>purpleellaandpup</a>
 
     * <a href='https://www.instagram.com/fidgets.and.fries/'>fidgets.and.fries</a>
 
@@ -153,11 +149,8 @@ about_this_product:
 
     * <a href='https://www.instagram.com/neurodivergentrebel/'>neurodivergentrebel</a>
 
-    * <a href='https://www.instagram.com/neurocurioustherapist/'>neurocurioustherapist</a>
-
     * <a href='https://www.instagram.com/autieselfcare/'>autieselfcare</a>    
 
-    * <a href='https://www.instagram.com/mind_your_autistic_brain'>mind_your_autistic_brain</a>
     "
 
   - title: "Youtube"
@@ -197,13 +190,9 @@ about_this_product:
     
     * <a href='https://www.tiktok.com/@autisticsunmasked'>Autistics Unmasked</a>
 
-    * <a href='https://www.tiktok.com/@purpleellaandcoco'>Purple Ella and Coco</a>
-
-    * <a href='https://www.tiktok.com/@neurodivergentrebel'>Neurodivergent Rebel</a>
+    * <a href='https://www.tiktok.com/@purpleellaandpup'>Purple Ella and Pup</a>
 
     * <a href='https://www.tiktok.com/@autistic.alex'>Autistic Alex</a>
-
-    * <a href='https://www.tiktok.com/@joe.cox90'>Joe Cox</a>
 
     * <a href='https://www.tiktok.com/@soundoftheforest'>Sound Of The Forest</a>
 
@@ -228,8 +217,6 @@ about_this_product:
 
     * <a href='https://podcasts.apple.com/us/podcast/oh-thats-just-my-autism/id1571451093'>Oh, That's Just My Autism with Melissa Tacia</a>
 
-    * <a href='https://open.spotify.com/show/7uBTvQIqIj9WJj7KYOBKT8?si=ktBnnPTGS5W7IRCPk0r85g'>A Team with Robert Smythe and Rafael Mantesso</a>
-
     * <a href='https://podcasts.apple.com/us/podcast/thoughty-auti-the-autism-mental-health-podcast/id1470689079?i=1000448911164'>Thoughty Auti with Thomas Henley</a>
 
     * <a href='https://podcasts.apple.com/us/podcast/neurodiverging/id1503548455?i=1000468898335'>Neurodiverging with Danielle Sullivan</a>
@@ -250,17 +237,9 @@ about_this_product:
     icon: "fab fa-discord"
     content: "Here are some great autistic Discord channels where you can hang out with other autistic people.
     
-    * <a href='https://discord.com/invite/KkKHYHzHzk'>Autistic Adults - Emotional Support</a>
+    * <a href='https://discord.gg/EzSUTBF3Pa'>r/autism Official Discord</a>
 
     * <a href='https://discord.com/invite/8tgdN4Nu46'>Narratives of Neurodiversity Network</a>
-
-    * <a href='https://discord.com/invite/UQGv75EN'>Mama Pistachio</a>
-
-    * <a href='https://discord.com/invite/zT2DsUHV'>Stim City</a>
-
-    * <a href='https://discord.com/invite/wvnm9wbz'>The Autism Page</a>
-
-    * <a href='https://discord.com/invite/8FeNHSd'>ASDirect</a>
 
     * <a href='https://discord.com/invite/r3KhnzrQUM'>DFW Autistic Support Group</a>
 
