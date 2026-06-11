@@ -7,7 +7,7 @@ image: "images/blog/post-7.jpg"
 # twitter card image
 og_image: "images/blog/post-7.jpg"
 # author
-author: "jeff-owens"
+author: "Jeff Owens"
 # post type (regular/featured)
 type: "regular"
 # meta description

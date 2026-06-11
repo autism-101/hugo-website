@@ -1,4 +1,3 @@
-
 ---
 title: "Live Long and Prosper Tribute Award"
 date: 2025-10-18T10:07:21+06:00
