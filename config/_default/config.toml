@@ -5,7 +5,8 @@ theme = ["structured-data", "bigspring"]
 # Default time zone for time stamps; use any valid [tz database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 timeZone = "America/Chicago"
 # post pagination
-paginate = "6" # see https://gohugo.io/extras/pagination/
+[pagination]
+paginate = 6 # see https://gohugo.io/extras/pagination/
 # Required if you want to render robots.txt template
 enableRobotsTXT = true
 # post excerpt
@@ -13,7 +14,7 @@ summaryLength = "10" # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-disqusShortname = "" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
+#disqusShortname = "" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
 disableLanguages = ["de","zh-cn"] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
@@ -22,6 +23,7 @@ hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Kor
 [params]
 env = "production"
 author = "Jeff Owens"
+disqusShortname = ""
 logo = "images/logo.svg"
 header = "Autism Resources"
 twitter = "Autism1o1"

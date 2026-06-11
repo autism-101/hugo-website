@@ -10,9 +10,9 @@ tags = ["SEO"]
 features = []
 min_version = "0.42"
 
-[author]
-  name = "Martijn00"
-  homepage = "http://baseflow.com/"
+# [author]
+#   name = "Martijn00"
+#   homepage = "http://baseflow.com/"
 
 # If porting an existing theme
 [original]

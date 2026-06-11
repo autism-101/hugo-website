@@ -88,10 +88,6 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ############################# social site ########################
-# [[social]]
-# title = "facebook"
-# icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
-# link = "#!"
 
 [[social]]
 title = "twitter"
