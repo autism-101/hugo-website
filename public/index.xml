@@ -1,166 +1,751 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Autism resources for newly diagnosed or self-identified with Autism.</title>
-    <link>http://localhost:1414/</link>
-    <description>Recent content on Autism resources for newly diagnosed or self-identified with Autism.</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1414/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How The Autistic Savant Stereotype Is Harmful</title>
-      <link>http://localhost:1414/autism-blog/autistic-savant-stereotype-harmful/</link>
-      <pubDate>Mon, 26 Dec 2022 10:07:21 +0600</pubDate>
-      <guid>http://localhost:1414/autism-blog/autistic-savant-stereotype-harmful/</guid>
-      <description>&lt;p&gt;I get it, autistic savants are fascinating. In the 1988 film Rain Man, which won the Academy Award for Best Picture, Best Director, Best Actor, and Best Screenplay, Dustin Hoffman plays Raymond Babbitt (Rain Man). He is an autistic savant who has been institutionalized in a mental hospital until his younger brother Charlie, played by Tom Cruise, breaks him out.&lt;/p&gt;&#xA;&lt;h2 class=&#34;h4 mb-4&#34;&gt;Autistic Savant Stereotype&lt;/h2&gt;&#xA;&lt;p&gt;In one famous scene, a waitress accidentally spills a box of toothpicks upon the floor, which she was attempting to hand to Raymond. He instantly counts all of the toothpicks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism and Social Interactions</title>
-      <link>http://localhost:1414/autism-blog/autism-social-interactions/</link>
-      <pubDate>Sun, 25 Dec 2022 10:07:21 +0600</pubDate>
-      <guid>http://localhost:1414/autism-blog/autism-social-interactions/</guid>
-      <description>&lt;p&gt;For many autistic people, social interactions with a neurotypical person can be fraught with anxiety. There are social norms and expectations, such as making and keeping eye contact, that for some of us prove difficult or even impossible. We might have trouble reading facial expressions and body language, or picking up on a person&amp;rsquo;s subtle tonal variation that could imply a completely different meaning to their words.&lt;/p&gt;&#xA;&lt;h2 class=&#34;h4 mb-4&#34;&gt;Autism and Unpredictable Information&lt;/h2&gt;&#xA;&lt;p&gt;Some conversations can turn into a firehose of unpredictable information, which many autistics struggle with. We may quickly become overwhelmed because we can&amp;rsquo;t keep up and process all of the information coming at us so fast.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism and Sensory Issues</title>
-      <link>http://localhost:1414/autism-blog/autism-and-sensory-issues/</link>
-      <pubDate>Sun, 05 Jun 2022 10:07:21 +0600</pubDate>
-      <guid>http://localhost:1414/autism-blog/autism-and-sensory-issues/</guid>
-      <description>&lt;p&gt;My whole life I have struggled with the loudness of music and sounds. While at a movie or concert I often resort to putting both of my hands over my ears. I will look around and wonder why I am the only one in this large group of people that it bothers. How can they not hear how LOUD it is? Sensitivity to sounds also affects our sleep at night. Many of us suffer from insomnia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About the Autism-101 website.</title>
-      <link>http://localhost:1414/about/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Autism Functioning Labels</title>
-      <link>http://localhost:1414/autism-functioning-labels/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/autism-functioning-labels/</guid>
-      <description>&lt;h2 class=&#34;h4 mb-4&#34;&gt;What&#39;s The Big Deal?&lt;/h2&gt;&#xA;&lt;p&gt;A common response autistic people get when disclosing they are autistic, is for the other person to remark on how &amp;ldquo;high-functioning&amp;rdquo; they are. It is implied that this is much better than being &amp;ldquo;low-functioning&amp;rdquo;, and that their autism can&amp;rsquo;t really be that bad. Because hey, isn&amp;rsquo;t everybody on the spectrum somewhere?&lt;/p&gt;&#xA;&lt;p&gt;These &amp;ldquo;functioning labels&amp;rdquo; are harmful to autistic people and have been used in the past to keep us from receiving services we need.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism Glossary</title>
-      <link>http://localhost:1414/autism-glossary/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/autism-glossary/</guid>
-      <description>&lt;p&gt;NOTE: some terms below may be offensive to autistic people, controversial, or are no longer in use. These are marked with an asterisk.&lt;/p&gt;&#xA;&lt;div class=&#34;table-responsive-lg&#34;&gt;&#xA;&lt;table class=&#34;table table-sm table-striped table-bordered&#34;&gt;&#xA;&lt;thead&gt;&#xA;&lt;tr&gt;&#xA;&lt;th scope=&#34;col&#34;&gt;TERM&lt;/th&gt;&#xA;&lt;th scope=&#34;col&#34;&gt;DEFINITION&lt;/th&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/thead&gt;&#xA;&lt;tbody class=&#34;table-group-divider&#34;&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AAC&lt;/td&gt;&#xA;&lt;td&gt;AAC stands for Augmentative and Alternative Communication. It means using different ways to talk or share ideas when speaking with your voice is hard. Autistic people who use AAC communicate using tools or actions instead of talking out loud. AAC can be no-tech, low-tech, or high-tech. Examples: cards with symbols or picture boards, gestures and signs (ASL), speech devices or tablets.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ABA&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;td&gt;ABA is a model of intervention focused on changing the external behaviors of autistic children, with the goal of making an autistic child look and act nonautistic. Ethical concerns have been raised within the autistic community as to how ABA and similar practices serve to “normalize” autistic children, via teaching children to hide their autistic traits. Hiding autistic traits has been linked to worse mental health outcomes and increased suicidality in autistic adults.&lt;sup id=&#34;_ref-1&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-1&#34; data-toggle=&#34;tooltip&#34; title=&#34;Applied Behavior Analysis&#34;&gt;[1]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Ableism&lt;/td&gt;&#xA;&lt;td&gt;Discrimination or prejudice against individuals with disabilities. Ableism characterizes people as defined by their disabilities and inferior to the non-disabled.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ADA&lt;/td&gt;&#xA;&lt;td&gt;Americans with Disabilities Act is a civil rights law passed in the U.S. (1990) that does not allow discrimination against people with disabilities in employment, public service, and public accommodations.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ADD (ADHD)&lt;/td&gt;&#xA;&lt;td&gt;Attention Deficit Disorder is characterized by persistent impulsiveness, hyperactivity, and a very short attention span.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ADOS (ADOS-2)&lt;/td&gt;&#xA;&lt;td&gt;The Autism Diagnostic Observation Schedule (ADOS) is a standardized diagnostic test for diagnosing and assessing autism, now in its second edition as of 2012. It is considered to be a &#34;gold standard&#34; in diagnosing Autism Spectrum Disorder (ASD).&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Alexithymia&lt;/td&gt;&#xA;&lt;td&gt;The inability to identify and describe emotions experienced by oneself.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Allistic&lt;/td&gt;&#xA;&lt;td&gt;Allistic simply means a non autistic person. It is a term autistic people came up with. Autism comes from the Greek word “autos”, meaning “self” while allistic is from the Greek word “allos”, meaning “other”.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Aphantasia&lt;/td&gt;&#xA;&lt;td&gt;Aphantasia is the inability to voluntarily create mental images in one&#39;s mind.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Aphasia&lt;/td&gt;&#xA;&lt;td&gt;Loss of ability to use or understand words.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Apraxia&lt;/td&gt;&#xA;&lt;td&gt;Apraxia is having difficulty with voluntary movement, consisting of partial or total incapacity to execute purposeful movements, without impairment of muscular power, sensibility and coordination. The person has difficulty sequencing movements in the service of a goal. May be specific to speech.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ASC&lt;/td&gt;&#xA;&lt;td&gt;Autistic Spectrum Condition is sometimes used by those outside the medical profession to describe someone with autism. The term ASD is looked upon as being demeaning since it uses the word &#34;disorder&#34; to describe autism. ASC is becoming more widespread and the medical community is re-evaluating the use of disorder in the DSM-5.&lt;sup id=&#34;_ref-2&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-2&#34; data-toggle=&#34;tooltip&#34; title=&#34;ASC&#34;&gt;[2]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ASD&lt;/td&gt;&#xA;&lt;td&gt;The autism spectrum is a range of neurodevelopmental conditions generally characterized by difficulties in social interactions and communication, repetitive behaviors, intense interests, and unusual responses to sensory stimuli. It is commonly referred to as autism or, in the context of a professional diagnosis, autism spectrum disorder (ASD). The term is now used less often because of its use of the negatively charged word &#34;disorder&#34; to describe autism. It is rapidly being replaced by ASC.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Asperger&#39;s Syndrome (Aspie)&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;td&gt;Hans Asperger is credited with identifying autism in the 1940&#39;s. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.&lt;sup id=&#34;_ref-3&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-3&#34; data-toggle=&#34;tooltip&#34; title=&#34;Asperger&#39;s Syndrome&#34;&gt;[3]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Associative Thinking&lt;/td&gt;&#xA;&lt;td&gt;Associative thinking is a cognitive style where ideas and concepts connect in a non-linear, organic manner, allowing one thought to naturally lead to another. For many autistic individuals, this means their minds create rich, unexpected networks of connections that foster creative problem-solving and unique insights. &lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AT&lt;/td&gt;&#xA;&lt;td&gt;Assistive Technology: Electronic as well as non-electronic materials, equipment and devices designed to help people with disabilities play, learn, communicate, move around and carry out activities of daily living at home, at school, and in the community.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;AuDHD&lt;/td&gt;&#xA;&lt;td&gt;A person who has both Autism and ADHD.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Autigender&lt;/td&gt;&#xA;&lt;td&gt;A term for when a person perceives that their experience of gender is influenced by their autism. For example if something about their gender is influenced by a special interest, a sensory experience, or a disconnect from neurotypical definitions of gender.&#xA;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Autistic Ally&lt;/td&gt;&#xA;&lt;td&gt;This refers to a non-autistic person who makes a conscious decision to support the autistic community, fight for autistic rights, and work against the oppression of autistic people. Anyone has the potential to be an ally. An ally can use their privilege to be powerful voices alongside autistic people.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Bottom-up Thinking&lt;/td&gt;&#xA;&lt;td&gt;Bottom-up thinking is a cognitive processing style where one gathers information starting with raw sensory details and then gradually builds toward a broader understanding. For many autistic individuals, this means experiencing the world through a careful accumulation of precise data rather than immediately applying preconceived concepts.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Co-Occuring Conditions&lt;/td&gt;&#xA;&lt;td&gt;Autistic people often experience other conditions such as: ADHD, anxiety, depression, epilepsy, gastrointestinal and immune function issues, metabolic issues, sleep issues, and others.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;td&gt;DDF&lt;/td&gt;&#xA;&lt;td&gt;Difficulty Describing Feelings&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;DIR&lt;/td&gt;&#xA;&lt;td&gt;Developmental, Individual Differences, Relationship-based (DIR): An intervention framework that helps clinicians, parents and educators conduct a comprehensive assessment and develop an intervention program tailored to the unique challenges and strengths.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;DSM&lt;/td&gt;&#xA;&lt;td&gt;The Diagnostic and Statistical Manual is a guide used by healthcare professionals when diagnosing various conditions. For each condition it details the symptoms or traits that must be present for a formal diagnosis to be given. It is reviewed and revised periodically and is currently on version 5. It is primarily used in the USA.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Dyspraxia&lt;/td&gt;&#xA;&lt;td&gt;The brain’s inability to plan muscle movements and carry them out.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Echolalia&lt;/td&gt;&#xA;&lt;td&gt;Repeating back something said to you. Delayed Echolalia is repeating it later. Both behaviors are found in many autistics. &lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;EF&lt;/td&gt;&#xA;&lt;td&gt;Executive function: The ability to plan, organize and follow through, as well as the ability to inhibit actions, delay responses, make appropriate choices and shift attention. Individuals with Autism, learning disabilities and other neurological conditions often have deficits in executive function, which is important to the attainment of goals.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;EBI&lt;/td&gt;&#xA;&lt;td&gt;Early Intensive Behavioral Intervention (EIBI): A fairly generic term for applied behavioral analysis (ABA-based) interventions, the focus is on very young children with Autism, usually younger than five, and often younger than three. The intensity of intervention is significant in number of hours and in the ratio of child to instructor.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;EDS&lt;/td&gt;&#xA;&lt;td&gt;Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.&lt;sup id=&#34;_ref-4&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-4&#34; data-toggle=&#34;tooltip&#34; title=&#34;EDS&#34;&gt;[4]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;EOT&lt;/td&gt;&#xA;&lt;td&gt;Externally Oriented Thinking style&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;HFA&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;td&gt;High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with Autism who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.&lt;sup id=&#34;_ref-5&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-5&#34; data-toggle=&#34;tooltip&#34; title=&#34;High-functioning Autism&#34;&gt;[5]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Hyperlexia&lt;/td&gt;&#xA;&lt;td&gt;A condition in which the main characteristics are an above average ability to read accompanied with a below average ability to understand spoken language.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ICD&lt;/td&gt;&#xA;&lt;td&gt;The International Classification of Diseases is the World Health Organisation’s guide to health conditions. It is used globally. It contains information on diagnosing conditions, as well as how to manage, monitor or treat them where appropriate. The ICD is reviewed and revised periodically and is currently on version 10. Unlike the DSM, this current version still lists Asperger’s Syndrome. However, this will be removed in ICD-11 which is due to be is implemented in January 2022.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;IEE&lt;/td&gt;&#xA;&lt;td&gt;Independent Education Evaluation (IEE): Assessment of a child requested by a parent who believes that the school did not conduct a proper evaluation.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;IFL&lt;/td&gt;&#xA;&lt;td&gt;The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.&lt;sup id=&#34;_ref-6&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-6&#34; data-toggle=&#34;tooltip&#34; title=&#34;Identity-first Language&#34;&gt;[6]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Infodumping&lt;/td&gt;&#xA;&lt;td&gt;Infodumping is the act of sharing an overwhelming amount of detailed information about a specific topic—often a special interest—in one go. For many autistic individuals, it’s a natural and passionate form of communication that reflects deep engagement.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Internalized Ableism&lt;/td&gt;&#xA;&lt;td&gt;Internalized ableism describes the process by which autistic individuals absorb negative societal messages about disability, leading them to doubt their own value and feel pressured to mask their authentic behaviors. This often results in lower self-esteem and a reluctance to seek accommodations, reinforcing feelings of inadequacy and isolation.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Interoception&lt;/td&gt;&#xA;&lt;td&gt;Interoception is a lesser-known sense that helps you understand and feel what’s going on inside your body. People who struggle with the interoceptive sense may have trouble knowing when they feel hungry, full, hot, cold, or thirsty. Having trouble with this sense can also make self-regulation a challenge.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Intersectionality&lt;/td&gt;&#xA;&lt;td&gt;Intersectionality considers how an individual can experience a variety of identities, be it around neurodiversity, race, gender, class, sexuality or otherwise.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Masking&lt;/td&gt;&#xA;&lt;td&gt;Masking involves an autistic person making changes to their behaviour to disguise autistic traits and seem more like their non-autistic peers. Another term used for this is camouflaging. Sometimes masking is a conscious choice in that moment. At other times, autistic people may not realise they are masking. ’Unmasking’ is not as simple as an autistic person deciding to stop masking. They will likely need to spend time relearning who they truly are and want to be. It involves changing instinctive habits and thought patterns that have been developed through masking and so it is a difficult process.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Melatonin&lt;/td&gt;&#xA;&lt;td&gt;Melatonin is naturally produced by the body to regulate the sleep-wake cycle. Its levels begin to rise shortly after nightfall, promoting sleep. A string of studies over the past decade suggest it also improves sleep in some children with autism.&lt;sup id=&#34;_ref-7&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-7&#34; data-toggle=&#34;tooltip&#34; title=&#34;Melatonin&#34;&gt;[7]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Meltdown&lt;/td&gt;&#xA;&lt;td&gt;A meltdown can be the result of an overwhelming situation. It can be the result of intense emotions and/or stimuli that are overwhelming or difficult to cope with. A meltdown becomes the involuntary response to these emotions or stimuli. It is more visible to others than a shutdown as it involves an outward reaction. This could be a verbal and/or physical reaction such as crying, screaming, repetitive movements, throwing items or hitting out.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Misokinesia&lt;/td&gt;&#xA;&lt;td&gt;Misokinesia is defined as a strong negative affective or emotional response to the sight of someone else’s small and repetitive movements, such as seeing someone mindlessly fidgeting with a hand or foot.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Misophonia&lt;/td&gt;&#xA;&lt;td&gt;Misophonia is characterized by the experience of strong negative emotions of anger and anxiety in response to certain everyday sounds, such as those generated by other people eating, drinking, and breathing.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Monotropism&lt;/td&gt;&#xA;&lt;td&gt;Monotropism is an attention tunnel theory hypothesized to be the central cognitive strategy underlining autism. The key compenent is that the monotropic mind focuses its attention on a small number of interests at any time, tending to miss things outside of this attention tunnel.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Neurodiverse&lt;/td&gt;&#xA;&lt;td&gt;This term is used to describe people that experience life differently from the majority due to neurological differences – like autistic people. It acknowledges that there can be vast differences in the way people think, behave and process information. By focussing on ‘difference’ rather than ‘deficits’, it acknowledges that difference can be positive and it removes the stigma associated with being different from the majority. Another term used is ‘neuro-atypical’.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Neurodiversity&lt;/td&gt;&#xA;&lt;td&gt;The variation and differences in neurological structure and function that exist among human beings. As a term, it refers to the idea that differences in brain development and behavior are normal and not the result of mental disorders.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Neurotypical (NT)&lt;/td&gt;&#xA;&lt;td&gt;A term commonly used by supporters of Neurodiversity to describe a person who “shows typical neurological behavior and development.” It refers to a person that general society would consider to have an “average” or “normal” (typical) brain (NT).&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;OCD&lt;/td&gt;&#xA;&lt;td&gt;Obsessive Compulsive Disorder. An anxiety disorder, that is characterized by recurrent, time-consuming obsessive or compulsive behaviors that cause distress. The obsessions may be repetitive intrusive images, thoughts, or impulses.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;ODD&lt;/td&gt;&#xA;&lt;td&gt;Oppositional Defiant Disorder is characterized by aggressiveness and a tendency to purposefully bother and irritate others as a recurrent pattern of negativistic behavior.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;OT&lt;/td&gt;&#xA;&lt;td&gt;Occupational Therapy or Occupational Therapist. A therapist that focuses on daily living skills, sensory integration, self-help skills, playing, adaptive behavior and fine motor skills. An Occupational therapists would provide Sensory Integration Therapy.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PDA*&lt;/td&gt;&#xA;&lt;td&gt;Pathological Demand Avoidance (PDA) is a set of personality and behavioral traits exhibited by autistic people who tend to refuse to cooperate with others’ requests. It is a contentious term especially in the medical community.&lt;sup id=&#34;_ref-8&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-8&#34; data-toggle=&#34;tooltip&#34; title=&#34;PDA&#34;&gt;[8]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PECS&lt;/td&gt;&#xA;&lt;td&gt;Picture Exchange Communication System (PECS): PECS is an alternative communication system that uses picture symbols. It is taught in six phases starting with a simple exchange of a picture symbol for a desired item. Individuals learn to use picture symbols to construct complete sentences, initiate communication, and answer direct questions.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Perseverate&lt;/td&gt;&#xA;&lt;td&gt;Perseverate means “to repeat something insistently or redundantly.” Just like stimming, perseveration is not exclusive to people diagnosed with Autism, but it is a commonly observed behavior among that particular group. An example of perseveration would be repeatedly salting a piece of food until no salt is left in the container.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;PFL&lt;/td&gt;&#xA;&lt;td&gt;People-first language (PFL), also called person-first language, is a type of linguistic prescription which puts a person before a diagnosis, describing what condition a person &#34;has&#34; rather than asserting what a person &#34;is&#34;.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Proprioception&lt;/td&gt;&#xA;&lt;td&gt;Proprioception refers to a person’s awareness of where their body is positioned in their environment, and where their limits are in terms of their body and how much force is being applied to it. They can also struggle with how to regulate this. If people are hypo- or hypersensitive to this sense it will impact their coordination and how they interact with the world around them. Difficulties with fine motor skills are related to proprioception and this can impact a person’s ability to carry out day-to-day tasks such as writing or using cutlery. Poor gross motor skills impact on coordination of the body in larger movements such as dancing or running. A person may also have difficulty with placing objects or avoiding objects when moving.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Prosody&lt;/td&gt;&#xA;&lt;td&gt;When people talk, they do much more than merely speak words to convey their meaning. They will also vary their rhythm, loudness, tempo and pitch. These changes are known as prosody. Some autistic people find prosody difficult to hear, understand, or reproduce.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Prosopagnosia&lt;/td&gt;&#xA;&lt;td&gt;Prosopagnosia, also known as face blindness, is a condition where someone can&#39;t recognise people&#39;s faces. Face blindness often affects people from birth and is usually a problem a person has for most or all of their life. It can have a severe impact on everyday life. Many people with prosopagnosia are not able to recognise family members, partners or friends. They may cope by using alternative strategies to recognise people, such as remembering the way they walk or their hairstyle, voice or clothing.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;SBC&lt;sup&gt;*&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;td&gt;Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his &#34;extreme male brain&#34; theory of autism.&lt;sup id=&#34;_ref-9&#34; class=&#34;reference&#34;&gt;&lt;a href=&#34;#_note-9&#34; data-toggle=&#34;tooltip&#34; title=&#34;SBC&#34;&gt;[9]&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;SDAM&lt;/td&gt;&#xA;&lt;td&gt;Severely Deficient Autobiographical Memory (SDAM) refers to a lifelong inability to vividly recollect or re-experience personal past events from a first-person perspective.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Selective Mutism&lt;/td&gt;&#xA;&lt;td&gt;Selective mutism occurs where in certain situations a person becomes unable to speak. They may be able to speak verbally in some environments or to certain trusted people. However in others, anxiety or overwhelm can prevent the person from being able to speak. ‘Selective’ implies a choice but this is not the case. ‘Situational mutism’ has been suggested as a potential more appropriate term.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Sensory Overload&lt;/td&gt;&#xA;&lt;td&gt;Sensory overload occurs when sensory stimuli in a person’s environment become too overwhelming. This refers to the seven senses of touch, taste, sound, sight, smell, vestibular and proprioception. It can be a very overwhelming and anxiety-inducing experience. The autistic person will likely feel a need to get away from the environment or situation that has led to overload but may need support to do this.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Shutdown&lt;/td&gt;&#xA;&lt;td&gt;Like a meltdown, a shutdown is another type of response to overwhelming emotions and/or stimuli. During a shutdown, the autistic person withdraws (either partially or completely) from the environment. They may physically remove themselves to a space they consider safe, or they may freeze in the current place and though they want to leave they are not able to. They may stop responding to communication from others.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;SI&lt;/td&gt;&#xA;&lt;td&gt;Sensory Integration (SI): This is a term applied to the way the brain processes sensory stimulation or sensation from the body and then translates that information into specific, planned and coordinated motor activity.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Special Interest&lt;/td&gt;&#xA;&lt;td&gt;What differentiates this from a generic interest is the intensity of that interest. The topic of interest can be any subject at all, just as neurotypical people have a wide range of different interests. Some autistic people’s interests may draw more attention if they are not in line with neurotypical interests. Some autistic people keep the same interest throughout their life or for very long periods, whereas for others they may change more regularly.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Spectrum&lt;/td&gt;&#xA;&lt;td&gt;What the medical community refers to as Autism Spectrum Disorder. Many people picture the spectrum as a straight line, often with people that are perceived as needing more support on one end, and people perceived as needing less support on the other. This is not what was meant by the Autism Spectrum. The term spectrum was introduced to acknowledge that autistic people have difficulties or different experiences in common areas, but they are affected in different ways and to varying extents. Each autistic person’s experience is unique.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;SPED&lt;/td&gt;&#xA;&lt;td&gt;Special Education (SPED): Specialized and personalized instruction of a disabled child, designed in response to educational disabilities determined by an evaluation.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Spoons&lt;/td&gt;&#xA;&lt;td&gt;Spoon theory is a metaphor describing the amount of physical and/or mental energy that a person has available for daily activities and tasks, and how it can become limited. It was coined by writer and blogger Christine Miserandino in 2003 as a way to express how it felt to have lupus; using spoons at a restaurant to represent units of energy that a person might have to a friend, she reduced the spoons to represent how chronic illness forced her to plan out days and actions in advance so as to try to not run out of energy. It has since been used to describe a wide range of disabilities, mental health issues, forms of marginalization, and other factors that might place an extra and often unseen burden on people living with them.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Stimming&lt;/td&gt;&#xA;&lt;td&gt;Autistic people have described stimming as being repetitive or rhythmic behaviours. Common words autistic people use to describe the feeling of stimming are often soothing, calming and comforting. Stimming can reduce anxiety and help autistic people cope with overwhelming situations, environments, and thoughts. Stimming can also be the result of positive emotions such as excitement.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Synesthesia&lt;/td&gt;&#xA;&lt;td&gt;Synesthesia is a neurological phenomenon where the stimulation of one sensory or cognitive pathway automatically and involuntarily triggers experiences in another—such as seeing colors when hearing music or associating specific tastes with words. Some autistic individuals report synesthetic experiences, which can add a unique, enriched layer to how they perceive and interact with the world. &lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;TEACHH&lt;/td&gt;&#xA;&lt;td&gt;Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) Model: A program of services, rather than a teaching method, in which respect for individual differences, respect and inclusion of parents and various professionals and input from individuals with Autism are considered in treatment and education. Developed at the University of North Carolina, Chapel Hill and takes a lifespan approach.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Theory Of Mind&lt;/td&gt;&#xA;&lt;td&gt;The ability to understand that others have beliefs, desires and intentions that are different from one’s own.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;tr&gt;&#xA;&lt;td&gt;Vestibular Sense&lt;/td&gt;&#xA;&lt;td&gt;This relates to sense of balance. Those experiencing hypersensitivity (awareness and experiences are heightened) may struggle to tolerate quick movements and could feel disorientated if, for example, jumping and leaving the ground. A person may appear ‘clumsy’, for example I lose my balance easily and this can lead to falls or accidents. Those with hyposensitivity (awareness and experiences are reduced), on the other hand, may gain pleasure from the feeling of movement and may not experience dizziness or nausea from activities such as spinning or swinging.&lt;/td&gt;&#xA;&lt;/tr&gt;&#xA;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;h5 id=&#34;zapme&#34;&gt;References&lt;/h5&gt;&#xA;&lt;ol class=&#34;references&#34;&gt;&#xA;&lt;li id=&#34;_note-1&#34;&gt;&lt;a href=&#34;#_ref-1&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Applied_behavior_analysis#Views_of_Autistic_community&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Applied behavior analysis&#34;&lt;/a&gt;. &lt;cite&gt;Wikipedia,&lt;/cite&gt; Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-2&#34;&gt;&lt;a href=&#34;#_ref-2&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Baron-Cohen, Simon (2015-05-14).&lt;/span&gt; &lt;a href=&#34;https://insar.confex.com/imfar/2015/webprogram/Paper19861.html&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;ASD vs. ASC: Is One Small Letter Important?&#34;&lt;/a&gt;. &lt;cite&gt;Insar&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-3&#34;&gt;&lt;a href=&#34;#_ref-3&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Reese, Hope (2018-05-22).&lt;/span&gt; &lt;a href=&#34;https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;The disturbing history of Dr. Asperger and the movement to reframe the syndrome&#34;&lt;/a&gt;. &lt;cite&gt;Vox&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-4&#34;&gt;&lt;a href=&#34;#_ref-4&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Ehlers–Danlos_syndromes&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Ehlers–Danlos syndromes&#34;&lt;/a&gt;. &lt;cite&gt;Wikipedia,&lt;/cite&gt; Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-5&#34;&gt;&lt;a href=&#34;#_ref-5&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Autism-101 (2022-11-1).&lt;/span&gt; &lt;a href=&#34;http://localhost:1414/autism-functioning-labels/&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Autism Functioning Labels: Why They Are Not Helpful&#34;&lt;/a&gt;. &lt;cite&gt;Autism-101&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-6&#34;&gt;&lt;a href=&#34;#_ref-6&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Malone, Emerson (2021-07-06).&lt;/span&gt; &lt;a href=&#34;https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;How Autistic People Are Showing The Limitations Of Person-First Language&#34;&lt;/a&gt;. &lt;cite&gt;BuzzFeed News&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-7&#34;&gt;&lt;a href=&#34;#_ref-7&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Gholipour, Bahar (2017-11-10).&lt;/span&gt; &lt;a href=&#34;https://www.spectrumnews.org/news/melatonin-gains-momentum-sleep-aid-people-autism/&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Melatonin gains momentum as sleep aid for people with autism&#34;&lt;/a&gt;. &lt;cite&gt;Spectrum News&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-8&#34;&gt;&lt;a href=&#34;#_ref-8&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;span&gt;Hess, Peter (2022-10-11).&lt;/span&gt; &lt;a href=&#34;https://www.spectrumnews.org/news/pathological-demand-avoidance-in-autism-explained/&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Pathological demand avoidance in autism, explained&#34;&lt;/a&gt;. &lt;cite&gt;Spectrum News&lt;/cite&gt; Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;li id=&#34;_note-9&#34;&gt;&lt;a href=&#34;#_ref-9&#34; class=&#34;uparrow&#34;&gt;^&lt;/a&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception&#34; rel=&#34;nofollow&#34; class=&#34;external&#34;&gt;&#34;Simon Baron-Cohen&#34;&lt;/a&gt;. &lt;cite&gt;Wikipedia,&lt;/cite&gt; Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Contact Us</title>
-      <link>http://localhost:1414/contact/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/contact/</guid>
-      <description>&lt;h2 class=&#34;h4 mb-4&#34;&gt;How can I help you? Let me know!&lt;/h2&gt;&#xA;I will try my best to answer or point you in the right direction.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mail: contact AT autism-101.com&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Jeff Owens</title>
-      <link>http://localhost:1414/author/jeff-owens/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/author/jeff-owens/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Jeff Owens, an Autistic person who is trying to make sense of the world and my place in it. I like to help other people when I am able. I love being a part of the Autistic community.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1414/privacy-policy/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/privacy-policy/</guid>
-      <description>&lt;p&gt;This privacy policy (&amp;ldquo;policy&amp;rdquo;) will help you understand how Autism-101 (&amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;our&amp;rdquo;) uses and protects the data you provide to us when you visit and use &lt;a href=&#34;https://autism-101.com&#34;&gt;autism-101.com&lt;/a&gt; (&amp;ldquo;website&amp;rdquo;, &amp;ldquo;service&amp;rdquo;).&lt;/p&gt;&#xA;&lt;p&gt;We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sounds Autistic</title>
-      <link>http://localhost:1414/autistic-groups/sounds-autistic/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/autistic-groups/sounds-autistic/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Sounds Autistic:&lt;/h2&gt;&#xA;The &lt;a href=&#34;https://www.facebook.com/groups/2223274367896109/&#34; rel=&#34;noopener&#34;&gt;Sounds Autistic I&amp;#39;m In&lt;/a&gt; is a private Facebook group for autistic adults that are 18+ only. They welcome all who believe they are or may be autistic, a medical diagnosis is not required.&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Sounds Autistic Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.facebook.com/groups/2223274367896109/&#34; rel=&#34;noopener&#34;&gt;Sounds Autistic I&amp;#39;m In&lt;/a&gt; has over 10 thousand members. Users can post to the group and expect to get great feedback and information. Some of the posting rules include: &#xA;&lt;ul&gt;&#xA;&lt;li&gt;No promoting the medical model - No person first language, no functioning labels, no pathologising of traits, no support of neurotypical charities, no defending the Asperger&amp;rsquo;s label, no promoting ABA.&lt;/li&gt;&#xA;&lt;li&gt;No punching down, minority voices come first - If you are in a position of power or privilege, do not try and speak over those with less, just as neurotypicals should not speak over autistics, majority autistic do not get a louder voice.&lt;/li&gt;&#xA;&lt;li&gt;Respect the privacy of the group - No screenshots can be shared outside of the group, no member can be exposed as a member, nothing from inside the group should be shared or discussed outside of the group.&lt;/li&gt;&#xA;&lt;li&gt;Accessibility is a must - If you are asked to add image descriptions, or to remove inaccessible backgrounds, you are required to do so. Modmins will write descriptions for you to add where possible.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/groups/2223274367896109/&#34; rel=&#34;external&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img title=&#34;Sounds Autistic, I&amp;#39;m in is a Facebook group for autistic adults 18&amp;#43; only.&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34; &#34; width=&#34;1197&#34; height=&#34;565&#34; src=&#34;http://localhost:1414/images/autistic-groups/group-3_hu_cc34dcb29e911ab4.webp&#34; alt=&#34;Sounds Autistic I&amp;#39;m in Facebook Group&#34; onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/autistic-groups\/group-3_hu_15f0b91c1e3abb81.jpg&#39;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1414/terms-conditions/</link>
-      <pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/terms-conditions/</guid>
-      <description>&lt;p&gt;Please read these terms of service (&amp;ldquo;terms&amp;rdquo;, &amp;ldquo;terms of service&amp;rdquo;) carefully before using the Autism-101 website (the &amp;ldquo;service&amp;rdquo;) operated by Autism-101 (&amp;ldquo;us&amp;rdquo;, &amp;lsquo;we&amp;quot;, &amp;ldquo;our&amp;rdquo;).&lt;/p&gt;&#xA;&lt;h2 class=&#34;h4 mb-4&#34;&gt;Conditions of Use&lt;/h2&gt;&#xA;&lt;p&gt;We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully. Links offsite are not to be construed as endorsement or acceptance of the ideas and opinions expressed therein.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism and Routines</title>
-      <link>http://localhost:1414/autism-blog/autism-and-routines/</link>
-      <pubDate>Sat, 16 Apr 2022 10:07:21 +0600</pubDate>
-      <guid>http://localhost:1414/autism-blog/autism-and-routines/</guid>
-      <description>&lt;p&gt;There are many routines that I find myself doing. From wearing the same grey shirt every day to eating the same food. I will listen to the same song on repeat for days at a time.&lt;/p&gt;&#xA;&lt;h2 class=&#34;h4 mb-4&#34;&gt;Diagnostic Criteria&lt;/h2&gt;&#xA;One of the primary diagnostic criteria for autism spectrum disorder (ASD) as described in the DSM-5  is that the individual shows restricted, repetitive patterns of behavior, interests, or activities. &#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We prefer to have our daily routines so that we know what is going to happen each day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism and Hyperfocus</title>
-      <link>http://localhost:1414/autism-blog/autism-and-hyperfocus/</link>
-      <pubDate>Sat, 02 Apr 2022 10:07:21 +0600</pubDate>
-      <guid>http://localhost:1414/autism-blog/autism-and-hyperfocus/</guid>
-      <description>&lt;p&gt;One Autistic trait that I have is the ability to hyperfocus on something that I am really interested in. While many Autistic and ADHD people share this ability not all of us do. I’m reminded of a saying we like to use, “If you’ve met one Autistic person, you’ve met one Autistic person”. This means that we are all different, and though we might have some shared characteristics, many could be different.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autastic</title>
-      <link>http://localhost:1414/autistic-groups/autastic/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/autastic/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Autastic:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual&#34; rel=&#34;noopener&#34;&gt;Autastic&lt;/a&gt; exists as a home for the uncounted legion of adults worldwide who learned, well into adulthood, that they are (or might be) autistic. Created #ByUsForUs, everything here is to educate, inspire, and support those of us who live outside the norm. We are autastic.&#xA;&lt;br&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual&#34; rel=&#34;external&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img title=&#34;Autastic is a website for late diagnosed autistic people&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34; &#34; width=&#34;1195&#34; height=&#34;599&#34; src=&#34;http://localhost:1414/images/autistic-groups/group-1_hu_c9b91963ef506304.webp&#34; alt=&#34;Autastic is a website for late diagnosed autistic people&#34; onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/autistic-groups\/group-1_hu_f60f20265fa6625a.jpg&#39;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Autastic Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual&#34; rel=&#34;noopener&#34;&gt;Autastic&lt;/a&gt; is a gender, orientation, identity, body, and ability-accepting space. It is part of the &lt;a href=&#34;https://www.mightynetworks.com&#34; rel=&#34;noopener&#34;&gt;Mighty Networks&lt;/a&gt; online community system which has built-in features such as direct messages, and community discussion threads based on categories and circles. &#xA;&lt;p&gt;There is a free mobile application that works on both phones and tablets. Users must be pre-approved to gain access to the site. You just have to be either self-identified or clinically diagnosed as autistic to gain entry. Most of the site is free, however their are seminar type courses available for purchase as well as an online store.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Wrong Planet</title>
-      <link>http://localhost:1414/autistic-groups/wrong-planet/</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/wrong-planet/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Wrong Planet:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://wrongplanet.net/&#34; rel=&#34;noopener&#34;&gt;Wrong Planet&lt;/a&gt; is a web community designed for autistic individuals as well as parents and professionals of those with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences. You will find many differing opinions on almost every topic, and finding like-minded people on the site can be quite challenging. I&#39;ve had some autistic people tell me to include this warning, as they have had some bad experiences on the site. The site also provides a discussion forum where members communicate with each other, and a section with exclusive articles, how-to guides, and blogging features.&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Wrong Planet Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://wrongplanet.net/&#34; rel=&#34;noopener&#34;&gt;Wrong Planet&lt;/a&gt; has lots of content divided into various sections. The most active content if found underneath the Forums section where users can find discussion threads on many categories such as general autism discussion, getting to know each other, autism politics and activism, news and current events, and many more. &#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Wrong Planet Site Sections&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/forums/&#34; rel=&#34;noopener&#34;&gt;Forums&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/videos/&#34; rel=&#34;noopener&#34;&gt;Videos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/friends-relationships/&#34; rel=&#34;noopener&#34;&gt;Friends &amp;amp; Relationships&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/community-newsmakers/&#34; rel=&#34;noopener&#34;&gt;Community Newsmakers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/school-jobs/&#34; rel=&#34;noopener&#34;&gt;School &amp;amp; Jobs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/parenting/&#34; rel=&#34;noopener&#34;&gt;Parenting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/autism-news/&#34; rel=&#34;noopener&#34;&gt;Autism News&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wrongplanet.net/category/therapies/&#34; rel=&#34;noopener&#34;&gt;Therapies &amp;amp; Services&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wrongplanet.net/&#34; rel=&#34;external&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img title=&#34;Wrong Planet is a web community designed for autistic individuals (and parents / professionals of those) with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences.&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34; &#34; width=&#34;1197&#34; height=&#34;565&#34; src=&#34;http://localhost:1414/images/autistic-groups/group-4_hu_61a1c0b8a5c7539.webp&#34; alt=&#34;Wrong Planet&#34; onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/autistic-groups\/group-4_hu_b51433db63a3b269.jpg&#39;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autistic Adults</title>
-      <link>http://localhost:1414/autistic-groups/autistic-adults/</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/autistic-adults/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Autistic Adults:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.facebook.com/groups/2036299673287000/&#34; rel=&#34;noopener&#34;&gt;Autistic Adults&lt;/a&gt; is a Facebook group that is for autistic adults that would like help and support to deal with anxiety, depression, and other emotional support. It is a friendly group aimed at helping each other, sharing tips and tricks, or just venting about feelings. They are inclusive of all people.&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Autistic Adults Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.facebook.com/groups/2036299673287000/&#34; rel=&#34;noopener&#34;&gt;Autistic Adults&lt;/a&gt; has over 8 thousand members. Every person is welcome here no matter their religion, political views, colour of their skin, gender, or lifestyle choice. They accept all ASD adults. They accept self-diagnosis and professional diagnosis. Denial of the validity of a person&#39;s form of diagnosis will result in a ban. &#xA;&lt;p&gt;Some of the posting rules include:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meetup</title>
-      <link>http://localhost:1414/autistic-groups/meetup/</link>
-      <pubDate>Sun, 23 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/meetup/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Meetup:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.meetup.com/&#34; rel=&#34;noopener&#34;&gt;Meetup&lt;/a&gt; does have some autistic support groups and it is worth doing a search for groups in your area to see if there is one near you. &#xA;&lt;p&gt;One example meetup group is the &lt;a href=&#34;https://www.meetup.com/dfwasg/&#34; rel=&#34;noopener&#34;&gt;DFW Autistic Support Group&lt;/a&gt; which is an informal group that offers advocacy, support, and social opportunities for autistic adults and adolescents in the Dallas and Fort Worth area in Texas.&lt;/p&gt;&#xA;&lt;p&gt;Though &lt;a href=&#34;https://www.meetup.com/dfwasg/&#34; rel=&#34;noopener&#34;&gt;DFW Autistic Support Group&lt;/a&gt; meetings are more focused on autism, neurodivergent and allistic allies are always welcome to attend.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism Forums</title>
-      <link>http://localhost:1414/autistic-groups/autism-forums/</link>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/autism-forums/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About Autism Forums:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.autismforums.com/&#34; rel=&#34;noopener&#34;&gt;Autism Forums&lt;/a&gt; is a friendly forum to discuss Aspergers Syndrome, Autism, High Functioning Autism and related conditions.&#xA;&lt;p&gt;&lt;a href=&#34;https://www.autismforums.com/&#34; rel=&#34;external&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img title=&#34;Autism Forums&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34; &#34; width=&#34;1200&#34; height=&#34;606&#34; src=&#34;http://localhost:1414/images/autistic-groups/group-7_hu_f2a64be74078ea18.webp&#34; alt=&#34;Autism Forums&#34; onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/autistic-groups\/group-7_hu_ce910cd946466bf2.jpg&#39;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;Autism Forums Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://www.autismforums.com/&#34; rel=&#34;noopener&#34;&gt;Autism Forums&lt;/a&gt; has discussion sections on &lt;a href=&#34;https://www.autismforums.com/#autism-spectrum-discussions.1&#34; rel=&#34;noopener&#34;&gt;Autism Spectrum&lt;/a&gt; topics such as Education &amp; Employment, Obsessions and Interests, and Friends, Family &amp; Social Skills. The site includes member chat with both direct messaging and chat threads included.&#xA;&lt;p&gt;An Autism Resources section includes books, blogs, commercial resources, education resources, online communities, non-profit charities, and healthcare services.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ACEing Autism</title>
-      <link>http://localhost:1414/autistic-groups/aceing-autism/</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 -0600</pubDate>
-      <guid>http://localhost:1414/autistic-groups/aceing-autism/</guid>
-      <description>&lt;h2 class=&#34;h3 mb-3&#34;&gt;About ACEing Autism:&lt;/h2&gt;&#xA;&lt;a href=&#34;https://aceingautism.org/&#34; rel=&#34;noopener&#34;&gt;ACEing Autism&lt;/a&gt; is on a mission for children with autism to grow, develop and benefit from social connections and fitness through affordable tennis programming.&#xA;&lt;p&gt;&lt;a href=&#34;https://aceingautism.org/&#34; rel=&#34;external&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img title=&#34;ACEing Autism&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; class=&#34; &#34; width=&#34;1200&#34; height=&#34;606&#34; src=&#34;http://localhost:1414/images/autistic-groups/group-8_hu_7c61c417676191df.webp&#34; alt=&#34;ACEing Autism&#34; onerror=&#34;this.onerror=&#39;null&#39;;this.src=&#39;\/images\/autistic-groups\/group-8_hu_2df143dbb12c8af3.jpg&#39;&#34;&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 class=&#34;h3 mb-3&#34;&gt;ACEing Autism Overview&lt;/h2&gt;&#xA;&lt;a href=&#34;https://aceingautism.org/&#34; rel=&#34;noopener&#34;&gt;ACEing Autism&lt;/a&gt; has been featured on the Tennis Channel, and in April 2014 Head Penn became an official equipment supplier, providing all tennis equipment for our children to use during their sessions.&#xA;&lt;p&gt;We currently service more than 500 children with autism across 80 locations nationwide. We are passionate about our mission to connect kids through tennis, and we look forward to meeting volunteers, families, and children on our courts across the country as we continue to grow.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Autism educational resources.</title>
-      <link>http://localhost:1414/autism-education/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/autism-education/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Autism resources for the newly diagnosed.</title>
-      <link>http://localhost:1414/autism-resources-newly-diagnosed/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/autism-resources-newly-diagnosed/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>I Might Be Autistic. How Can I Tell?</title>
-      <link>http://localhost:1414/i-might-be-autistic/</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1414/i-might-be-autistic/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Autism resources for newly diagnosed or self-identified with Autism.</title><link>https://autism-101.com/</link><description>Recent content on Autism resources for newly diagnosed or self-identified with Autism.</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Tue, 21 Jan 2025 00:00:00 -0600</lastBuildDate><atom:link href="https://autism-101.com/index.xml" rel="self" type="application/rss+xml"/><item><title>How The Autistic Savant Stereotype Is Harmful</title><link>https://autism-101.com/autism-blog/autistic-savant-stereotype-harmful/</link><pubDate>Mon, 26 Dec 2022 10:07:21 +0600</pubDate><guid>https://autism-101.com/autism-blog/autistic-savant-stereotype-harmful/</guid><description>&lt;p>I get it, autistic savants are fascinating. In the 1988 film Rain Man, which won the Academy Award for Best Picture, Best Director, Best Actor, and Best Screenplay, Dustin Hoffman plays Raymond Babbitt (Rain Man). He is an autistic savant who has been institutionalized in a mental hospital until his younger brother Charlie, played by Tom Cruise, breaks him out.&lt;/p>
+&lt;h2 class="h4 mb-4">Autistic Savant Stereotype&lt;/h2>
+&lt;p>In one famous scene, a waitress accidentally spills a box of toothpicks upon the floor, which she was attempting to hand to Raymond. He instantly counts all of the toothpicks.&lt;/p></description></item><item><title>Autism and Social Interactions</title><link>https://autism-101.com/autism-blog/autism-social-interactions/</link><pubDate>Sun, 25 Dec 2022 10:07:21 +0600</pubDate><guid>https://autism-101.com/autism-blog/autism-social-interactions/</guid><description>&lt;p>For many autistic people, social interactions with a neurotypical person can be fraught with anxiety. There are social norms and expectations, such as making and keeping eye contact, that for some of us prove difficult or even impossible. We might have trouble reading facial expressions and body language, or picking up on a person&amp;rsquo;s subtle tonal variation that could imply a completely different meaning to their words.&lt;/p>
+&lt;h2 class="h4 mb-4">Autism and Unpredictable Information&lt;/h2>
+&lt;p>Some conversations can turn into a firehose of unpredictable information, which many autistics struggle with. We may quickly become overwhelmed because we can&amp;rsquo;t keep up and process all of the information coming at us so fast.&lt;/p></description></item><item><title>Autism and Sensory Issues</title><link>https://autism-101.com/autism-blog/autism-and-sensory-issues/</link><pubDate>Sun, 05 Jun 2022 10:07:21 +0600</pubDate><guid>https://autism-101.com/autism-blog/autism-and-sensory-issues/</guid><description>&lt;p>My whole life I have struggled with the loudness of music and sounds. While at a movie or concert I often resort to putting both of my hands over my ears. I will look around and wonder why I am the only one in this large group of people that it bothers. How can they not hear how LOUD it is? Sensitivity to sounds also affects our sleep at night. Many of us suffer from insomnia.&lt;/p></description></item><item><title>About the Autism-101 website.</title><link>https://autism-101.com/about/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/about/</guid><description/></item><item><title>Autism Functioning Labels</title><link>https://autism-101.com/autism-functioning-labels/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/autism-functioning-labels/</guid><description>&lt;h2 class="h4 mb-4">What's The Big Deal?&lt;/h2>
+&lt;p>A common response autistic people get when disclosing they are autistic, is for the other person to remark on how &amp;ldquo;high-functioning&amp;rdquo; they are. It is implied that this is much better than being &amp;ldquo;low-functioning&amp;rdquo;, and that their autism can&amp;rsquo;t really be that bad. Because hey, isn&amp;rsquo;t everybody on the spectrum somewhere?&lt;/p>
+&lt;p>These &amp;ldquo;functioning labels&amp;rdquo; are harmful to autistic people and have been used in the past to keep us from receiving services we need.&lt;/p></description></item><item><title>Autism Glossary</title><link>https://autism-101.com/autism-glossary/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/autism-glossary/</guid><description>&lt;p>NOTE: some terms below may be offensive to autistic people, controversial, or are no longer in use. These are marked with an asterisk.&lt;/p>
+&lt;div class="table-responsive-lg">
+&lt;table class="table table-sm table-striped table-bordered">
+&lt;thead>
+&lt;tr>
+&lt;th scope="col">TERM&lt;/th>
+&lt;th scope="col">DEFINITION&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody class="table-group-divider">
+&lt;tr>
+&lt;td>AAC&lt;/td>
+&lt;td>AAC stands for Augmentative and Alternative Communication. It means using different ways to talk or share ideas when speaking with your voice is hard. Autistic people who use AAC communicate using tools or actions instead of talking out loud. AAC can be no-tech, low-tech, or high-tech. Examples: cards with symbols or picture boards, gestures and signs (ASL), speech devices or tablets.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ABA&lt;sup>*&lt;/sup>&lt;/td>
+&lt;td>ABA is a model of intervention focused on changing the external behaviors of autistic children, with the goal of making an autistic child look and act nonautistic. Ethical concerns have been raised within the autistic community as to how ABA and similar practices serve to “normalize” autistic children, via teaching children to hide their autistic traits. Hiding autistic traits has been linked to worse mental health outcomes and increased suicidality in autistic adults.&lt;sup id="_ref-1" class="reference">&lt;a href="#_note-1" data-toggle="tooltip" title="Applied Behavior Analysis">[1]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ableism&lt;/td>
+&lt;td>Discrimination or prejudice against individuals with disabilities. Ableism characterizes people as defined by their disabilities and inferior to the non-disabled.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ADA&lt;/td>
+&lt;td>Americans with Disabilities Act is a civil rights law passed in the U.S. (1990) that does not allow discrimination against people with disabilities in employment, public service, and public accommodations.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ADD (ADHD)&lt;/td>
+&lt;td>Attention Deficit Disorder is characterized by persistent impulsiveness, hyperactivity, and a very short attention span.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ADOS (ADOS-2)&lt;/td>
+&lt;td>The Autism Diagnostic Observation Schedule (ADOS) is a standardized diagnostic test for diagnosing and assessing autism, now in its second edition as of 2012. It is considered to be a "gold standard" in diagnosing Autism Spectrum Disorder (ASD).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alexithymia&lt;/td>
+&lt;td>The inability to identify and describe emotions experienced by oneself.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Allistic&lt;/td>
+&lt;td>Allistic simply means a non autistic person. It is a term autistic people came up with. Autism comes from the Greek word “autos”, meaning “self” while allistic is from the Greek word “allos”, meaning “other”.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Aphantasia&lt;/td>
+&lt;td>Aphantasia is the inability to voluntarily create mental images in one's mind.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Aphasia&lt;/td>
+&lt;td>Loss of ability to use or understand words.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Apraxia&lt;/td>
+&lt;td>Apraxia is having difficulty with voluntary movement, consisting of partial or total incapacity to execute purposeful movements, without impairment of muscular power, sensibility and coordination. The person has difficulty sequencing movements in the service of a goal. May be specific to speech.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ASC&lt;/td>
+&lt;td>Autistic Spectrum Condition is sometimes used by those outside the medical profession to describe someone with autism. The term ASD is looked upon as being demeaning since it uses the word "disorder" to describe autism. ASC is becoming more widespread and the medical community is re-evaluating the use of disorder in the DSM-5.&lt;sup id="_ref-2" class="reference">&lt;a href="#_note-2" data-toggle="tooltip" title="ASC">[2]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ASD&lt;/td>
+&lt;td>The autism spectrum is a range of neurodevelopmental conditions generally characterized by difficulties in social interactions and communication, repetitive behaviors, intense interests, and unusual responses to sensory stimuli. It is commonly referred to as autism or, in the context of a professional diagnosis, autism spectrum disorder (ASD). The term is now used less often because of its use of the negatively charged word "disorder" to describe autism. It is rapidly being replaced by ASC.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Asperger's Syndrome (Aspie)&lt;sup>*&lt;/sup>&lt;/td>
+&lt;td>Hans Asperger is credited with identifying autism in the 1940's. The term was used to refer to a form of autism where the autistic person has less support needs and much lower impairment of language. The term has fallen out of use since it was recently uncovered that he played a critical role in identifying disabled children that were sent to be euthanized or subjected to experimentation. The term has been removed from the DSM-5 and is due to be removed from the ICD-11.&lt;sup id="_ref-3" class="reference">&lt;a href="#_note-3" data-toggle="tooltip" title="Asperger's Syndrome">[3]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Associative Thinking&lt;/td>
+&lt;td>Associative thinking is a cognitive style where ideas and concepts connect in a non-linear, organic manner, allowing one thought to naturally lead to another. For many autistic individuals, this means their minds create rich, unexpected networks of connections that foster creative problem-solving and unique insights. &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AT&lt;/td>
+&lt;td>Assistive Technology: Electronic as well as non-electronic materials, equipment and devices designed to help people with disabilities play, learn, communicate, move around and carry out activities of daily living at home, at school, and in the community.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AuDHD&lt;/td>
+&lt;td>A person who has both Autism and ADHD.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autigender&lt;/td>
+&lt;td>A term for when a person perceives that their experience of gender is influenced by their autism. For example if something about their gender is influenced by a special interest, a sensory experience, or a disconnect from neurotypical definitions of gender.
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Autistic Ally&lt;/td>
+&lt;td>This refers to a non-autistic person who makes a conscious decision to support the autistic community, fight for autistic rights, and work against the oppression of autistic people. Anyone has the potential to be an ally. An ally can use their privilege to be powerful voices alongside autistic people.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Bottom-up Thinking&lt;/td>
+&lt;td>Bottom-up thinking is a cognitive processing style where one gathers information starting with raw sensory details and then gradually builds toward a broader understanding. For many autistic individuals, this means experiencing the world through a careful accumulation of precise data rather than immediately applying preconceived concepts.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Co-Occuring Conditions&lt;/td>
+&lt;td>Autistic people often experience other conditions such as: ADHD, anxiety, depression, epilepsy, gastrointestinal and immune function issues, metabolic issues, sleep issues, and others.&lt;/td>
+&lt;/tr>
+&lt;td>DDF&lt;/td>
+&lt;td>Difficulty Describing Feelings&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DIR&lt;/td>
+&lt;td>Developmental, Individual Differences, Relationship-based (DIR): An intervention framework that helps clinicians, parents and educators conduct a comprehensive assessment and develop an intervention program tailored to the unique challenges and strengths.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>DSM&lt;/td>
+&lt;td>The Diagnostic and Statistical Manual is a guide used by healthcare professionals when diagnosing various conditions. For each condition it details the symptoms or traits that must be present for a formal diagnosis to be given. It is reviewed and revised periodically and is currently on version 5. It is primarily used in the USA.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dyspraxia&lt;/td>
+&lt;td>The brain’s inability to plan muscle movements and carry them out.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Echolalia&lt;/td>
+&lt;td>Repeating back something said to you. Delayed Echolalia is repeating it later. Both behaviors are found in many autistics. &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EF&lt;/td>
+&lt;td>Executive function: The ability to plan, organize and follow through, as well as the ability to inhibit actions, delay responses, make appropriate choices and shift attention. Individuals with Autism, learning disabilities and other neurological conditions often have deficits in executive function, which is important to the attainment of goals.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EBI&lt;/td>
+&lt;td>Early Intensive Behavioral Intervention (EIBI): A fairly generic term for applied behavioral analysis (ABA-based) interventions, the focus is on very young children with Autism, usually younger than five, and often younger than three. The intensity of intervention is significant in number of hours and in the ratio of child to instructor.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EDS&lt;/td>
+&lt;td>Ehlers–Danlos Syndromes are a group of connective-tissue problems where symptoms include loose joints, joint pain, stretchy skin, and scars. Currently no cure is known and treatment is supportive in nature.&lt;sup id="_ref-4" class="reference">&lt;a href="#_note-4" data-toggle="tooltip" title="EDS">[4]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>EOT&lt;/td>
+&lt;td>Externally Oriented Thinking style&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>HFA&lt;sup>*&lt;/sup>&lt;/td>
+&lt;td>High-functioning Autism (HFA): Although not officially recognized as a diagnostic category, HFA refers to individuals with Autism who have near-average to above-average cognitive abilities and can communicate through receptive and expressive language. It has been highly criticized by the autistic community.&lt;sup id="_ref-5" class="reference">&lt;a href="#_note-5" data-toggle="tooltip" title="High-functioning Autism">[5]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Hyperlexia&lt;/td>
+&lt;td>A condition in which the main characteristics are an above average ability to read accompanied with a below average ability to understand spoken language.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ICD&lt;/td>
+&lt;td>The International Classification of Diseases is the World Health Organisation’s guide to health conditions. It is used globally. It contains information on diagnosing conditions, as well as how to manage, monitor or treat them where appropriate. The ICD is reviewed and revised periodically and is currently on version 10. Unlike the DSM, this current version still lists Asperger’s Syndrome. However, this will be removed in ICD-11 which is due to be is implemented in January 2022.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>IEE&lt;/td>
+&lt;td>Independent Education Evaluation (IEE): Assessment of a child requested by a parent who believes that the school did not conduct a proper evaluation.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>IFL&lt;/td>
+&lt;td>The phrased “disabled people” is an example of identity-first language. IFL, in contrast to people-first language (PFL), is the preferred terminology in Great Britain and by a number of U.S. disability activists. The reason many autistic people dislike people-first language is that they consider autism to be an inseparable part of who they are.&lt;sup id="_ref-6" class="reference">&lt;a href="#_note-6" data-toggle="tooltip" title="Identity-first Language">[6]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Infodumping&lt;/td>
+&lt;td>Infodumping is the act of sharing an overwhelming amount of detailed information about a specific topic—often a special interest—in one go. For many autistic individuals, it’s a natural and passionate form of communication that reflects deep engagement.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Internalized Ableism&lt;/td>
+&lt;td>Internalized ableism describes the process by which autistic individuals absorb negative societal messages about disability, leading them to doubt their own value and feel pressured to mask their authentic behaviors. This often results in lower self-esteem and a reluctance to seek accommodations, reinforcing feelings of inadequacy and isolation.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Interoception&lt;/td>
+&lt;td>Interoception is a lesser-known sense that helps you understand and feel what’s going on inside your body. People who struggle with the interoceptive sense may have trouble knowing when they feel hungry, full, hot, cold, or thirsty. Having trouble with this sense can also make self-regulation a challenge.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Intersectionality&lt;/td>
+&lt;td>Intersectionality considers how an individual can experience a variety of identities, be it around neurodiversity, race, gender, class, sexuality or otherwise.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Masking&lt;/td>
+&lt;td>Masking involves an autistic person making changes to their behaviour to disguise autistic traits and seem more like their non-autistic peers. Another term used for this is camouflaging. Sometimes masking is a conscious choice in that moment. At other times, autistic people may not realise they are masking. ’Unmasking’ is not as simple as an autistic person deciding to stop masking. They will likely need to spend time relearning who they truly are and want to be. It involves changing instinctive habits and thought patterns that have been developed through masking and so it is a difficult process.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Melatonin&lt;/td>
+&lt;td>Melatonin is naturally produced by the body to regulate the sleep-wake cycle. Its levels begin to rise shortly after nightfall, promoting sleep. A string of studies over the past decade suggest it also improves sleep in some children with autism.&lt;sup id="_ref-7" class="reference">&lt;a href="#_note-7" data-toggle="tooltip" title="Melatonin">[7]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Meltdown&lt;/td>
+&lt;td>A meltdown can be the result of an overwhelming situation. It can be the result of intense emotions and/or stimuli that are overwhelming or difficult to cope with. A meltdown becomes the involuntary response to these emotions or stimuli. It is more visible to others than a shutdown as it involves an outward reaction. This could be a verbal and/or physical reaction such as crying, screaming, repetitive movements, throwing items or hitting out.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Misokinesia&lt;/td>
+&lt;td>Misokinesia is defined as a strong negative affective or emotional response to the sight of someone else’s small and repetitive movements, such as seeing someone mindlessly fidgeting with a hand or foot.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Misophonia&lt;/td>
+&lt;td>Misophonia is characterized by the experience of strong negative emotions of anger and anxiety in response to certain everyday sounds, such as those generated by other people eating, drinking, and breathing.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Monotropism&lt;/td>
+&lt;td>Monotropism is an attention tunnel theory hypothesized to be the central cognitive strategy underlining autism. The key compenent is that the monotropic mind focuses its attention on a small number of interests at any time, tending to miss things outside of this attention tunnel.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Neurodiverse&lt;/td>
+&lt;td>This term is used to describe people that experience life differently from the majority due to neurological differences – like autistic people. It acknowledges that there can be vast differences in the way people think, behave and process information. By focussing on ‘difference’ rather than ‘deficits’, it acknowledges that difference can be positive and it removes the stigma associated with being different from the majority. Another term used is ‘neuro-atypical’.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Neurodiversity&lt;/td>
+&lt;td>The variation and differences in neurological structure and function that exist among human beings. As a term, it refers to the idea that differences in brain development and behavior are normal and not the result of mental disorders.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Neurotypical (NT)&lt;/td>
+&lt;td>A term commonly used by supporters of Neurodiversity to describe a person who “shows typical neurological behavior and development.” It refers to a person that general society would consider to have an “average” or “normal” (typical) brain (NT).&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>OCD&lt;/td>
+&lt;td>Obsessive Compulsive Disorder. An anxiety disorder, that is characterized by recurrent, time-consuming obsessive or compulsive behaviors that cause distress. The obsessions may be repetitive intrusive images, thoughts, or impulses.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>ODD&lt;/td>
+&lt;td>Oppositional Defiant Disorder is characterized by aggressiveness and a tendency to purposefully bother and irritate others as a recurrent pattern of negativistic behavior.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>OT&lt;/td>
+&lt;td>Occupational Therapy or Occupational Therapist. A therapist that focuses on daily living skills, sensory integration, self-help skills, playing, adaptive behavior and fine motor skills. An Occupational therapists would provide Sensory Integration Therapy.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PDA*&lt;/td>
+&lt;td>Pathological Demand Avoidance (PDA) is a set of personality and behavioral traits exhibited by autistic people who tend to refuse to cooperate with others’ requests. It is a contentious term especially in the medical community.&lt;sup id="_ref-8" class="reference">&lt;a href="#_note-8" data-toggle="tooltip" title="PDA">[8]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PECS&lt;/td>
+&lt;td>Picture Exchange Communication System (PECS): PECS is an alternative communication system that uses picture symbols. It is taught in six phases starting with a simple exchange of a picture symbol for a desired item. Individuals learn to use picture symbols to construct complete sentences, initiate communication, and answer direct questions.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Perseverate&lt;/td>
+&lt;td>Perseverate means “to repeat something insistently or redundantly.” Just like stimming, perseveration is not exclusive to people diagnosed with Autism, but it is a commonly observed behavior among that particular group. An example of perseveration would be repeatedly salting a piece of food until no salt is left in the container.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>PFL&lt;/td>
+&lt;td>People-first language (PFL), also called person-first language, is a type of linguistic prescription which puts a person before a diagnosis, describing what condition a person "has" rather than asserting what a person "is".&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Proprioception&lt;/td>
+&lt;td>Proprioception refers to a person’s awareness of where their body is positioned in their environment, and where their limits are in terms of their body and how much force is being applied to it. They can also struggle with how to regulate this. If people are hypo- or hypersensitive to this sense it will impact their coordination and how they interact with the world around them. Difficulties with fine motor skills are related to proprioception and this can impact a person’s ability to carry out day-to-day tasks such as writing or using cutlery. Poor gross motor skills impact on coordination of the body in larger movements such as dancing or running. A person may also have difficulty with placing objects or avoiding objects when moving.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prosody&lt;/td>
+&lt;td>When people talk, they do much more than merely speak words to convey their meaning. They will also vary their rhythm, loudness, tempo and pitch. These changes are known as prosody. Some autistic people find prosody difficult to hear, understand, or reproduce.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Prosopagnosia&lt;/td>
+&lt;td>Prosopagnosia, also known as face blindness, is a condition where someone can't recognise people's faces. Face blindness often affects people from birth and is usually a problem a person has for most or all of their life. It can have a severe impact on everyday life. Many people with prosopagnosia are not able to recognise family members, partners or friends. They may cope by using alternative strategies to recognise people, such as remembering the way they walk or their hairstyle, voice or clothing.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SBC&lt;sup>*&lt;/sup>&lt;/td>
+&lt;td>Simon Baron-Cohen is a British clinical psychologist and professor of developmental psychopathology at the University of Cambridge. He has often been criticized by the autistic community for many of his theories such as his "extreme male brain" theory of autism.&lt;sup id="_ref-9" class="reference">&lt;a href="#_note-9" data-toggle="tooltip" title="SBC">[9]&lt;/a>&lt;/sup>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SDAM&lt;/td>
+&lt;td>Severely Deficient Autobiographical Memory (SDAM) refers to a lifelong inability to vividly recollect or re-experience personal past events from a first-person perspective.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Selective Mutism&lt;/td>
+&lt;td>Selective mutism occurs where in certain situations a person becomes unable to speak. They may be able to speak verbally in some environments or to certain trusted people. However in others, anxiety or overwhelm can prevent the person from being able to speak. ‘Selective’ implies a choice but this is not the case. ‘Situational mutism’ has been suggested as a potential more appropriate term.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sensory Overload&lt;/td>
+&lt;td>Sensory overload occurs when sensory stimuli in a person’s environment become too overwhelming. This refers to the seven senses of touch, taste, sound, sight, smell, vestibular and proprioception. It can be a very overwhelming and anxiety-inducing experience. The autistic person will likely feel a need to get away from the environment or situation that has led to overload but may need support to do this.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Shutdown&lt;/td>
+&lt;td>Like a meltdown, a shutdown is another type of response to overwhelming emotions and/or stimuli. During a shutdown, the autistic person withdraws (either partially or completely) from the environment. They may physically remove themselves to a space they consider safe, or they may freeze in the current place and though they want to leave they are not able to. They may stop responding to communication from others.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SI&lt;/td>
+&lt;td>Sensory Integration (SI): This is a term applied to the way the brain processes sensory stimulation or sensation from the body and then translates that information into specific, planned and coordinated motor activity.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Special Interest&lt;/td>
+&lt;td>What differentiates this from a generic interest is the intensity of that interest. The topic of interest can be any subject at all, just as neurotypical people have a wide range of different interests. Some autistic people’s interests may draw more attention if they are not in line with neurotypical interests. Some autistic people keep the same interest throughout their life or for very long periods, whereas for others they may change more regularly.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spectrum&lt;/td>
+&lt;td>What the medical community refers to as Autism Spectrum Disorder. Many people picture the spectrum as a straight line, often with people that are perceived as needing more support on one end, and people perceived as needing less support on the other. This is not what was meant by the Autism Spectrum. The term spectrum was introduced to acknowledge that autistic people have difficulties or different experiences in common areas, but they are affected in different ways and to varying extents. Each autistic person’s experience is unique.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SPED&lt;/td>
+&lt;td>Special Education (SPED): Specialized and personalized instruction of a disabled child, designed in response to educational disabilities determined by an evaluation.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Spoons&lt;/td>
+&lt;td>Spoon theory is a metaphor describing the amount of physical and/or mental energy that a person has available for daily activities and tasks, and how it can become limited. It was coined by writer and blogger Christine Miserandino in 2003 as a way to express how it felt to have lupus; using spoons at a restaurant to represent units of energy that a person might have to a friend, she reduced the spoons to represent how chronic illness forced her to plan out days and actions in advance so as to try to not run out of energy. It has since been used to describe a wide range of disabilities, mental health issues, forms of marginalization, and other factors that might place an extra and often unseen burden on people living with them.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stimming&lt;/td>
+&lt;td>Autistic people have described stimming as being repetitive or rhythmic behaviours. Common words autistic people use to describe the feeling of stimming are often soothing, calming and comforting. Stimming can reduce anxiety and help autistic people cope with overwhelming situations, environments, and thoughts. Stimming can also be the result of positive emotions such as excitement.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Synesthesia&lt;/td>
+&lt;td>Synesthesia is a neurological phenomenon where the stimulation of one sensory or cognitive pathway automatically and involuntarily triggers experiences in another—such as seeing colors when hearing music or associating specific tastes with words. Some autistic individuals report synesthetic experiences, which can add a unique, enriched layer to how they perceive and interact with the world. &lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TEACHH&lt;/td>
+&lt;td>Treatment and Education of Autistic and Related Communication Handicapped Children (TEACCH) Model: A program of services, rather than a teaching method, in which respect for individual differences, respect and inclusion of parents and various professionals and input from individuals with Autism are considered in treatment and education. Developed at the University of North Carolina, Chapel Hill and takes a lifespan approach.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Theory Of Mind&lt;/td>
+&lt;td>The ability to understand that others have beliefs, desires and intentions that are different from one’s own.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vestibular Sense&lt;/td>
+&lt;td>This relates to sense of balance. Those experiencing hypersensitivity (awareness and experiences are heightened) may struggle to tolerate quick movements and could feel disorientated if, for example, jumping and leaving the ground. A person may appear ‘clumsy’, for example I lose my balance easily and this can lead to falls or accidents. Those with hyposensitivity (awareness and experiences are reduced), on the other hand, may gain pleasure from the feeling of movement and may not experience dizziness or nausea from activities such as spinning or swinging.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;h5 id="zapme">References&lt;/h5>
+&lt;ol class="references">
+&lt;li id="_note-1">&lt;a href="#_ref-1" class="uparrow">^&lt;/a>&lt;a href="https://en.wikipedia.org/wiki/Applied_behavior_analysis#Views_of_Autistic_community" rel="nofollow" class="external">"Applied behavior analysis"&lt;/a>. &lt;cite>Wikipedia,&lt;/cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-2">&lt;a href="#_ref-2" class="uparrow">^&lt;/a>&lt;span>Baron-Cohen, Simon (2015-05-14).&lt;/span> &lt;a href="https://insar.confex.com/imfar/2015/webprogram/Paper19861.html" rel="nofollow" class="external">"ASD vs. ASC: Is One Small Letter Important?"&lt;/a>. &lt;cite>Insar&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-3">&lt;a href="#_ref-3" class="uparrow">^&lt;/a>&lt;span>Reese, Hope (2018-05-22).&lt;/span> &lt;a href="https://www.vox.com/conversations/2018/5/22/17377766/asperger-nazi-rename-syndrome" rel="nofollow" class="external">"The disturbing history of Dr. Asperger and the movement to reframe the syndrome"&lt;/a>. &lt;cite>Vox&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-4">&lt;a href="#_ref-4" class="uparrow">^&lt;/a>&lt;a href="https://en.wikipedia.org/wiki/Ehlers–Danlos_syndromes" rel="nofollow" class="external">"Ehlers–Danlos syndromes"&lt;/a>. &lt;cite>Wikipedia,&lt;/cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-5">&lt;a href="#_ref-5" class="uparrow">^&lt;/a>&lt;span>Autism-101 (2022-11-1).&lt;/span> &lt;a href="https://autism-101.com/autism-functioning-labels/" rel="nofollow" class="external">"Autism Functioning Labels: Why They Are Not Helpful"&lt;/a>. &lt;cite>Autism-101&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-6">&lt;a href="#_ref-6" class="uparrow">^&lt;/a>&lt;span>Malone, Emerson (2021-07-06).&lt;/span> &lt;a href="https://www.buzzfeednews.com/article/emersonmalone/autism-neurodivergent-people-language" rel="nofollow" class="external">"How Autistic People Are Showing The Limitations Of Person-First Language"&lt;/a>. &lt;cite>BuzzFeed News&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-7">&lt;a href="#_ref-7" class="uparrow">^&lt;/a>&lt;span>Gholipour, Bahar (2017-11-10).&lt;/span> &lt;a href="https://www.spectrumnews.org/news/melatonin-gains-momentum-sleep-aid-people-autism/" rel="nofollow" class="external">"Melatonin gains momentum as sleep aid for people with autism"&lt;/a>. &lt;cite>Spectrum News&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-8">&lt;a href="#_ref-8" class="uparrow">^&lt;/a>&lt;span>Hess, Peter (2022-10-11).&lt;/span> &lt;a href="https://www.spectrumnews.org/news/pathological-demand-avoidance-in-autism-explained/" rel="nofollow" class="external">"Pathological demand avoidance in autism, explained"&lt;/a>. &lt;cite>Spectrum News&lt;/cite> Retrieved 2022-10-26.
+&lt;/li>
+&lt;li id="_note-9">&lt;a href="#_ref-9" class="uparrow">^&lt;/a>&lt;a href="https://en.wikipedia.org/wiki/Simon_Baron-Cohen#Reception" rel="nofollow" class="external">"Simon Baron-Cohen"&lt;/a>. &lt;cite>Wikipedia,&lt;/cite> Wikimedia Foundation (2022-10-21), Retrieved 2022-10-26.
+&lt;/li>
+&lt;/ol></description></item><item><title>Contact Us</title><link>https://autism-101.com/contact/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/contact/</guid><description>&lt;h2 class="h4 mb-4">How can I help you? Let me know!&lt;/h2>
+I will try my best to answer or point you in the right direction.
+&lt;ul>
+&lt;li>&lt;strong>Mail: contact AT autism-101.com&lt;/strong>&lt;/li>
+&lt;/ul></description></item><item><title>Jeff Owens</title><link>https://autism-101.com/author/jeff-owens/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/author/jeff-owens/</guid><description>&lt;p>Hi, I&amp;rsquo;m Jeff Owens, an Autistic person who is trying to make sense of the world and my place in it. I like to help other people when I am able. I love being a part of the Autistic community.&lt;/p></description></item><item><title>Privacy Policy</title><link>https://autism-101.com/privacy-policy/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/privacy-policy/</guid><description>&lt;p>This privacy policy (&amp;ldquo;policy&amp;rdquo;) will help you understand how Autism-101 (&amp;ldquo;us&amp;rdquo;, &amp;ldquo;we&amp;rdquo;, &amp;ldquo;our&amp;rdquo;) uses and protects the data you provide to us when you visit and use &lt;a href="https://autism-101.com">autism-101.com&lt;/a> (&amp;ldquo;website&amp;rdquo;, &amp;ldquo;service&amp;rdquo;).&lt;/p>
+&lt;p>We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page.&lt;/p></description></item><item><title>Sounds Autistic</title><link>https://autism-101.com/autistic-groups/sounds-autistic/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/autistic-groups/sounds-autistic/</guid><description>&lt;h2 class="h3 mb-3">About Sounds Autistic:&lt;/h2>
+The &lt;a href="https://www.facebook.com/groups/2223274367896109/" rel="noopener">Sounds Autistic I&amp;#39;m In&lt;/a> is a private Facebook group for autistic adults that are 18+ only. They welcome all who believe they are or may be autistic, a medical diagnosis is not required.
+&lt;h2 class="h3 mb-3">Sounds Autistic Overview&lt;/h2>
+&lt;a href="https://www.facebook.com/groups/2223274367896109/" rel="noopener">Sounds Autistic I&amp;#39;m In&lt;/a> has over 10 thousand members. Users can post to the group and expect to get great feedback and information. Some of the posting rules include: 
+&lt;ul>
+&lt;li>No promoting the medical model - No person first language, no functioning labels, no pathologising of traits, no support of neurotypical charities, no defending the Asperger&amp;rsquo;s label, no promoting ABA.&lt;/li>
+&lt;li>No punching down, minority voices come first - If you are in a position of power or privilege, do not try and speak over those with less, just as neurotypicals should not speak over autistics, majority autistic do not get a louder voice.&lt;/li>
+&lt;li>Respect the privacy of the group - No screenshots can be shared outside of the group, no member can be exposed as a member, nothing from inside the group should be shared or discussed outside of the group.&lt;/li>
+&lt;li>Accessibility is a must - If you are asked to add image descriptions, or to remove inaccessible backgrounds, you are required to do so. Modmins will write descriptions for you to add where possible.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://www.facebook.com/groups/2223274367896109/" rel="external">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img title="Sounds Autistic, I&amp;#39;m in is a Facebook group for autistic adults 18&amp;#43; only." loading="lazy" decoding="async" class=" " width="1197" height="565" src="https://autism-101.com/images/autistic-groups/group-3_hu_cc34dcb29e911ab4.webp" alt="Sounds Autistic I&amp;#39;m in Facebook Group" onerror="this.onerror='null';this.src='\/images\/autistic-groups\/group-3_hu_15f0b91c1e3abb81.jpg'">
+
+
+
+
+
+
+&lt;/a>&lt;/p></description></item><item><title>Terms of Service</title><link>https://autism-101.com/terms-conditions/</link><pubDate>Sat, 16 Apr 2022 00:00:00 -0500</pubDate><guid>https://autism-101.com/terms-conditions/</guid><description>&lt;p>Please read these terms of service (&amp;ldquo;terms&amp;rdquo;, &amp;ldquo;terms of service&amp;rdquo;) carefully before using the Autism-101 website (the &amp;ldquo;service&amp;rdquo;) operated by Autism-101 (&amp;ldquo;us&amp;rdquo;, &amp;lsquo;we&amp;quot;, &amp;ldquo;our&amp;rdquo;).&lt;/p>
+&lt;h2 class="h4 mb-4">Conditions of Use&lt;/h2>
+&lt;p>We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully. Links offsite are not to be construed as endorsement or acceptance of the ideas and opinions expressed therein.&lt;/p></description></item><item><title>Autism and Routines</title><link>https://autism-101.com/autism-blog/autism-and-routines/</link><pubDate>Sat, 16 Apr 2022 10:07:21 +0600</pubDate><guid>https://autism-101.com/autism-blog/autism-and-routines/</guid><description>&lt;p>There are many routines that I find myself doing. From wearing the same grey shirt every day to eating the same food. I will listen to the same song on repeat for days at a time.&lt;/p>
+&lt;h2 class="h4 mb-4">Diagnostic Criteria&lt;/h2>
+One of the primary diagnostic criteria for autism spectrum disorder (ASD) as described in the DSM-5 is that the individual shows restricted, repetitive patterns of behavior, interests, or activities. 
+&lt;blockquote>
+&lt;p>We prefer to have our daily routines so that we know what is going to happen each day.&lt;/p></description></item><item><title>Autism and Hyperfocus</title><link>https://autism-101.com/autism-blog/autism-and-hyperfocus/</link><pubDate>Sat, 02 Apr 2022 10:07:21 +0600</pubDate><guid>https://autism-101.com/autism-blog/autism-and-hyperfocus/</guid><description>&lt;p>One Autistic trait that I have is the ability to hyperfocus on something that I am really interested in. While many Autistic and ADHD people share this ability not all of us do. I’m reminded of a saying we like to use, “If you’ve met one Autistic person, you’ve met one Autistic person”. This means that we are all different, and though we might have some shared characteristics, many could be different.&lt;/p></description></item><item><title>Autastic</title><link>https://autism-101.com/autistic-groups/autastic/</link><pubDate>Fri, 28 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/autastic/</guid><description>&lt;h2 class="h3 mb-3">About Autastic:&lt;/h2>
+&lt;a href="https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual" rel="noopener">Autastic&lt;/a> exists as a home for the uncounted legion of adults worldwide who learned, well into adulthood, that they are (or might be) autistic. Created #ByUsForUs, everything here is to educate, inspire, and support those of us who live outside the norm. We are autastic.
+&lt;br>&lt;br>
+&lt;a href="https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual" rel="external">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img title="Autastic is a website for late diagnosed autistic people" loading="lazy" decoding="async" class=" " width="1195" height="599" src="https://autism-101.com/images/autistic-groups/group-1_hu_c9b91963ef506304.webp" alt="Autastic is a website for late diagnosed autistic people" onerror="this.onerror='null';this.src='\/images\/autistic-groups\/group-1_hu_f60f20265fa6625a.jpg'">
+
+
+
+
+
+
+&lt;/a>
+&lt;h2 class="h3 mb-3">Autastic Overview&lt;/h2>
+&lt;a href="https://community.autastic.com/share/VkbtCnoOLSOfSiEa?utm_source=manual" rel="noopener">Autastic&lt;/a> is a gender, orientation, identity, body, and ability-accepting space. It is part of the &lt;a href="https://www.mightynetworks.com" rel="noopener">Mighty Networks&lt;/a> online community system which has built-in features such as direct messages, and community discussion threads based on categories and circles. 
+&lt;p>There is a free mobile application that works on both phones and tablets. Users must be pre-approved to gain access to the site. You just have to be either self-identified or clinically diagnosed as autistic to gain entry. Most of the site is free, however their are seminar type courses available for purchase as well as an online store.&lt;/p></description></item><item><title>Wrong Planet</title><link>https://autism-101.com/autistic-groups/wrong-planet/</link><pubDate>Tue, 25 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/wrong-planet/</guid><description>&lt;h2 class="h3 mb-3">About Wrong Planet:&lt;/h2>
+&lt;a href="https://wrongplanet.net/" rel="noopener">Wrong Planet&lt;/a> is a web community designed for autistic individuals as well as parents and professionals of those with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences. You will find many differing opinions on almost every topic, and finding like-minded people on the site can be quite challenging. I've had some autistic people tell me to include this warning, as they have had some bad experiences on the site. The site also provides a discussion forum where members communicate with each other, and a section with exclusive articles, how-to guides, and blogging features.
+&lt;h2 class="h3 mb-3">Wrong Planet Overview&lt;/h2>
+&lt;a href="https://wrongplanet.net/" rel="noopener">Wrong Planet&lt;/a> has lots of content divided into various sections. The most active content if found underneath the Forums section where users can find discussion threads on many categories such as general autism discussion, getting to know each other, autism politics and activism, news and current events, and many more. 
+&lt;h2 class="h3 mb-3">Wrong Planet Site Sections&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://wrongplanet.net/forums/" rel="noopener">Forums&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/videos/" rel="noopener">Videos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/friends-relationships/" rel="noopener">Friends &amp;amp; Relationships&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/community-newsmakers/" rel="noopener">Community Newsmakers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/school-jobs/" rel="noopener">School &amp;amp; Jobs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/parenting/" rel="noopener">Parenting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/autism-news/" rel="noopener">Autism News&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://wrongplanet.net/category/therapies/" rel="noopener">Therapies &amp;amp; Services&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://wrongplanet.net/" rel="external">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img title="Wrong Planet is a web community designed for autistic individuals (and parents / professionals of those) with Autism, Asperger’s Syndrome, ADHD, PDDs, and other neurological differences." loading="lazy" decoding="async" class=" " width="1197" height="565" src="https://autism-101.com/images/autistic-groups/group-4_hu_61a1c0b8a5c7539.webp" alt="Wrong Planet" onerror="this.onerror='null';this.src='\/images\/autistic-groups\/group-4_hu_b51433db63a3b269.jpg'">
+
+
+
+
+
+
+&lt;/p></description></item><item><title>Autistic Adults</title><link>https://autism-101.com/autistic-groups/autistic-adults/</link><pubDate>Mon, 24 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/autistic-adults/</guid><description>&lt;h2 class="h3 mb-3">About Autistic Adults:&lt;/h2>
+&lt;a href="https://www.facebook.com/groups/2036299673287000/" rel="noopener">Autistic Adults&lt;/a> is a Facebook group that is for autistic adults that would like help and support to deal with anxiety, depression, and other emotional support. It is a friendly group aimed at helping each other, sharing tips and tricks, or just venting about feelings. They are inclusive of all people.
+&lt;h2 class="h3 mb-3">Autistic Adults Overview&lt;/h2>
+&lt;a href="https://www.facebook.com/groups/2036299673287000/" rel="noopener">Autistic Adults&lt;/a> has over 8 thousand members. Every person is welcome here no matter their religion, political views, colour of their skin, gender, or lifestyle choice. They accept all ASD adults. They accept self-diagnosis and professional diagnosis. Denial of the validity of a person's form of diagnosis will result in a ban. 
+&lt;p>Some of the posting rules include:&lt;/p></description></item><item><title>Meetup</title><link>https://autism-101.com/autistic-groups/meetup/</link><pubDate>Sun, 23 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/meetup/</guid><description>&lt;h2 class="h3 mb-3">About Meetup:&lt;/h2>
+&lt;a href="https://www.meetup.com/" rel="noopener">Meetup&lt;/a> does have some autistic support groups and it is worth doing a search for groups in your area to see if there is one near you. 
+&lt;p>One example meetup group is the &lt;a href="https://www.meetup.com/dfwasg/" rel="noopener">DFW Autistic Support Group&lt;/a> which is an informal group that offers advocacy, support, and social opportunities for autistic adults and adolescents in the Dallas and Fort Worth area in Texas.&lt;/p>
+&lt;p>Though &lt;a href="https://www.meetup.com/dfwasg/" rel="noopener">DFW Autistic Support Group&lt;/a> meetings are more focused on autism, neurodivergent and allistic allies are always welcome to attend.&lt;/p></description></item><item><title>Autism Forums</title><link>https://autism-101.com/autistic-groups/autism-forums/</link><pubDate>Sat, 22 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/autism-forums/</guid><description>&lt;h2 class="h3 mb-3">About Autism Forums:&lt;/h2>
+&lt;a href="https://www.autismforums.com/" rel="noopener">Autism Forums&lt;/a> is a friendly forum to discuss Aspergers Syndrome, Autism, High Functioning Autism and related conditions.
+&lt;p>&lt;a href="https://www.autismforums.com/" rel="external">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img title="Autism Forums" loading="lazy" decoding="async" class=" " width="1200" height="606" src="https://autism-101.com/images/autistic-groups/group-7_hu_f2a64be74078ea18.webp" alt="Autism Forums" onerror="this.onerror='null';this.src='\/images\/autistic-groups\/group-7_hu_ce910cd946466bf2.jpg'">
+
+
+
+
+
+
+&lt;/a>&lt;/p>
+&lt;h2 class="h3 mb-3">Autism Forums Overview&lt;/h2>
+&lt;a href="https://www.autismforums.com/" rel="noopener">Autism Forums&lt;/a> has discussion sections on &lt;a href="https://www.autismforums.com/#autism-spectrum-discussions.1" rel="noopener">Autism Spectrum&lt;/a> topics such as Education &amp; Employment, Obsessions and Interests, and Friends, Family &amp; Social Skills. The site includes member chat with both direct messaging and chat threads included.
+&lt;p>An Autism Resources section includes books, blogs, commercial resources, education resources, online communities, non-profit charities, and healthcare services.&lt;/p></description></item><item><title>ACEing Autism</title><link>https://autism-101.com/autistic-groups/aceing-autism/</link><pubDate>Fri, 21 Jan 2022 00:00:00 -0600</pubDate><guid>https://autism-101.com/autistic-groups/aceing-autism/</guid><description>&lt;h2 class="h3 mb-3">About ACEing Autism:&lt;/h2>
+&lt;a href="https://aceingautism.org/" rel="noopener">ACEing Autism&lt;/a> is on a mission for children with autism to grow, develop and benefit from social connections and fitness through affordable tennis programming.
+&lt;p>&lt;a href="https://aceingautism.org/" rel="external">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;img title="ACEing Autism" loading="lazy" decoding="async" class=" " width="1200" height="606" src="https://autism-101.com/images/autistic-groups/group-8_hu_7c61c417676191df.webp" alt="ACEing Autism" onerror="this.onerror='null';this.src='\/images\/autistic-groups\/group-8_hu_2df143dbb12c8af3.jpg'">
+
+
+
+
+
+
+&lt;/a>&lt;/p>
+&lt;h2 class="h3 mb-3">ACEing Autism Overview&lt;/h2>
+&lt;a href="https://aceingautism.org/" rel="noopener">ACEing Autism&lt;/a> has been featured on the Tennis Channel, and in April 2014 Head Penn became an official equipment supplier, providing all tennis equipment for our children to use during their sessions.
+&lt;p>We currently service more than 500 children with autism across 80 locations nationwide. We are passionate about our mission to connect kids through tennis, and we look forward to meeting volunteers, families, and children on our courts across the country as we continue to grow.&lt;/p></description></item><item><title>Autism educational resources.</title><link>https://autism-101.com/autism-education/</link><pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate><guid>https://autism-101.com/autism-education/</guid><description/></item><item><title>Autism resources for the newly diagnosed.</title><link>https://autism-101.com/autism-resources-newly-diagnosed/</link><pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate><guid>https://autism-101.com/autism-resources-newly-diagnosed/</guid><description/></item><item><title>I Might Be Autistic. How Can I Tell?</title><link>https://autism-101.com/i-might-be-autistic/</link><pubDate>Wed, 14 Jul 2021 00:00:00 -0500</pubDate><guid>https://autism-101.com/i-might-be-autistic/</guid><description/></item></channel></rss>
