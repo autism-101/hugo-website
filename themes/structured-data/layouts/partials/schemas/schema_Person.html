@@ -1,5 +1,5 @@
 {{ if isset .Params "author" }}
-{{ $author := index .Site.Data.person .Params.author }}
+{{ $author := index hugo.Data.person .Params.author }}
 <script type="application/ld+json">
 {
 	"@context": "http://www.schema.org",

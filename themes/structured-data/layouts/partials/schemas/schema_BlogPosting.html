@@ -10,11 +10,11 @@
 		"dateCreated": "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
 		"datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
 		"dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-		"inLanguage": "{{ .Site.LanguageCode }}",
+		"inLanguage": "{{ .Site.Language.Locale }}",
 		"isFamilyFriendly": "true",
 		"copyrightYear": "{{ .PublishDate.Format "2006" | safeHTML }}",
 		"copyrightHolder": "{{ .Site.Params.name }}",
-		{{- if isset .Params "author" }}{{ $author := index .Site.Data.person .Params.author -}}
+		{{- if isset .Params "author" }}{{ $author := index hugo.Data.person .Params.author -}}
 		"accountablePerson": {
 			"@type": "Person",
 			"name": "{{ $author.name }}",

@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Site'
+[sitemap]
+  ChangeFreq = "monthly"
+  Priority = "1"

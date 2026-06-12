@@ -408,7 +408,7 @@ product_info:
   - image: "images/anns-autism-blog.jpg"
     title: "AnnsAutism.Blogspot.com"
     content : "
-    <a href=\"http://annsautism.blogspot.com\" text=\"Anns Autism Blog\">Ann\'s Autism Blog</a> is run by Ann Memmott an, \"Autistic autism professional. National and international speaker. Post Graduate Certificate - autism. Associate, AT-Autism and NDTi 25 years of working alongside autistic people across a wide variety of settings. Trainer, consultant, speaker, lecturer. Working with NHS teams as an external adviser. Previous work as charity Trustee and School Governor.\"
+    <a href=\"http://annsautism.blogspot.com\" text=\"Anns Autism Blog\">Ann&rsquo;s Autism Blog</a> is run by Ann Memmott an, \"Autistic autism professional. National and international speaker. Post Graduate Certificate - autism. Associate, AT-Autism and NDTi 25 years of working alongside autistic people across a wide variety of settings. Trainer, consultant, speaker, lecturer. Working with NHS teams as an external adviser. Previous work as charity Trustee and School Governor.\"
 
     <br>
 

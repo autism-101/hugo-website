@@ -39,7 +39,7 @@
     "dateCreated":"{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
     "datePublished":"{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
     {{ if isset .Params "author" }}
-    {{ $author := index .Site.Data.person .Params.author }}
+    {{ $author := index hugo.Data.person .Params.author }}
     "author":"{{ $author.name }}",
     "creator":"{{ $author.name }}",
     {{ end }}
