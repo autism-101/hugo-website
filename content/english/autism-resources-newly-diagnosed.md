@@ -322,6 +322,12 @@ product_info:
     <strong>Stimpunks</strong> exists for the direct support and mutual aid of neurodivergent and disabled people.
     "
 
+  - image: "images/nap-lab.webp"
+    title: "NapLab.com"
+    content : "
+    <a href=\"https://naplab.com/guides/asd-sleep-guide/\" text=\"Nap Lab\">Nap Lab</a> has some good information regarding sleeping issues many autistic people deal with like insomnia and sleep apnea as well as a bunch of additional resource links from adult autistics and their experiences with sleeping issues. 
+    "
+
   - image: "images/coupon-follow.jpg"
     title: "CouponFollow.com"
     content : "
