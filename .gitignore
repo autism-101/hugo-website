@@ -5,3 +5,5 @@ AGENTS.md
 
 # Hugo generated resource cache
 /resources/_gen/
+
+/bigspring-hugo/
