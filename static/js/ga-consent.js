@@ -1,5 +1,5 @@
 (function () {
-  const GA_MEASUREMENT_ID = "G-GWPG33JZ5J";
+  const GA_MEASUREMENT_ID = "G-713X8P7W8K";
   const CONSENT_KEY = "autism101_cookie_consent";
   const CONSENT_GRANTED = "granted";
   const CONSENT_DENIED = "denied";
