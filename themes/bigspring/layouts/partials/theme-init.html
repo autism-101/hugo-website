@@ -1,0 +1,20 @@
+{{ if site.Params.theme_switcher }}
+<script>
+  (() => {
+    let darkMode = {{ if eq site.Params.theme_default "dark" }}true{{ else }}false{{ end }};
+    {{ if eq site.Params.theme_default "automatic" }}
+    darkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    {{ end }}
+
+    try {
+      const savedTheme = localStorage.getItem('theme');
+      if (savedTheme === 'dark') darkMode = true;
+      else if (savedTheme === 'light') darkMode = false;
+    } catch (error) {
+      // Use the configured default when storage is unavailable.
+    }
+
+    document.body.classList.toggle('dark', darkMode);
+  })();
+</script>
+{{ end }}
