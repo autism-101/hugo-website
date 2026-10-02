@@ -74,7 +74,7 @@ about_this_product:
     content: "One of the hangouts for Autistics is Twitter. We often have live Twitter Spaces where we can talk to each other and offer support on a wide range of topics. 
     <br><br>
     
-   <a href='https://mobile.x.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a> - our Twitter List with over a 1,000 autistic and neurodivergent people. A firehose of autistic goodness!
+   <a href='https://mobile.x.com/i/lists/1510396142621757445'>Autism-101 Twitter List</a> - our Twitter List of autistic and neurodivergent people. A firehose of autistic goodness!
 
    <br><br>
    Some of the more popuplar Twitter hashtags include:
@@ -167,15 +167,25 @@ about_this_product:
 
     * <a href='https://www.youtube.com/c/AspergersfromtheInside'>Autism From The Inside</a>    
 
-    * <a href='https://www.youtube.com/@Kaelynnism'>Kaelynn Partlow</a>
+    * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
+
+    * <a href='https://www.youtube.com/@Auticate'>Auticate with Chris & Debby</a>    
+
+    * <a href='https://www.youtube.com/@Ember_Green'>Ember Green</a>    
+
+    * <a href='https://www.youtube.com/@autisticjenny'>Autistic Jenny</a>    
+
+    * <a href='https://www.youtube.com/@OliviaHops'>Olivia Hops</a>    
+
+    * <a href='https://www.youtube.com/@MomontheSpectrum'>Mom on the Spectrum</a>    
+
+    * <a href='https://www.youtube.com/channel/UCDz996l_rUM4Euut3-3a6xw'>Autistamatic</a>    
 
     * <a href='https://www.youtube.com/channel/UCzske-KMAJYQn84rz6oD_yA'>Purple Ella</a>  
 
     * <a href='https://www.youtube.com/channel/UCdaQVw-dxYuZb2GXHL7LSjA'>Neurodivergent Rebel</a>
 
-    * <a href='https://www.youtube.com/c/YoSamdySam'>Yo Samdy Sam</a>
-
-    * <a href='https://www.youtube.com/@Ember_Green'>Ember Green</a>    
+    * <a href='https://www.youtube.com/@Autistic_AF'>Autistic AF</a>
 
     * <a href='https://www.youtube.com/c/IndieAndy'>Indie Andy</a>    
 
